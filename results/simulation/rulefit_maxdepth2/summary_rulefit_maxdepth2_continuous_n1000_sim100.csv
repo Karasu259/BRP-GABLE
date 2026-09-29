@@ -1,0 +1,5 @@
+"Outcome","Scenario","Scenario_name","method","metric_name","metric_mean","metric_sd","metric_median","final_term_count_mean","final_term_count_sd","degree1_proportion_mean","degree1_proportion_sd","n_success","n_total"
+"continuous",1,"Purely rule-based","RuleFit (max depth 2)","MSE",1.2747048639644,0.0977131724231031,1.26634413212928,62.03,7.00282049959121,0.0494052901597198,0.0256337807763741,100,100
+"continuous",2,"Purely linear","RuleFit (max depth 2)","MSE",1.44844580459283,0.121153920401534,1.45270747086738,107.85,10.2320303187806,0.0174827211020656,0.0179887297941214,100,100
+"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)","MSE",1.34689355431249,0.0999115047330393,1.3454243322744,97.49,10.637740133671,0.00991149438267524,0.0115887956951362,100,100
+"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)","MSE",4.28780995972718,0.832669630792558,4.33745718780007,20.55,8.78632431392644,0.3997108829188,0.156945338477747,100,100

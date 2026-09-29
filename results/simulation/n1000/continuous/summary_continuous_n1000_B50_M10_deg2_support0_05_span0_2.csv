@@ -1,0 +1,29 @@
+"Outcome","Scenario","Scenario_name","method","metric_value.mean","metric_value.sd","metric_value.median","metric_value.n"
+"continuous",3,"Mixed linear and rule-based","BRP-GABLE full",  1.27106237,  0.10230039,  1.26565373,100.00000000
+"continuous",2,"Purely linear","BRP-GABLE full",  1.21963436,  0.10237143,  1.21775107,100.00000000
+"continuous",1,"Purely rule-based","BRP-GABLE full",  1.21284351,  0.09945644,  1.19116152,100.00000000
+"continuous",4,"Smooth nonlinear misspecified","BRP-GABLE full",  2.10674361,  0.18481478,  2.09621283,100.00000000
+"continuous",3,"Mixed linear and rule-based","BRP-GABLE rule-only",  1.63547858,  0.14772788,  1.61023719,100.00000000
+"continuous",2,"Purely linear","BRP-GABLE rule-only",  1.97155958,  0.19704515,  1.95085809,100.00000000
+"continuous",1,"Purely rule-based","BRP-GABLE rule-only",  1.20328990,  0.10383372,  1.18465133,100.00000000
+"continuous",4,"Smooth nonlinear misspecified","BRP-GABLE rule-only",  2.11722525,  0.18993853,  2.10249349,100.00000000
+"continuous",3,"Mixed linear and rule-based","GABLE",  2.38496016,  0.15104591,  2.38856221,100.00000000
+"continuous",2,"Purely linear","GABLE",  4.02373712,  0.26069644,  4.02994911,100.00000000
+"continuous",1,"Purely rule-based","GABLE",  2.16153499,  0.17277983,  2.13720912,100.00000000
+"continuous",4,"Smooth nonlinear misspecified","GABLE",  4.44108156,  0.30991835,  4.40447976,100.00000000
+"continuous",3,"Mixed linear and rule-based","GBM",  1.58777244,  0.12441038,  1.57439987,100.00000000
+"continuous",2,"Purely linear","GBM",  1.82264391,  0.13412025,  1.81082354,100.00000000
+"continuous",1,"Purely rule-based","GBM",  1.51159882,  0.12448131,  1.50894398,100.00000000
+"continuous",4,"Smooth nonlinear misspecified","GBM",  2.45794087,  0.18498593,  2.43705436,100.00000000
+"continuous",3,"Mixed linear and rule-based","Linear",  1.64652454,  0.10226894,  1.64763090,100.00000000
+"continuous",2,"Purely linear","Linear",  1.03753392,  0.05858571,  1.03284048,100.00000000
+"continuous",1,"Purely rule-based","Linear",  3.47007547,  0.22587166,  3.47521271,100.00000000
+"continuous",4,"Smooth nonlinear misspecified","Linear",  5.99084915,  0.38020112,  5.99897186,100.00000000
+"continuous",3,"Mixed linear and rule-based","Random forest",  1.96760978,  0.16126385,  1.95036356,100.00000000
+"continuous",2,"Purely linear","Random forest",  2.58830488,  0.18986749,  2.56598123,100.00000000
+"continuous",1,"Purely rule-based","Random forest",  1.92145163,  0.17588724,  1.90953517,100.00000000
+"continuous",4,"Smooth nonlinear misspecified","Random forest",  3.17067091,  0.23071256,  3.14666188,100.00000000
+"continuous",3,"Mixed linear and rule-based","RuleFit",  1.36775596,  0.10535261,  1.35835715,100.00000000
+"continuous",2,"Purely linear","RuleFit",  1.46737084,  0.12377388,  1.46406670,100.00000000
+"continuous",1,"Purely rule-based","RuleFit",  1.27518592,  0.09432883,  1.26497637,100.00000000
+"continuous",4,"Smooth nonlinear misspecified","RuleFit",  4.20850415,  0.82429979,  4.18609637,100.00000000

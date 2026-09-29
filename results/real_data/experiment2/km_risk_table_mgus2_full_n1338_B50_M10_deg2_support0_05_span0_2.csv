@@ -1,0 +1,31 @@
+"rule_id","rule","group","time","n_risk"
+"R1","age <= 73 AND hgb > 11.7","Not satisfied",0,720
+"R1","age <= 73 AND hgb > 11.7","Not satisfied",100,187
+"R1","age <= 73 AND hgb > 11.7","Not satisfied",200,12
+"R1","age <= 73 AND hgb > 11.7","Not satisfied",300,0
+"R1","age <= 73 AND hgb > 11.7","Not satisfied",400,0
+"R1","age <= 73 AND hgb > 11.7","Satisfied",0,618
+"R1","age <= 73 AND hgb > 11.7","Satisfied",100,353
+"R1","age <= 73 AND hgb > 11.7","Satisfied",200,110
+"R1","age <= 73 AND hgb > 11.7","Satisfied",300,12
+"R1","age <= 73 AND hgb > 11.7","Satisfied",400,1
+"R2","age <= 75 AND creat <= 1.2","Not satisfied",0,717
+"R2","age <= 75 AND creat <= 1.2","Not satisfied",100,189
+"R2","age <= 75 AND creat <= 1.2","Not satisfied",200,20
+"R2","age <= 75 AND creat <= 1.2","Not satisfied",300,0
+"R2","age <= 75 AND creat <= 1.2","Not satisfied",400,0
+"R2","age <= 75 AND creat <= 1.2","Satisfied",0,621
+"R2","age <= 75 AND creat <= 1.2","Satisfied",100,351
+"R2","age <= 75 AND creat <= 1.2","Satisfied",200,102
+"R2","age <= 75 AND creat <= 1.2","Satisfied",300,12
+"R2","age <= 75 AND creat <= 1.2","Satisfied",400,1
+"R3","age <= 72 AND hgb > 11.1","Not satisfied",0,742
+"R3","age <= 72 AND hgb > 11.1","Not satisfied",100,197
+"R3","age <= 72 AND hgb > 11.1","Not satisfied",200,12
+"R3","age <= 72 AND hgb > 11.1","Not satisfied",300,0
+"R3","age <= 72 AND hgb > 11.1","Not satisfied",400,0
+"R3","age <= 72 AND hgb > 11.1","Satisfied",0,596
+"R3","age <= 72 AND hgb > 11.1","Satisfied",100,343
+"R3","age <= 72 AND hgb > 11.1","Satisfied",200,110
+"R3","age <= 72 AND hgb > 11.1","Satisfied",300,12
+"R3","age <= 72 AND hgb > 11.1","Satisfied",400,1

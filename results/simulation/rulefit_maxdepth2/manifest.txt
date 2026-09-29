@@ -1,0 +1,42 @@
+timestamp=2026-09-14 10:32:44 JST
+pre_version=1.0.7
+main_rulefit_maxdepth=3
+sensitivity_rulefit_maxdepth=2
+all_other_pre_parameters=package_defaults
+same_data_split_and_rulefit_seeds_as_main_simulation=TRUE
+outcomes=binary,continuous,survival
+scenarios=1,2,3,4
+n_sim_each=100
+n=1000
+train_fraction=0.5
+workers=20
+R version 4.4.2 (2024-10-31 ucrt)
+Platform: x86_64-w64-mingw32/x64
+Running under: Windows 11 x64 (build 26200)
+
+Matrix products: default
+
+
+locale:
+[1] C
+system code page: 65001
+
+time zone: Asia/Tokyo
+tzcode source: internal
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] doRNG_1.8.6.3  rngtools_1.5.2 foreach_1.5.2 
+
+loaded via a namespace (and not attached):
+ [1] doParallel_1.0.17  partykit_1.2-27    cli_3.6.6          rlang_1.2.0       
+ [5] Formula_1.2-5      stringi_1.8.4      MatrixModels_0.5-4 glue_1.8.0        
+ [9] libcoin_1.0-10     glmnet_4.1-10      grid_4.4.2         earth_5.3.5       
+[13] lifecycle_1.0.4    mvtnorm_1.3-3      stringr_1.6.0      pre_1.0.7         
+[17] compiler_4.4.2     codetools_0.2-20   Rcpp_1.0.14        digest_0.6.37     
+[21] lattice_0.22-6     pROC_1.19.0.1      parallel_4.4.2     splines_4.4.2     
+[25] inum_1.0-5         shape_1.4.6.1      magrittr_2.0.3     rpart_4.1.24      
+[29] Matrix_1.7-1       tools_4.4.2        plotmo_3.6.4       plotrix_3.8-4     
+[33] iterators_1.0.14   survival_3.7-0    

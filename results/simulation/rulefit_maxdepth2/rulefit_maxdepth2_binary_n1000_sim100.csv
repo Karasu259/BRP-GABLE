@@ -1,0 +1,401 @@
+"Sim","Outcome","Scenario","Scenario_name","method","fit_ok","metric_name","metric_value","elapsed_time","error_message","n_rules_total","n_rule_terms_selected","n_linear_selected","n_rules_deg1","n_rules_deg2","n_rules_deg3","n_rules_deg4","n_rules_deg5plus","prop_deg1","prop_deg2","prop_deg_le2","avg_rule_degree"
+1,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.888581833416587,13.08,NA,39,39,0,0,39,0,0,0,0,1,1,2
+2,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.873038870389344,12.27,NA,47,47,0,3,44,0,0,0,0.0638297872340425,0.936170212765957,1,1.93617021276596
+3,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.846418567426971,12.77,NA,41,41,0,1,40,0,0,0,0.024390243902439,0.975609756097561,1,1.97560975609756
+4,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.878458846944016,11.96,NA,33,33,0,0,33,0,0,0,0,1,1,2
+5,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.889047136259032,12.84,NA,36,36,0,0,36,0,0,0,0,1,1,2
+6,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.872455716586151,13.54,NA,34,34,0,0,34,0,0,0,0,1,1,2
+7,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.872630370082816,14.69,NA,37,37,0,0,37,0,0,0,0,1,1,2
+8,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.836065837013248,14.83,NA,34,34,0,1,33,0,0,0,0.0294117647058824,0.970588235294118,1,1.97058823529412
+9,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.825798470535313,13.31,NA,31,31,0,1,30,0,0,0,0.032258064516129,0.967741935483871,1,1.96774193548387
+10,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.850995349136613,13.06,NA,40,40,0,1,39,0,0,0,0.025,0.975,1,1.975
+11,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.843267267846522,13.03,NA,32,32,0,2,30,0,0,0,0.0625,0.9375,1,1.9375
+12,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.875400102426221,13.86,NA,49,49,0,1,48,0,0,0,0.0204081632653061,0.979591836734694,1,1.97959183673469
+13,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.872012987012987,12.77,NA,22,22,0,1,21,0,0,0,0.0454545454545455,0.954545454545455,1,1.95454545454545
+14,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.864792481878248,14.53,NA,39,39,0,0,39,0,0,0,0,1,1,2
+15,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.85564,13.4,NA,38,38,0,0,38,0,0,0,0,1,1,2
+16,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.89010101010101,13.55,NA,38,38,0,0,38,0,0,0,0,1,1,2
+17,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.879886078177251,13.48,NA,35,35,0,0,35,0,0,0,0,1,1,2
+18,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.853523928703213,12.54,NA,44,44,0,0,44,0,0,0,0,1,1,2
+19,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.881456413210445,11.62,NA,37,37,0,2,35,0,0,0,0.0540540540540541,0.945945945945946,1,1.94594594594595
+20,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.874612605379366,14.04,NA,36,36,0,1,35,0,0,0,0.0277777777777778,0.972222222222222,1,1.97222222222222
+21,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.87819797979798,12.3,NA,35,35,0,1,34,0,0,0,0.0285714285714286,0.971428571428571,1,1.97142857142857
+22,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.865655558414822,13.22,NA,33,33,0,1,32,0,0,0,0.0303030303030303,0.96969696969697,1,1.96969696969697
+23,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.844577907498877,12.78,NA,33,33,0,0,33,0,0,0,0,1,1,2
+24,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.871636555833173,13.33,NA,37,37,0,0,37,0,0,0,0,1,1,2
+25,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.875349658929185,13.49,NA,39,39,0,0,39,0,0,0,0,1,1,2
+26,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.847576203893443,13.6,NA,39,39,0,1,38,0,0,0,0.0256410256410256,0.974358974358974,1,1.97435897435897
+27,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.899261340826977,13.38,NA,45,45,0,1,44,0,0,0,0.0222222222222222,0.977777777777778,1,1.97777777777778
+28,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.871423771121352,12.96,NA,36,36,0,0,36,0,0,0,0,1,1,2
+29,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.872074208173793,13.11,NA,28,28,0,1,27,0,0,0,0.0357142857142857,0.964285714285714,1,1.96428571428571
+30,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.87400641025641,12.22,NA,27,27,0,1,26,0,0,0,0.037037037037037,0.962962962962963,1,1.96296296296296
+31,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.880220766112882,12.89,NA,38,38,0,2,36,0,0,0,0.0526315789473684,0.947368421052632,1,1.94736842105263
+32,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.832760484742864,12.61,NA,29,29,0,2,27,0,0,0,0.0689655172413793,0.931034482758621,1,1.93103448275862
+33,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.869049907104875,13.48,NA,34,34,0,0,34,0,0,0,0,1,1,2
+34,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.88047664319438,13.56,NA,40,40,0,1,39,0,0,0,0.025,0.975,1,1.975
+35,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.872533333333333,12.77,NA,42,42,0,4,38,0,0,0,0.0952380952380952,0.904761904761905,1,1.9047619047619
+36,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.888379425132834,13.34,NA,41,41,0,1,40,0,0,0,0.024390243902439,0.975609756097561,1,1.97560975609756
+37,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.860527073732719,12.41,NA,28,28,0,1,27,0,0,0,0.0357142857142857,0.964285714285714,1,1.96428571428571
+38,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.875800659937888,14,NA,38,38,0,0,38,0,0,0,0,1,1,2
+39,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.868753608313554,13.37,NA,38,38,0,1,37,0,0,0,0.0263157894736842,0.973684210526316,1,1.97368421052632
+40,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.855424,13.85,NA,36,36,0,0,36,0,0,0,0,1,1,2
+41,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.874223801293131,13.42,NA,33,33,0,0,33,0,0,0,0,1,1,2
+42,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.885987250944968,13.43,NA,40,40,0,1,39,0,0,0,0.025,0.975,1,1.975
+43,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.863250132766861,13.39,NA,40,40,0,0,40,0,0,0,0,1,1,2
+44,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.861087946629033,13.81,NA,48,48,0,1,47,0,0,0,0.0208333333333333,0.979166666666667,1,1.97916666666667
+45,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.883055124223602,13.48,NA,38,38,0,3,35,0,0,0,0.0789473684210526,0.921052631578947,1,1.92105263157895
+46,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.865444161011375,13.77,NA,34,34,0,1,33,0,0,0,0.0294117647058824,0.970588235294118,1,1.97058823529412
+47,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.887607815525436,13.65,NA,33,33,0,1,32,0,0,0,0.0303030303030303,0.96969696969697,1,1.96969696969697
+48,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.865853071055801,13.62,NA,36,36,0,0,36,0,0,0,0,1,1,2
+49,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.872420020639835,13.86,NA,40,40,0,0,40,0,0,0,0,1,1,2
+50,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.868476767676768,13.37,NA,33,33,0,0,33,0,0,0,0,1,1,2
+51,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.886070376536885,13.39,NA,37,37,0,1,36,0,0,0,0.027027027027027,0.972972972972973,1,1.97297297297297
+52,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.896518344293509,13.65,NA,44,44,0,2,42,0,0,0,0.0454545454545455,0.954545454545455,1,1.95454545454545
+53,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.88612339035172,13.25,NA,38,38,0,0,38,0,0,0,0,1,1,2
+54,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.856927324088341,12.53,NA,30,30,0,2,28,0,0,0,0.0666666666666667,0.933333333333333,1,1.93333333333333
+55,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.871681699482529,12.81,NA,36,36,0,1,35,0,0,0,0.0277777777777778,0.972222222222222,1,1.97222222222222
+56,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.856073358021129,12.38,NA,36,36,0,0,36,0,0,0,0,1,1,2
+57,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.857416437342088,12.11,NA,48,48,0,0,48,0,0,0,0,1,1,2
+58,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.858046639759113,12.75,NA,30,30,0,0,30,0,0,0,0,1,1,2
+59,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.891802488960257,11.97,NA,28,28,0,0,28,0,0,0,0,1,1,2
+60,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.882239413159075,12.11,NA,35,35,0,1,34,0,0,0,0.0285714285714286,0.971428571428571,1,1.97142857142857
+61,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.903009203681473,12.63,NA,36,36,0,2,34,0,0,0,0.0555555555555556,0.944444444444444,1,1.94444444444444
+62,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.878304846040586,11.84,NA,29,29,0,2,27,0,0,0,0.0689655172413793,0.931034482758621,1,1.93103448275862
+63,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.826680117211894,13.28,NA,43,43,0,0,43,0,0,0,0,1,1,2
+64,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.850729786825427,12.89,NA,30,30,0,0,30,0,0,0,0,1,1,2
+65,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.875054070074817,11.88,NA,27,27,0,2,25,0,0,0,0.0740740740740741,0.925925925925926,1,1.92592592592593
+66,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.872278432377049,13.07,NA,31,31,0,1,30,0,0,0,0.032258064516129,0.967741935483871,1,1.96774193548387
+67,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.878087112707678,12.04,NA,38,38,0,2,36,0,0,0,0.0526315789473684,0.947368421052632,1,1.94736842105263
+68,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.882337775342819,12.48,NA,32,32,0,3,29,0,0,0,0.09375,0.90625,1,1.90625
+69,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.861476052551567,12.27,NA,33,33,0,0,33,0,0,0,0,1,1,2
+70,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.869597016604781,12.52,NA,33,33,0,0,33,0,0,0,0,1,1,2
+71,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.842722248183181,12.73,NA,40,40,0,0,40,0,0,0,0,1,1,2
+72,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.885265874733484,12.92,NA,34,34,0,0,34,0,0,0,0,1,1,2
+73,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.903032146516393,12.53,NA,35,35,0,2,33,0,0,0,0.0571428571428571,0.942857142857143,1,1.94285714285714
+74,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.820934214526892,12.36,NA,26,26,0,1,25,0,0,0,0.0384615384615385,0.961538461538462,1,1.96153846153846
+75,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.858088741573394,12.39,NA,29,29,0,0,29,0,0,0,0,1,1,2
+76,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.893252672684207,13.52,NA,36,36,0,0,36,0,0,0,0,1,1,2
+77,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.846965551448823,12.37,NA,29,29,0,1,28,0,0,0,0.0344827586206897,0.96551724137931,1,1.96551724137931
+78,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.856126792114695,12.52,NA,37,37,0,0,37,0,0,0,0,1,1,2
+79,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.861976498463115,12,NA,40,40,0,3,37,0,0,0,0.075,0.925,1,1.925
+80,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.884729963482606,11.02,NA,33,33,0,1,32,0,0,0,0.0303030303030303,0.96969696969697,1,1.96969696969697
+81,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.864564497287609,11.53,NA,44,44,0,1,43,0,0,0,0.0227272727272727,0.977272727272727,1,1.97727272727273
+82,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.894156073446328,12.02,NA,35,35,0,1,34,0,0,0,0.0285714285714286,0.971428571428571,1,1.97142857142857
+83,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.888971779692288,11.25,NA,38,38,0,1,37,0,0,0,0.0263157894736842,0.973684210526316,1,1.97368421052632
+84,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.879040258576549,11.9,NA,36,36,0,0,36,0,0,0,0,1,1,2
+85,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.873711670187568,11.09,NA,30,30,0,2,28,0,0,0,0.0666666666666667,0.933333333333333,1,1.93333333333333
+86,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.844682147668228,10.5,NA,37,37,0,0,37,0,0,0,0,1,1,2
+87,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.865864,11.34,NA,35,35,0,0,35,0,0,0,0,1,1,2
+88,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.863461538461539,10.93,NA,30,30,0,1,29,0,0,0,0.0333333333333333,0.966666666666667,1,1.96666666666667
+89,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.860557128152342,11.24,NA,32,32,0,1,31,0,0,0,0.03125,0.96875,1,1.96875
+90,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.8715272768079,12.03,NA,36,36,0,1,35,0,0,0,0.0277777777777778,0.972222222222222,1,1.97222222222222
+91,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.876128650102459,10.75,NA,35,35,0,0,35,0,0,0,0,1,1,2
+92,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.877219505918682,11.86,NA,35,35,0,0,35,0,0,0,0,1,1,2
+93,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.890854253668059,11.67,NA,31,31,0,1,30,0,0,0,0.032258064516129,0.967741935483871,1,1.96774193548387
+94,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.848873311567761,11.9,NA,27,27,0,2,25,0,0,0,0.0740740740740741,0.925925925925926,1,1.92592592592593
+95,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.878950063201011,11.97,NA,33,33,0,0,33,0,0,0,0,1,1,2
+96,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.887789466931811,12.08,NA,34,34,0,3,31,0,0,0,0.0882352941176471,0.911764705882353,1,1.91176470588235
+97,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.883344544813889,12.13,NA,39,39,0,2,37,0,0,0,0.0512820512820513,0.948717948717949,1,1.94871794871795
+98,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.869619603566617,11.91,NA,30,30,0,0,30,0,0,0,0,1,1,2
+99,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.881009615384615,12.35,NA,40,40,0,1,39,0,0,0,0.025,0.975,1,1.975
+100,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.859919710959454,10.34,NA,31,31,0,1,30,0,0,0,0.032258064516129,0.967741935483871,1,1.96774193548387
+1,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.867061710180255,14.19,NA,38,38,0,0,38,0,0,0,0,1,1,2
+2,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.859182889344262,14.42,NA,44,44,0,0,44,0,0,0,0,1,1,2
+3,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.826587091495404,14.61,NA,58,58,0,0,58,0,0,0,0,1,1,2
+4,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.843567953396069,14.99,NA,46,46,0,0,46,0,0,0,0,1,1,2
+5,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.849922388823991,14.83,NA,42,42,0,0,42,0,0,0,0,1,1,2
+6,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.840737066137524,15.67,NA,53,53,0,0,53,0,0,0,0,1,1,2
+7,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.881424569827931,16.54,NA,52,52,0,0,52,0,0,0,0,1,1,2
+8,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.822324702566812,16,NA,50,50,0,0,50,0,0,0,0,1,1,2
+9,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.871691406062353,16,NA,41,41,0,0,41,0,0,0,0,1,1,2
+10,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.852929396497861,15.42,NA,50,50,0,0,50,0,0,0,0,1,1,2
+11,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.867045872733964,15.44,NA,56,56,0,0,56,0,0,0,0,1,1,2
+12,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.823210709902461,15.84,NA,54,54,0,0,54,0,0,0,0,1,1,2
+13,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.811360426296867,15.35,NA,52,52,0,0,52,0,0,0,0,1,1,2
+14,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.860353001473509,15.17,NA,51,51,0,0,51,0,0,0,0,1,1,2
+15,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.856684474819913,14.4,NA,47,47,0,0,47,0,0,0,0,1,1,2
+16,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.852307716979922,15.08,NA,39,39,0,0,39,0,0,0,0,1,1,2
+17,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.869149906398502,15.07,NA,47,47,0,0,47,0,0,0,0,1,1,2
+18,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.867091346153846,15.04,NA,51,51,0,0,51,0,0,0,0,1,1,2
+19,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.877609503073771,14.99,NA,56,56,0,0,56,0,0,0,0,1,1,2
+20,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.825387299148582,14.96,NA,54,54,0,0,54,0,0,0,0,1,1,2
+21,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.836595649176806,15.06,NA,52,52,0,0,52,0,0,0,0,1,1,2
+22,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.809533011272142,14.02,NA,55,55,0,0,55,0,0,0,0,1,1,2
+23,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.870733385607527,14.47,NA,48,48,0,0,48,0,0,0,0,1,1,2
+24,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.88528065796211,14.76,NA,52,52,0,0,52,0,0,0,0,1,1,2
+25,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.832135827559168,14.66,NA,49,49,0,0,49,0,0,0,0,1,1,2
+26,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.851121794871795,15.08,NA,52,52,0,0,52,0,0,0,0,1,1,2
+27,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.843397977470558,15.25,NA,56,56,0,0,56,0,0,0,0,1,1,2
+28,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.854022213662044,15.29,NA,55,55,0,0,55,0,0,0,0,1,1,2
+29,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.840463158568594,14.72,NA,44,44,0,0,44,0,0,0,0,1,1,2
+30,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.874727564102564,14.85,NA,57,57,0,0,57,0,0,0,0,1,1,2
+31,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.848576,14.75,NA,47,47,0,0,47,0,0,0,0,1,1,2
+32,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.85056130983016,14.61,NA,51,51,0,0,51,0,0,0,0,1,1,2
+33,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.871284195015696,15.12,NA,60,60,0,0,60,0,0,0,0,1,1,2
+34,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.848392210144927,14.71,NA,49,49,0,0,49,0,0,0,0,1,1,2
+35,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.879008418482103,14.81,NA,53,53,0,0,53,0,0,0,0,1,1,2
+36,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.848322535120919,15.47,NA,51,51,0,0,51,0,0,0,0,1,1,2
+37,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.85979967948718,15.21,NA,50,50,0,0,50,0,0,0,0,1,1,2
+38,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.87812725090036,15.44,NA,52,52,0,1,51,0,0,0,0.0192307692307692,0.980769230769231,1,1.98076923076923
+39,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.844118023553507,15.6,NA,50,50,0,0,50,0,0,0,0,1,1,2
+40,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.845400422508162,15.46,NA,56,56,0,0,56,0,0,0,0,1,1,2
+41,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.847478238607271,15.11,NA,43,43,0,0,43,0,0,0,0,1,1,2
+42,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.866142930360689,15.24,NA,48,48,0,0,48,0,0,0,0,1,1,2
+43,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.847673004289098,15.05,NA,55,55,0,0,55,0,0,0,0,1,1,2
+44,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.832509320149122,15.35,NA,45,45,0,0,45,0,0,0,0,1,1,2
+45,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.8680560041341,15.1,NA,53,53,0,0,53,0,0,0,0,1,1,2
+46,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.851126472094214,15.24,NA,59,59,0,0,59,0,0,0,0,1,1,2
+47,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.836370192307692,15.01,NA,44,44,0,0,44,0,0,0,0,1,1,2
+48,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.830317141710157,15.09,NA,57,57,0,0,57,0,0,0,0,1,1,2
+49,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.859999359631147,15.48,NA,55,55,0,0,55,0,0,0,0,1,1,2
+50,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.84366199436764,15.08,NA,63,63,0,0,63,0,0,0,0,1,1,2
+51,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.840869565217391,15.34,NA,59,59,0,0,59,0,0,0,0,1,1,2
+52,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.859755804835896,15,NA,54,54,0,0,54,0,0,0,0,1,1,2
+53,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.839723877250304,14.24,NA,47,47,0,0,47,0,0,0,0,1,1,2
+54,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.902560466652702,14.06,NA,47,47,0,1,46,0,0,0,0.0212765957446809,0.978723404255319,1,1.97872340425532
+55,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.837313169542626,13.89,NA,49,49,0,0,49,0,0,0,0,1,1,2
+56,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.851819826744167,13.45,NA,46,46,0,0,46,0,0,0,0,1,1,2
+57,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.855528846153846,13.59,NA,43,43,0,0,43,0,0,0,0,1,1,2
+58,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.869622623391588,13.88,NA,51,51,0,0,51,0,0,0,0,1,1,2
+59,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.815447611401044,13.7,NA,57,57,0,0,57,0,0,0,0,1,1,2
+60,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.847880379098361,14.28,NA,55,55,0,0,55,0,0,0,0,1,1,2
+61,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.845847144161022,14.68,NA,58,58,0,1,57,0,0,0,0.0172413793103448,0.982758620689655,1,1.98275862068966
+62,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.833149330389286,14.39,NA,41,41,0,0,41,0,0,0,0,1,1,2
+63,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.821894402464263,14.43,NA,47,47,0,0,47,0,0,0,0,1,1,2
+64,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.838769595362764,13.71,NA,62,62,0,0,62,0,0,0,0,1,1,2
+65,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.855002880737469,14.37,NA,52,52,0,0,52,0,0,0,0,1,1,2
+66,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.823485175762812,14.3,NA,56,56,0,0,56,0,0,0,0,1,1,2
+67,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.860101108302547,14.34,NA,61,61,0,0,61,0,0,0,0,1,1,2
+68,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.862368,14.76,NA,62,62,0,0,62,0,0,0,0,1,1,2
+69,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.85074267362505,14.04,NA,54,54,0,0,54,0,0,0,0,1,1,2
+70,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.83187450904952,14.33,NA,53,53,0,0,53,0,0,0,0,1,1,2
+71,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.850656,14.82,NA,64,64,0,0,64,0,0,0,0,1,1,2
+72,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.875246003936063,14.75,NA,54,54,0,0,54,0,0,0,0,1,1,2
+73,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.886592,14.03,NA,47,47,0,0,47,0,0,0,0,1,1,2
+74,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.843216467080267,14.25,NA,42,42,0,0,42,0,0,0,0,1,1,2
+75,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.830807636299627,14.22,NA,52,52,0,0,52,0,0,0,0,1,1,2
+76,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.854521413828689,13.97,NA,37,37,0,0,37,0,0,0,0,1,1,2
+77,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.833677470988395,13.98,NA,53,53,0,0,53,0,0,0,0,1,1,2
+78,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.862676282051282,13.77,NA,53,53,0,0,53,0,0,0,0,1,1,2
+79,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.866618647458984,13.31,NA,48,48,0,0,48,0,0,0,0,1,1,2
+80,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.858815526210484,13.25,NA,47,47,0,0,47,0,0,0,0,1,1,2
+81,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.85242699795082,12.82,NA,57,57,0,1,56,0,0,0,0.0175438596491228,0.982456140350877,1,1.98245614035088
+82,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.870016,13.84,NA,56,56,0,0,56,0,0,0,0,1,1,2
+83,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.881329620382818,13.23,NA,63,63,0,0,63,0,0,0,0,1,1,2
+84,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.873259744629039,12.64,NA,49,49,0,0,49,0,0,0,0,1,1,2
+85,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.868365044566418,13,NA,56,56,0,0,56,0,0,0,0,1,1,2
+86,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.863063236047107,12.93,NA,51,51,0,0,51,0,0,0,0,1,1,2
+87,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.854285668570697,12.86,NA,52,52,0,0,52,0,0,0,0,1,1,2
+88,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.846478556753981,12.44,NA,65,65,0,0,65,0,0,0,0,1,1,2
+89,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.858046639759113,12.96,NA,67,67,0,0,67,0,0,0,0,1,1,2
+90,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.836592156294759,13.23,NA,55,55,0,0,55,0,0,0,0,1,1,2
+91,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.875792811839323,13.12,NA,48,48,0,0,48,0,0,0,0,1,1,2
+92,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.847709563353014,13.6,NA,51,51,0,0,51,0,0,0,0,1,1,2
+93,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.840003842213115,13.8,NA,56,56,0,0,56,0,0,0,0,1,1,2
+94,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.864652509961434,13.61,NA,49,49,0,0,49,0,0,0,0,1,1,2
+95,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.844358038914491,14.11,NA,57,57,0,0,57,0,0,0,0,1,1,2
+96,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.858288812950217,13.98,NA,58,58,0,0,58,0,0,0,0,1,1,2
+97,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.858775385995259,13.82,NA,42,42,0,0,42,0,0,0,0,1,1,2
+98,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.884654154466471,12.56,NA,55,55,0,0,55,0,0,0,0,1,1,2
+99,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.858679471788716,12.11,NA,58,58,0,0,58,0,0,0,0,1,1,2
+100,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.868681045940017,11.02,NA,53,53,0,0,53,0,0,0,0,1,1,2
+1,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.859951690821256,13.97,NA,50,50,0,1,49,0,0,0,0.02,0.98,1,1.98
+2,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.83148773423373,13.79,NA,52,52,0,0,52,0,0,0,0,1,1,2
+3,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.802128103149657,14.31,NA,48,48,0,0,48,0,0,0,0,1,1,2
+4,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.856917584528688,13.17,NA,51,51,0,2,49,0,0,0,0.0392156862745098,0.96078431372549,1,1.96078431372549
+5,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.815480769230769,12.5,NA,45,45,0,4,41,0,0,0,0.0888888888888889,0.911111111111111,1,1.91111111111111
+6,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.803123993558776,14.44,NA,36,36,0,0,36,0,0,0,0,1,1,2
+7,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.823450307377049,14.88,NA,51,51,0,1,50,0,0,0,0.0196078431372549,0.980392156862745,1,1.98039215686275
+8,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.798783911697229,14.88,NA,40,40,0,0,40,0,0,0,0,1,1,2
+9,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.821501144018304,14.45,NA,40,40,0,3,37,0,0,0,0.075,0.925,1,1.925
+10,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.842334760095545,14.75,NA,58,58,0,0,58,0,0,0,0,1,1,2
+11,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.830372575379297,14.33,NA,47,47,0,2,45,0,0,0,0.0425531914893617,0.957446808510638,1,1.95744680851064
+12,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.84450591868245,14.72,NA,43,43,0,0,43,0,0,0,0,1,1,2
+13,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.797107814431648,14.09,NA,41,41,0,0,41,0,0,0,0,1,1,2
+14,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.802012832205315,14.89,NA,58,58,0,0,58,0,0,0,0,1,1,2
+15,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.850013600217604,14,NA,49,49,0,2,47,0,0,0,0.0408163265306122,0.959183673469388,1,1.95918367346939
+16,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.827097314086162,13.89,NA,35,35,0,1,34,0,0,0,0.0285714285714286,0.971428571428571,1,1.97142857142857
+17,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.813813021008336,14.53,NA,42,42,0,0,42,0,0,0,0,1,1,2
+18,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.821384553821529,13.57,NA,49,49,0,0,49,0,0,0,0,1,1,2
+19,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.850412164865946,14.03,NA,46,46,0,0,46,0,0,0,0,1,1,2
+20,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.803827444956477,14.1,NA,48,48,0,1,47,0,0,0,0.0208333333333333,0.979166666666667,1,1.97916666666667
+21,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.829782790309106,13.03,NA,32,32,0,0,32,0,0,0,0,1,1,2
+22,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.822060219829737,13.81,NA,44,44,0,2,42,0,0,0,0.0454545454545455,0.954545454545455,1,1.95454545454545
+23,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.832412611487406,13.83,NA,40,40,0,1,39,0,0,0,0.025,0.975,1,1.975
+24,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.840285444567113,13.81,NA,40,40,0,0,40,0,0,0,0,1,1,2
+25,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.782938754503345,14.49,NA,58,58,0,2,56,0,0,0,0.0344827586206897,0.96551724137931,1,1.96551724137931
+26,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.814685258709016,13.85,NA,42,42,0,0,42,0,0,0,0,1,1,2
+27,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.842052088010777,14.35,NA,56,56,0,0,56,0,0,0,0,1,1,2
+28,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.801756999167147,14.17,NA,44,44,0,0,44,0,0,0,0,1,1,2
+29,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.805934319185712,13.62,NA,28,28,0,0,28,0,0,0,0,1,1,2
+30,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.858149038461538,13.83,NA,33,33,0,0,33,0,0,0,0,1,1,2
+31,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.810823570834134,13.32,NA,38,38,0,0,38,0,0,0,0,1,1,2
+32,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.822612179487179,14.01,NA,47,47,0,2,45,0,0,0,0.0425531914893617,0.957446808510638,1,1.95744680851064
+33,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.83263159579918,13.87,NA,52,52,0,0,52,0,0,0,0,1,1,2
+34,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.806310961824172,13.7,NA,52,52,0,0,52,0,0,0,0,1,1,2
+35,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.830935367322361,13.83,NA,37,37,0,0,37,0,0,0,0,1,1,2
+36,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.843910092213115,15.05,NA,46,46,0,0,46,0,0,0,0,1,1,2
+37,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.833301325139236,13.5,NA,40,40,0,2,38,0,0,0,0.05,0.95,1,1.95
+38,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.854851888046909,14.72,NA,60,60,0,1,59,0,0,0,0.0166666666666667,0.983333333333333,1,1.98333333333333
+39,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.802966237427125,13.73,NA,53,53,0,8,45,0,0,0,0.150943396226415,0.849056603773585,1,1.84905660377358
+40,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.837870116545632,14.61,NA,56,56,0,1,55,0,0,0,0.0178571428571429,0.982142857142857,1,1.98214285714286
+41,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.830042753518759,13.86,NA,57,57,0,1,56,0,0,0,0.0175438596491228,0.982456140350877,1,1.98245614035088
+42,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.847153990174585,14.11,NA,45,45,0,0,45,0,0,0,0,1,1,2
+43,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.800640499525258,13.01,NA,37,37,0,1,36,0,0,0,0.027027027027027,0.972972972972973,1,1.97297297297297
+44,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.83343737494998,14.47,NA,46,46,0,0,46,0,0,0,0,1,1,2
+45,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.825253536593243,14.21,NA,40,40,0,0,40,0,0,0,0,1,1,2
+46,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.826532898105479,13.33,NA,39,39,0,1,38,0,0,0,0.0256410256410256,0.974358974358974,1,1.97435897435897
+47,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.818745896783078,14.2,NA,42,42,0,0,42,0,0,0,0,1,1,2
+48,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.836486140451956,14.79,NA,51,51,0,0,51,0,0,0,0,1,1,2
+49,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.819099116496886,14.58,NA,54,54,0,1,53,0,0,0,0.0185185185185185,0.981481481481482,1,1.98148148148148
+50,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.821280512204882,14.24,NA,38,38,0,0,38,0,0,0,0,1,1,2
+51,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.849957298699625,13.83,NA,42,42,0,0,42,0,0,0,0,1,1,2
+52,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.835297131147541,14.64,NA,59,59,0,1,58,0,0,0,0.0169491525423729,0.983050847457627,1,1.98305084745763
+53,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.828060500515996,13.13,NA,39,39,0,1,38,0,0,0,0.0256410256410256,0.974358974358974,1,1.97435897435897
+54,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.830120597857464,13.89,NA,44,44,0,1,43,0,0,0,0.0227272727272727,0.977272727272727,1,1.97727272727273
+55,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.82312517000272,13.67,NA,40,40,0,0,40,0,0,0,0,1,1,2
+56,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.821140552995392,12.6,NA,43,43,0,0,43,0,0,0,0,1,1,2
+57,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.830453546389437,12.25,NA,41,41,0,1,40,0,0,0,0.024390243902439,0.975609756097561,1,1.97560975609756
+58,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.847642060456706,12.35,NA,41,41,0,1,40,0,0,0,0.024390243902439,0.975609756097561,1,1.97560975609756
+59,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.826339542922988,13.05,NA,53,53,0,0,53,0,0,0,0,1,1,2
+60,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.831275720164609,13.24,NA,43,43,0,1,42,0,0,0,0.0232558139534884,0.976744186046512,1,1.97674418604651
+61,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.858167266906763,13.77,NA,51,51,0,0,51,0,0,0,0,1,1,2
+62,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.832748970663922,13.47,NA,57,57,0,0,57,0,0,0,0,1,1,2
+63,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.838066726434426,13.36,NA,53,53,0,1,52,0,0,0,0.0188679245283019,0.981132075471698,1,1.9811320754717
+64,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.827995966967544,13.7,NA,42,42,0,0,42,0,0,0,0,1,1,2
+65,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.867210884353741,12.67,NA,47,47,0,1,46,0,0,0,0.0212765957446809,0.978723404255319,1,1.97872340425532
+66,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.818417639429313,13.55,NA,41,41,0,0,41,0,0,0,0,1,1,2
+67,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.837388738390093,13.89,NA,37,37,0,0,37,0,0,0,0,1,1,2
+68,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.823910643132611,13.74,NA,43,43,0,2,41,0,0,0,0.0465116279069767,0.953488372093023,1,1.95348837209302
+69,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.829426937310755,13.99,NA,58,58,0,0,58,0,0,0,0,1,1,2
+70,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.822946674348633,13.58,NA,50,50,0,3,47,0,0,0,0.06,0.94,1,1.94
+71,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.80583641195152,13.56,NA,46,46,0,0,46,0,0,0,0,1,1,2
+72,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.837122182377049,13.29,NA,48,48,0,0,48,0,0,0,0,1,1,2
+73,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.867374047756226,13.7,NA,47,47,0,0,47,0,0,0,0,1,1,2
+74,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.787620601929631,13.84,NA,42,42,0,2,40,0,0,0,0.0476190476190476,0.952380952380952,1,1.95238095238095
+75,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.826198026779422,13.63,NA,35,35,0,0,35,0,0,0,0,1,1,2
+76,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.845543824796937,13.64,NA,45,45,0,0,45,0,0,0,0,1,1,2
+77,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.791086663673103,12.56,NA,34,34,0,1,33,0,0,0,0.0294117647058824,0.970588235294118,1,1.97058823529412
+78,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.840485074626866,12.44,NA,45,45,0,3,42,0,0,0,0.0666666666666667,0.933333333333333,1,1.93333333333333
+79,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.852160241292455,12.67,NA,50,50,0,3,47,0,0,0,0.06,0.94,1,1.94
+80,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.818109089745436,12.44,NA,39,39,0,0,39,0,0,0,0,1,1,2
+81,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.827202105803801,11.83,NA,43,43,0,2,41,0,0,0,0.0465116279069767,0.953488372093023,1,1.95348837209302
+82,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.84256592421915,12.66,NA,47,47,0,0,47,0,0,0,0,1,1,2
+83,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.841442831653566,12.76,NA,42,42,0,1,41,0,0,0,0.0238095238095238,0.976190476190476,1,1.97619047619048
+84,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.822125154002464,12.22,NA,60,60,0,0,60,0,0,0,0,1,1,2
+85,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.83678403868633,12.5,NA,33,33,0,0,33,0,0,0,0,1,1,2
+86,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.826496096442713,12.19,NA,47,47,0,1,46,0,0,0,0.0212765957446809,0.978723404255319,1,1.97872340425532
+87,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.813904404211608,12.14,NA,47,47,0,0,47,0,0,0,0,1,1,2
+88,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.833619335934338,11.95,NA,50,50,0,0,50,0,0,0,0,1,1,2
+89,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.816618337365225,12.61,NA,47,47,0,0,47,0,0,0,0,1,1,2
+90,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.829225210758731,11.91,NA,39,39,0,3,36,0,0,0,0.0769230769230769,0.923076923076923,1,1.92307692307692
+91,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.802629473145125,12.92,NA,37,37,0,0,37,0,0,0,0,1,1,2
+92,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.838807932156655,13.13,NA,53,53,0,0,53,0,0,0,0,1,1,2
+93,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.806590487164714,13.25,NA,41,41,0,0,41,0,0,0,0,1,1,2
+94,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.826496,12.91,NA,48,48,0,0,48,0,0,0,0,1,1,2
+95,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.823796722990271,12.97,NA,45,45,0,1,44,0,0,0,0.0222222222222222,0.977777777777778,1,1.97777777777778
+96,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.83402649538338,13.58,NA,51,51,0,2,49,0,0,0,0.0392156862745098,0.96078431372549,1,1.96078431372549
+97,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.838635053790984,12.6,NA,55,55,0,3,52,0,0,0,0.0545454545454545,0.945454545454545,1,1.94545454545455
+98,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.844535256410256,12.45,NA,52,52,0,1,51,0,0,0,0.0192307692307692,0.980769230769231,1,1.98076923076923
+99,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.832711910515114,11.53,NA,39,39,0,0,39,0,0,0,0,1,1,2
+100,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.828520404894612,9.88999999999999,NA,45,45,0,0,45,0,0,0,0,1,1,2
+1,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.745908411362027,9.89,NA,17,17,0,5,12,0,0,0,0.294117647058824,0.705882352941177,1,1.70588235294118
+2,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.72556258790436,12.94,NA,9,9,0,2,7,0,0,0,0.222222222222222,0.777777777777778,1,1.77777777777778
+3,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.711743805516597,11.67,NA,12,12,0,3,9,0,0,0,0.25,0.75,1,1.75
+4,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.762319121864959,12.75,NA,10,10,0,0,10,0,0,0,0,1,1,2
+5,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.730675839740995,9.91,NA,10,10,0,2,8,0,0,0,0.2,0.8,1,1.8
+6,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.799429862306368,11.86,NA,6,6,0,0,6,0,0,0,0,1,1,2
+7,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.746198568872988,13.11,NA,21,21,0,10,11,0,0,0,0.476190476190476,0.523809523809524,1,1.52380952380952
+8,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.73804598986285,13.39,NA,17,17,0,4,13,0,0,0,0.235294117647059,0.764705882352941,1,1.76470588235294
+9,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.685018382352941,12.53,NA,24,24,0,10,14,0,0,0,0.416666666666667,0.583333333333333,1,1.58333333333333
+10,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.715482131589514,11.02,NA,7,7,0,1,6,0,0,0,0.142857142857143,0.857142857142857,1,1.85714285714286
+11,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.700181360574432,15.38,NA,16,16,0,3,13,0,0,0,0.1875,0.8125,1,1.8125
+12,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.755952380952381,11.64,NA,23,23,0,3,20,0,0,0,0.130434782608696,0.869565217391304,1,1.8695652173913
+13,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.709193918531268,12.88,NA,19,19,0,6,13,0,0,0,0.315789473684211,0.684210526315789,1,1.68421052631579
+14,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.740879921373649,13.72,NA,24,24,0,3,21,0,0,0,0.125,0.875,1,1.875
+15,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.68978826402669,10.8,NA,10,10,0,7,3,0,0,0,0.7,0.3,1,1.3
+16,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.767349544747946,12.64,NA,9,9,0,1,8,0,0,0,0.111111111111111,0.888888888888889,1,1.88888888888889
+17,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.71037539574853,15.83,NA,18,18,0,2,16,0,0,0,0.111111111111111,0.888888888888889,1,1.88888888888889
+18,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.760068688536897,13.52,NA,14,14,0,0,14,0,0,0,0,1,1,2
+19,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.738114133179424,16.34,NA,23,23,0,5,18,0,0,0,0.217391304347826,0.782608695652174,1,1.78260869565217
+20,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.729554382409926,13.33,NA,23,23,0,7,16,0,0,0,0.304347826086957,0.695652173913043,1,1.69565217391304
+21,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.780100957953307,13.67,NA,15,15,0,0,15,0,0,0,0,1,1,2
+22,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.754861151259371,11.99,NA,9,9,0,0,9,0,0,0,0,1,1,2
+23,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.694550304878049,9.59,NA,5,5,0,3,2,0,0,0,0.6,0.4,1,1.4
+24,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.668425830149247,13.74,NA,12,12,0,0,12,0,0,0,0,1,1,2
+25,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.775715563506261,13.03,NA,29,29,0,6,23,0,0,0,0.206896551724138,0.793103448275862,1,1.79310344827586
+26,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.707637162513731,13.84,NA,9,9,0,0,9,0,0,0,0,1,1,2
+27,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.754921549039196,12.72,NA,8,8,0,0,8,0,0,0,0,1,1,2
+28,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.749249863611566,13.28,NA,24,24,0,7,17,0,0,0,0.291666666666667,0.708333333333333,1,1.70833333333333
+29,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.698937102783257,11.11,NA,7,7,0,3,4,0,0,0,0.428571428571429,0.571428571428571,1,1.57142857142857
+30,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.705662943176299,10.69,NA,11,11,0,3,8,0,0,0,0.272727272727273,0.727272727272727,1,1.72727272727273
+31,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.720309810671256,11.94,NA,19,19,0,9,10,0,0,0,0.473684210526316,0.526315789473684,1,1.52631578947368
+32,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.720831588720395,10.4,NA,9,9,0,4,5,0,0,0,0.444444444444444,0.555555555555556,1,1.55555555555556
+33,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.750388816389281,10.59,NA,14,14,0,3,11,0,0,0,0.214285714285714,0.785714285714286,1,1.78571428571429
+34,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.765063736263736,12,NA,20,20,0,3,17,0,0,0,0.15,0.85,1,1.85
+35,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.699909916672922,23.28,NA,18,18,0,2,16,0,0,0,0.111111111111111,0.888888888888889,1,1.88888888888889
+36,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.681958335742229,11.73,NA,4,4,0,2,2,0,0,0,0.5,0.5,1,1.5
+37,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.693096509558084,12.69,NA,5,5,0,2,3,0,0,0,0.4,0.6,1,1.6
+38,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.701886721113128,17.19,NA,14,14,0,0,14,0,0,0,0,1,1,2
+39,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.730733987844787,12.26,NA,6,6,0,1,5,0,0,0,0.166666666666667,0.833333333333333,1,1.83333333333333
+40,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.69892100659866,11.28,NA,11,11,0,4,7,0,0,0,0.363636363636364,0.636363636363636,1,1.63636363636364
+41,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.733125,12.6,NA,14,14,0,4,10,0,0,0,0.285714285714286,0.714285714285714,1,1.71428571428571
+42,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.705885565527662,10.8,NA,9,9,0,1,8,0,0,0,0.111111111111111,0.888888888888889,1,1.88888888888889
+43,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.704830035514967,12.86,NA,18,18,0,4,14,0,0,0,0.222222222222222,0.777777777777778,1,1.77777777777778
+44,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.716708257713249,12.97,NA,15,15,0,2,13,0,0,0,0.133333333333333,0.866666666666667,1,1.86666666666667
+45,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.72845680058767,11.67,NA,7,7,0,1,6,0,0,0,0.142857142857143,0.857142857142857,1,1.85714285714286
+46,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.701359302089673,10.79,NA,10,10,0,3,7,0,0,0,0.3,0.7,1,1.7
+47,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.711085714285714,12.89,NA,6,6,0,0,6,0,0,0,0,1,1,2
+48,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.719903218191833,13.41,NA,15,15,0,4,11,0,0,0,0.266666666666667,0.733333333333333,1,1.73333333333333
+49,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.695193457181351,11.28,NA,5,5,0,0,5,0,0,0,0,1,1,2
+50,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.747315486993345,10.35,NA,7,7,0,2,5,0,0,0,0.285714285714286,0.714285714285714,1,1.71428571428571
+51,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.742820903094876,11.88,NA,9,9,0,0,9,0,0,0,0,1,1,2
+52,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.683085553997195,14.61,NA,15,15,0,1,14,0,0,0,0.0666666666666667,0.933333333333333,1,1.93333333333333
+53,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.774941561477326,10.89,NA,26,26,0,11,15,0,0,0,0.423076923076923,0.576923076923077,1,1.57692307692308
+54,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.705536387851052,11.15,NA,10,10,0,3,7,0,0,0,0.3,0.7,1,1.7
+55,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.708028542742398,11.27,NA,13,13,0,7,6,0,0,0,0.538461538461538,0.461538461538462,1,1.46153846153846
+56,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.703416891336354,12.05,NA,9,9,0,0,9,0,0,0,0,1,1,2
+57,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.704470385106223,9.72,NA,2,2,0,0,2,0,0,0,0,1,1,2
+58,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.740914567261873,11.12,NA,21,21,0,11,10,0,0,0,0.523809523809524,0.476190476190476,1,1.47619047619048
+59,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.682468443197756,11.08,NA,6,6,0,5,1,0,0,0,0.833333333333333,0.166666666666667,1,1.16666666666667
+60,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.687086608402499,12.2,NA,20,20,0,4,16,0,0,0,0.2,0.8,1,1.8
+61,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.732766695231073,12.42,NA,13,13,0,4,9,0,0,0,0.307692307692308,0.692307692307692,1,1.69230769230769
+62,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.748639418511213,9.55000000000001,NA,8,8,0,4,4,0,0,0,0.5,0.5,1,1.5
+63,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.69645949065724,11.28,NA,13,13,0,3,10,0,0,0,0.230769230769231,0.769230769230769,1,1.76923076923077
+64,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.735167295876823,11.95,NA,11,11,0,3,8,0,0,0,0.272727272727273,0.727272727272727,1,1.72727272727273
+65,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.696901377966958,11.95,NA,5,5,0,1,4,0,0,0,0.2,0.8,1,1.8
+66,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.771039672439551,11.08,NA,6,6,0,1,5,0,0,0,0.166666666666667,0.833333333333333,1,1.83333333333333
+67,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.675508562033199,9.61000000000001,NA,2,2,0,0,2,0,0,0,0,1,1,2
+68,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.721016744834341,11.49,NA,8,8,0,0,8,0,0,0,0,1,1,2
+69,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.607712502922084,13.18,NA,9,9,0,0,9,0,0,0,0,1,1,2
+70,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.729522910652158,13.08,NA,18,18,0,6,12,0,0,0,0.333333333333333,0.666666666666667,1,1.66666666666667
+71,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.737838082315694,11.41,NA,10,10,0,3,7,0,0,0,0.3,0.7,1,1.7
+72,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.723815227301167,13.67,NA,8,8,0,0,8,0,0,0,0,1,1,2
+73,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.661163863547032,12.64,NA,6,6,0,0,6,0,0,0,0,1,1,2
+74,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.672575001434062,11.47,NA,13,13,0,5,8,0,0,0,0.384615384615385,0.615384615384615,1,1.61538461538462
+75,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.695443778221926,12.86,NA,13,13,0,4,9,0,0,0,0.307692307692308,0.692307692307692,1,1.69230769230769
+76,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.746141738329238,12.33,NA,26,26,0,10,16,0,0,0,0.384615384615385,0.615384615384615,1,1.61538461538462
+77,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.643626669598197,10.19,NA,4,4,0,0,4,0,0,0,0,1,1,2
+78,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.704922834518423,16.83,NA,18,18,0,1,17,0,0,0,0.0555555555555556,0.944444444444444,1,1.94444444444444
+79,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.71356563664256,25.37,NA,20,20,0,2,18,0,0,0,0.1,0.9,1,1.9
+80,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.717269752220664,10.97,NA,20,20,0,11,9,0,0,0,0.55,0.45,1,1.45
+81,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.736618872457023,10.05,NA,9,9,0,3,6,0,0,0,0.333333333333333,0.666666666666667,1,1.66666666666667
+82,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.730510019843043,9.32999999999998,NA,9,9,0,5,4,0,0,0,0.555555555555556,0.444444444444444,1,1.44444444444444
+83,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.720271263834068,9.28,NA,7,7,0,2,5,0,0,0,0.285714285714286,0.714285714285714,1,1.71428571428571
+84,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.707332407476916,10.43,NA,7,7,0,2,5,0,0,0,0.285714285714286,0.714285714285714,1,1.71428571428571
+85,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.746962762050065,8.97,NA,18,18,0,10,8,0,0,0,0.555555555555556,0.444444444444444,1,1.44444444444444
+86,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.7226,9.64000000000001,NA,5,5,0,0,5,0,0,0,0,1,1,2
+87,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.652375619900816,11.25,NA,10,10,0,2,8,0,0,0,0.2,0.8,1,1.8
+88,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.732716222533894,10,NA,14,14,0,3,11,0,0,0,0.214285714285714,0.785714285714286,1,1.78571428571429
+89,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.74281600752189,9.65000000000001,NA,5,5,0,0,5,0,0,0,0,1,1,2
+90,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.725150695586078,11.68,NA,10,10,0,1,9,0,0,0,0.1,0.9,1,1.9
+91,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.732716532498509,11.86,NA,8,8,0,0,8,0,0,0,0,1,1,2
+92,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.680392156862745,10.8,NA,6,6,0,3,3,0,0,0,0.5,0.5,1,1.5
+93,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.732139303482587,12.96,NA,7,7,0,3,4,0,0,0,0.428571428571429,0.571428571428571,1,1.57142857142857
+94,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.720049842226047,11.44,NA,7,7,0,2,5,0,0,0,0.285714285714286,0.714285714285714,1,1.71428571428571
+95,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.717672413793103,11.73,NA,8,8,0,4,4,0,0,0,0.5,0.5,1,1.5
+96,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.766214998873958,12.31,NA,17,17,0,7,10,0,0,0,0.411764705882353,0.588235294117647,1,1.58823529411765
+97,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.732752380952381,11.75,NA,9,9,0,0,9,0,0,0,0,1,1,2
+98,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.714157185976318,10.47,NA,18,18,0,6,12,0,0,0,0.333333333333333,0.666666666666667,1,1.66666666666667
+99,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.717776828656849,10.98,NA,12,12,0,3,9,0,0,0,0.25,0.75,1,1.75
+100,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.723239343768247,8.89000000000004,NA,8,8,0,3,5,0,0,0,0.375,0.625,1,1.625

@@ -1,0 +1,5 @@
+"Outcome","Scenario","Scenario_name","method","metric_name","metric_mean","metric_sd","metric_median","final_term_count_mean","final_term_count_sd","degree1_proportion_mean","degree1_proportion_sd","n_success","n_total"
+"binary",1,"Purely rule-based","RuleFit (max depth 2)","AUC",0.869890691461777,0.0168532043296542,0.872349226508442,35.54,5.11764623926889,0.0242519667509602,0.0262143039931207,100,100
+"binary",2,"Purely linear","RuleFit (max depth 2)","AUC",0.852926091146345,0.017865405002369,0.852367357465371,51.91,6.07045336366272,0.000752926039349177,0.0037211902374255,100,100
+"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)","AUC",0.827786127255878,0.0172555809600332,0.828872807826672,45.52,7.01006491417948,0.0163861716687371,0.0251767357800196,100,100
+"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)","AUC",0.719972003460007,0.0308590173086814,0.720290537252662,12.23,6.129667877041,0.23404901272247,0.189572044855789,100,100

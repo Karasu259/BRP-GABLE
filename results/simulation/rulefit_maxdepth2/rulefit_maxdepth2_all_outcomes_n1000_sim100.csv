@@ -1,0 +1,1201 @@
+"Sim","Outcome","Scenario","Scenario_name","method","fit_ok","metric_name","metric_value","elapsed_time","error_message","n_rules_total","n_rule_terms_selected","n_linear_selected","n_rules_deg1","n_rules_deg2","n_rules_deg3","n_rules_deg4","n_rules_deg5plus","prop_deg1","prop_deg2","prop_deg_le2","avg_rule_degree"
+1,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.888581833416587,13.08,NA,39,39,0,0,39,0,0,0,0,1,1,2
+2,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.873038870389344,12.27,NA,47,47,0,3,44,0,0,0,0.0638297872340425,0.936170212765957,1,1.93617021276596
+3,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.846418567426971,12.77,NA,41,41,0,1,40,0,0,0,0.024390243902439,0.975609756097561,1,1.97560975609756
+4,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.878458846944016,11.96,NA,33,33,0,0,33,0,0,0,0,1,1,2
+5,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.889047136259032,12.84,NA,36,36,0,0,36,0,0,0,0,1,1,2
+6,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.872455716586151,13.54,NA,34,34,0,0,34,0,0,0,0,1,1,2
+7,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.872630370082816,14.69,NA,37,37,0,0,37,0,0,0,0,1,1,2
+8,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.836065837013248,14.83,NA,34,34,0,1,33,0,0,0,0.0294117647058824,0.970588235294118,1,1.97058823529412
+9,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.825798470535313,13.31,NA,31,31,0,1,30,0,0,0,0.032258064516129,0.967741935483871,1,1.96774193548387
+10,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.850995349136613,13.06,NA,40,40,0,1,39,0,0,0,0.025,0.975,1,1.975
+11,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.843267267846522,13.03,NA,32,32,0,2,30,0,0,0,0.0625,0.9375,1,1.9375
+12,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.875400102426221,13.86,NA,49,49,0,1,48,0,0,0,0.0204081632653061,0.979591836734694,1,1.97959183673469
+13,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.872012987012987,12.77,NA,22,22,0,1,21,0,0,0,0.0454545454545455,0.954545454545455,1,1.95454545454545
+14,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.864792481878248,14.53,NA,39,39,0,0,39,0,0,0,0,1,1,2
+15,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.85564,13.4,NA,38,38,0,0,38,0,0,0,0,1,1,2
+16,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.89010101010101,13.55,NA,38,38,0,0,38,0,0,0,0,1,1,2
+17,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.879886078177251,13.48,NA,35,35,0,0,35,0,0,0,0,1,1,2
+18,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.853523928703213,12.54,NA,44,44,0,0,44,0,0,0,0,1,1,2
+19,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.881456413210445,11.62,NA,37,37,0,2,35,0,0,0,0.0540540540540541,0.945945945945946,1,1.94594594594595
+20,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.874612605379366,14.04,NA,36,36,0,1,35,0,0,0,0.0277777777777778,0.972222222222222,1,1.97222222222222
+21,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.87819797979798,12.3,NA,35,35,0,1,34,0,0,0,0.0285714285714286,0.971428571428571,1,1.97142857142857
+22,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.865655558414822,13.22,NA,33,33,0,1,32,0,0,0,0.0303030303030303,0.96969696969697,1,1.96969696969697
+23,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.844577907498877,12.78,NA,33,33,0,0,33,0,0,0,0,1,1,2
+24,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.871636555833173,13.33,NA,37,37,0,0,37,0,0,0,0,1,1,2
+25,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.875349658929185,13.49,NA,39,39,0,0,39,0,0,0,0,1,1,2
+26,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.847576203893443,13.6,NA,39,39,0,1,38,0,0,0,0.0256410256410256,0.974358974358974,1,1.97435897435897
+27,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.899261340826977,13.38,NA,45,45,0,1,44,0,0,0,0.0222222222222222,0.977777777777778,1,1.97777777777778
+28,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.871423771121352,12.96,NA,36,36,0,0,36,0,0,0,0,1,1,2
+29,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.872074208173793,13.11,NA,28,28,0,1,27,0,0,0,0.0357142857142857,0.964285714285714,1,1.96428571428571
+30,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.87400641025641,12.22,NA,27,27,0,1,26,0,0,0,0.037037037037037,0.962962962962963,1,1.96296296296296
+31,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.880220766112882,12.89,NA,38,38,0,2,36,0,0,0,0.0526315789473684,0.947368421052632,1,1.94736842105263
+32,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.832760484742864,12.61,NA,29,29,0,2,27,0,0,0,0.0689655172413793,0.931034482758621,1,1.93103448275862
+33,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.869049907104875,13.48,NA,34,34,0,0,34,0,0,0,0,1,1,2
+34,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.88047664319438,13.56,NA,40,40,0,1,39,0,0,0,0.025,0.975,1,1.975
+35,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.872533333333333,12.77,NA,42,42,0,4,38,0,0,0,0.0952380952380952,0.904761904761905,1,1.9047619047619
+36,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.888379425132834,13.34,NA,41,41,0,1,40,0,0,0,0.024390243902439,0.975609756097561,1,1.97560975609756
+37,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.860527073732719,12.41,NA,28,28,0,1,27,0,0,0,0.0357142857142857,0.964285714285714,1,1.96428571428571
+38,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.875800659937888,14,NA,38,38,0,0,38,0,0,0,0,1,1,2
+39,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.868753608313554,13.37,NA,38,38,0,1,37,0,0,0,0.0263157894736842,0.973684210526316,1,1.97368421052632
+40,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.855424,13.85,NA,36,36,0,0,36,0,0,0,0,1,1,2
+41,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.874223801293131,13.42,NA,33,33,0,0,33,0,0,0,0,1,1,2
+42,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.885987250944968,13.43,NA,40,40,0,1,39,0,0,0,0.025,0.975,1,1.975
+43,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.863250132766861,13.39,NA,40,40,0,0,40,0,0,0,0,1,1,2
+44,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.861087946629033,13.81,NA,48,48,0,1,47,0,0,0,0.0208333333333333,0.979166666666667,1,1.97916666666667
+45,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.883055124223602,13.48,NA,38,38,0,3,35,0,0,0,0.0789473684210526,0.921052631578947,1,1.92105263157895
+46,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.865444161011375,13.77,NA,34,34,0,1,33,0,0,0,0.0294117647058824,0.970588235294118,1,1.97058823529412
+47,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.887607815525436,13.65,NA,33,33,0,1,32,0,0,0,0.0303030303030303,0.96969696969697,1,1.96969696969697
+48,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.865853071055801,13.62,NA,36,36,0,0,36,0,0,0,0,1,1,2
+49,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.872420020639835,13.86,NA,40,40,0,0,40,0,0,0,0,1,1,2
+50,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.868476767676768,13.37,NA,33,33,0,0,33,0,0,0,0,1,1,2
+51,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.886070376536885,13.39,NA,37,37,0,1,36,0,0,0,0.027027027027027,0.972972972972973,1,1.97297297297297
+52,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.896518344293509,13.65,NA,44,44,0,2,42,0,0,0,0.0454545454545455,0.954545454545455,1,1.95454545454545
+53,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.88612339035172,13.25,NA,38,38,0,0,38,0,0,0,0,1,1,2
+54,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.856927324088341,12.53,NA,30,30,0,2,28,0,0,0,0.0666666666666667,0.933333333333333,1,1.93333333333333
+55,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.871681699482529,12.81,NA,36,36,0,1,35,0,0,0,0.0277777777777778,0.972222222222222,1,1.97222222222222
+56,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.856073358021129,12.38,NA,36,36,0,0,36,0,0,0,0,1,1,2
+57,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.857416437342088,12.11,NA,48,48,0,0,48,0,0,0,0,1,1,2
+58,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.858046639759113,12.75,NA,30,30,0,0,30,0,0,0,0,1,1,2
+59,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.891802488960257,11.97,NA,28,28,0,0,28,0,0,0,0,1,1,2
+60,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.882239413159075,12.11,NA,35,35,0,1,34,0,0,0,0.0285714285714286,0.971428571428571,1,1.97142857142857
+61,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.903009203681473,12.63,NA,36,36,0,2,34,0,0,0,0.0555555555555556,0.944444444444444,1,1.94444444444444
+62,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.878304846040586,11.84,NA,29,29,0,2,27,0,0,0,0.0689655172413793,0.931034482758621,1,1.93103448275862
+63,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.826680117211894,13.28,NA,43,43,0,0,43,0,0,0,0,1,1,2
+64,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.850729786825427,12.89,NA,30,30,0,0,30,0,0,0,0,1,1,2
+65,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.875054070074817,11.88,NA,27,27,0,2,25,0,0,0,0.0740740740740741,0.925925925925926,1,1.92592592592593
+66,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.872278432377049,13.07,NA,31,31,0,1,30,0,0,0,0.032258064516129,0.967741935483871,1,1.96774193548387
+67,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.878087112707678,12.04,NA,38,38,0,2,36,0,0,0,0.0526315789473684,0.947368421052632,1,1.94736842105263
+68,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.882337775342819,12.48,NA,32,32,0,3,29,0,0,0,0.09375,0.90625,1,1.90625
+69,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.861476052551567,12.27,NA,33,33,0,0,33,0,0,0,0,1,1,2
+70,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.869597016604781,12.52,NA,33,33,0,0,33,0,0,0,0,1,1,2
+71,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.842722248183181,12.73,NA,40,40,0,0,40,0,0,0,0,1,1,2
+72,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.885265874733484,12.92,NA,34,34,0,0,34,0,0,0,0,1,1,2
+73,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.903032146516393,12.53,NA,35,35,0,2,33,0,0,0,0.0571428571428571,0.942857142857143,1,1.94285714285714
+74,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.820934214526892,12.36,NA,26,26,0,1,25,0,0,0,0.0384615384615385,0.961538461538462,1,1.96153846153846
+75,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.858088741573394,12.39,NA,29,29,0,0,29,0,0,0,0,1,1,2
+76,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.893252672684207,13.52,NA,36,36,0,0,36,0,0,0,0,1,1,2
+77,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.846965551448823,12.37,NA,29,29,0,1,28,0,0,0,0.0344827586206897,0.96551724137931,1,1.96551724137931
+78,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.856126792114695,12.52,NA,37,37,0,0,37,0,0,0,0,1,1,2
+79,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.861976498463115,12,NA,40,40,0,3,37,0,0,0,0.075,0.925,1,1.925
+80,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.884729963482606,11.02,NA,33,33,0,1,32,0,0,0,0.0303030303030303,0.96969696969697,1,1.96969696969697
+81,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.864564497287609,11.53,NA,44,44,0,1,43,0,0,0,0.0227272727272727,0.977272727272727,1,1.97727272727273
+82,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.894156073446328,12.02,NA,35,35,0,1,34,0,0,0,0.0285714285714286,0.971428571428571,1,1.97142857142857
+83,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.888971779692288,11.25,NA,38,38,0,1,37,0,0,0,0.0263157894736842,0.973684210526316,1,1.97368421052632
+84,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.879040258576549,11.9,NA,36,36,0,0,36,0,0,0,0,1,1,2
+85,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.873711670187568,11.09,NA,30,30,0,2,28,0,0,0,0.0666666666666667,0.933333333333333,1,1.93333333333333
+86,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.844682147668228,10.5,NA,37,37,0,0,37,0,0,0,0,1,1,2
+87,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.865864,11.34,NA,35,35,0,0,35,0,0,0,0,1,1,2
+88,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.863461538461539,10.93,NA,30,30,0,1,29,0,0,0,0.0333333333333333,0.966666666666667,1,1.96666666666667
+89,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.860557128152342,11.24,NA,32,32,0,1,31,0,0,0,0.03125,0.96875,1,1.96875
+90,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.8715272768079,12.03,NA,36,36,0,1,35,0,0,0,0.0277777777777778,0.972222222222222,1,1.97222222222222
+91,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.876128650102459,10.75,NA,35,35,0,0,35,0,0,0,0,1,1,2
+92,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.877219505918682,11.86,NA,35,35,0,0,35,0,0,0,0,1,1,2
+93,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.890854253668059,11.67,NA,31,31,0,1,30,0,0,0,0.032258064516129,0.967741935483871,1,1.96774193548387
+94,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.848873311567761,11.9,NA,27,27,0,2,25,0,0,0,0.0740740740740741,0.925925925925926,1,1.92592592592593
+95,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.878950063201011,11.97,NA,33,33,0,0,33,0,0,0,0,1,1,2
+96,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.887789466931811,12.08,NA,34,34,0,3,31,0,0,0,0.0882352941176471,0.911764705882353,1,1.91176470588235
+97,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.883344544813889,12.13,NA,39,39,0,2,37,0,0,0,0.0512820512820513,0.948717948717949,1,1.94871794871795
+98,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.869619603566617,11.91,NA,30,30,0,0,30,0,0,0,0,1,1,2
+99,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.881009615384615,12.35,NA,40,40,0,1,39,0,0,0,0.025,0.975,1,1.975
+100,"binary",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.859919710959454,10.34,NA,31,31,0,1,30,0,0,0,0.032258064516129,0.967741935483871,1,1.96774193548387
+1,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.867061710180255,14.19,NA,38,38,0,0,38,0,0,0,0,1,1,2
+2,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.859182889344262,14.42,NA,44,44,0,0,44,0,0,0,0,1,1,2
+3,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.826587091495404,14.61,NA,58,58,0,0,58,0,0,0,0,1,1,2
+4,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.843567953396069,14.99,NA,46,46,0,0,46,0,0,0,0,1,1,2
+5,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.849922388823991,14.83,NA,42,42,0,0,42,0,0,0,0,1,1,2
+6,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.840737066137524,15.67,NA,53,53,0,0,53,0,0,0,0,1,1,2
+7,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.881424569827931,16.54,NA,52,52,0,0,52,0,0,0,0,1,1,2
+8,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.822324702566812,16,NA,50,50,0,0,50,0,0,0,0,1,1,2
+9,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.871691406062353,16,NA,41,41,0,0,41,0,0,0,0,1,1,2
+10,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.852929396497861,15.42,NA,50,50,0,0,50,0,0,0,0,1,1,2
+11,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.867045872733964,15.44,NA,56,56,0,0,56,0,0,0,0,1,1,2
+12,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.823210709902461,15.84,NA,54,54,0,0,54,0,0,0,0,1,1,2
+13,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.811360426296867,15.35,NA,52,52,0,0,52,0,0,0,0,1,1,2
+14,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.860353001473509,15.17,NA,51,51,0,0,51,0,0,0,0,1,1,2
+15,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.856684474819913,14.4,NA,47,47,0,0,47,0,0,0,0,1,1,2
+16,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.852307716979922,15.08,NA,39,39,0,0,39,0,0,0,0,1,1,2
+17,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.869149906398502,15.07,NA,47,47,0,0,47,0,0,0,0,1,1,2
+18,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.867091346153846,15.04,NA,51,51,0,0,51,0,0,0,0,1,1,2
+19,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.877609503073771,14.99,NA,56,56,0,0,56,0,0,0,0,1,1,2
+20,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.825387299148582,14.96,NA,54,54,0,0,54,0,0,0,0,1,1,2
+21,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.836595649176806,15.06,NA,52,52,0,0,52,0,0,0,0,1,1,2
+22,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.809533011272142,14.02,NA,55,55,0,0,55,0,0,0,0,1,1,2
+23,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.870733385607527,14.47,NA,48,48,0,0,48,0,0,0,0,1,1,2
+24,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.88528065796211,14.76,NA,52,52,0,0,52,0,0,0,0,1,1,2
+25,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.832135827559168,14.66,NA,49,49,0,0,49,0,0,0,0,1,1,2
+26,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.851121794871795,15.08,NA,52,52,0,0,52,0,0,0,0,1,1,2
+27,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.843397977470558,15.25,NA,56,56,0,0,56,0,0,0,0,1,1,2
+28,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.854022213662044,15.29,NA,55,55,0,0,55,0,0,0,0,1,1,2
+29,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.840463158568594,14.72,NA,44,44,0,0,44,0,0,0,0,1,1,2
+30,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.874727564102564,14.85,NA,57,57,0,0,57,0,0,0,0,1,1,2
+31,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.848576,14.75,NA,47,47,0,0,47,0,0,0,0,1,1,2
+32,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.85056130983016,14.61,NA,51,51,0,0,51,0,0,0,0,1,1,2
+33,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.871284195015696,15.12,NA,60,60,0,0,60,0,0,0,0,1,1,2
+34,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.848392210144927,14.71,NA,49,49,0,0,49,0,0,0,0,1,1,2
+35,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.879008418482103,14.81,NA,53,53,0,0,53,0,0,0,0,1,1,2
+36,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.848322535120919,15.47,NA,51,51,0,0,51,0,0,0,0,1,1,2
+37,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.85979967948718,15.21,NA,50,50,0,0,50,0,0,0,0,1,1,2
+38,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.87812725090036,15.44,NA,52,52,0,1,51,0,0,0,0.0192307692307692,0.980769230769231,1,1.98076923076923
+39,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.844118023553507,15.6,NA,50,50,0,0,50,0,0,0,0,1,1,2
+40,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.845400422508162,15.46,NA,56,56,0,0,56,0,0,0,0,1,1,2
+41,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.847478238607271,15.11,NA,43,43,0,0,43,0,0,0,0,1,1,2
+42,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.866142930360689,15.24,NA,48,48,0,0,48,0,0,0,0,1,1,2
+43,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.847673004289098,15.05,NA,55,55,0,0,55,0,0,0,0,1,1,2
+44,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.832509320149122,15.35,NA,45,45,0,0,45,0,0,0,0,1,1,2
+45,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.8680560041341,15.1,NA,53,53,0,0,53,0,0,0,0,1,1,2
+46,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.851126472094214,15.24,NA,59,59,0,0,59,0,0,0,0,1,1,2
+47,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.836370192307692,15.01,NA,44,44,0,0,44,0,0,0,0,1,1,2
+48,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.830317141710157,15.09,NA,57,57,0,0,57,0,0,0,0,1,1,2
+49,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.859999359631147,15.48,NA,55,55,0,0,55,0,0,0,0,1,1,2
+50,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.84366199436764,15.08,NA,63,63,0,0,63,0,0,0,0,1,1,2
+51,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.840869565217391,15.34,NA,59,59,0,0,59,0,0,0,0,1,1,2
+52,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.859755804835896,15,NA,54,54,0,0,54,0,0,0,0,1,1,2
+53,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.839723877250304,14.24,NA,47,47,0,0,47,0,0,0,0,1,1,2
+54,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.902560466652702,14.06,NA,47,47,0,1,46,0,0,0,0.0212765957446809,0.978723404255319,1,1.97872340425532
+55,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.837313169542626,13.89,NA,49,49,0,0,49,0,0,0,0,1,1,2
+56,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.851819826744167,13.45,NA,46,46,0,0,46,0,0,0,0,1,1,2
+57,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.855528846153846,13.59,NA,43,43,0,0,43,0,0,0,0,1,1,2
+58,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.869622623391588,13.88,NA,51,51,0,0,51,0,0,0,0,1,1,2
+59,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.815447611401044,13.7,NA,57,57,0,0,57,0,0,0,0,1,1,2
+60,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.847880379098361,14.28,NA,55,55,0,0,55,0,0,0,0,1,1,2
+61,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.845847144161022,14.68,NA,58,58,0,1,57,0,0,0,0.0172413793103448,0.982758620689655,1,1.98275862068966
+62,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.833149330389286,14.39,NA,41,41,0,0,41,0,0,0,0,1,1,2
+63,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.821894402464263,14.43,NA,47,47,0,0,47,0,0,0,0,1,1,2
+64,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.838769595362764,13.71,NA,62,62,0,0,62,0,0,0,0,1,1,2
+65,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.855002880737469,14.37,NA,52,52,0,0,52,0,0,0,0,1,1,2
+66,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.823485175762812,14.3,NA,56,56,0,0,56,0,0,0,0,1,1,2
+67,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.860101108302547,14.34,NA,61,61,0,0,61,0,0,0,0,1,1,2
+68,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.862368,14.76,NA,62,62,0,0,62,0,0,0,0,1,1,2
+69,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.85074267362505,14.04,NA,54,54,0,0,54,0,0,0,0,1,1,2
+70,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.83187450904952,14.33,NA,53,53,0,0,53,0,0,0,0,1,1,2
+71,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.850656,14.82,NA,64,64,0,0,64,0,0,0,0,1,1,2
+72,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.875246003936063,14.75,NA,54,54,0,0,54,0,0,0,0,1,1,2
+73,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.886592,14.03,NA,47,47,0,0,47,0,0,0,0,1,1,2
+74,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.843216467080267,14.25,NA,42,42,0,0,42,0,0,0,0,1,1,2
+75,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.830807636299627,14.22,NA,52,52,0,0,52,0,0,0,0,1,1,2
+76,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.854521413828689,13.97,NA,37,37,0,0,37,0,0,0,0,1,1,2
+77,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.833677470988395,13.98,NA,53,53,0,0,53,0,0,0,0,1,1,2
+78,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.862676282051282,13.77,NA,53,53,0,0,53,0,0,0,0,1,1,2
+79,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.866618647458984,13.31,NA,48,48,0,0,48,0,0,0,0,1,1,2
+80,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.858815526210484,13.25,NA,47,47,0,0,47,0,0,0,0,1,1,2
+81,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.85242699795082,12.82,NA,57,57,0,1,56,0,0,0,0.0175438596491228,0.982456140350877,1,1.98245614035088
+82,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.870016,13.84,NA,56,56,0,0,56,0,0,0,0,1,1,2
+83,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.881329620382818,13.23,NA,63,63,0,0,63,0,0,0,0,1,1,2
+84,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.873259744629039,12.64,NA,49,49,0,0,49,0,0,0,0,1,1,2
+85,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.868365044566418,13,NA,56,56,0,0,56,0,0,0,0,1,1,2
+86,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.863063236047107,12.93,NA,51,51,0,0,51,0,0,0,0,1,1,2
+87,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.854285668570697,12.86,NA,52,52,0,0,52,0,0,0,0,1,1,2
+88,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.846478556753981,12.44,NA,65,65,0,0,65,0,0,0,0,1,1,2
+89,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.858046639759113,12.96,NA,67,67,0,0,67,0,0,0,0,1,1,2
+90,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.836592156294759,13.23,NA,55,55,0,0,55,0,0,0,0,1,1,2
+91,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.875792811839323,13.12,NA,48,48,0,0,48,0,0,0,0,1,1,2
+92,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.847709563353014,13.6,NA,51,51,0,0,51,0,0,0,0,1,1,2
+93,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.840003842213115,13.8,NA,56,56,0,0,56,0,0,0,0,1,1,2
+94,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.864652509961434,13.61,NA,49,49,0,0,49,0,0,0,0,1,1,2
+95,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.844358038914491,14.11,NA,57,57,0,0,57,0,0,0,0,1,1,2
+96,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.858288812950217,13.98,NA,58,58,0,0,58,0,0,0,0,1,1,2
+97,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.858775385995259,13.82,NA,42,42,0,0,42,0,0,0,0,1,1,2
+98,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.884654154466471,12.56,NA,55,55,0,0,55,0,0,0,0,1,1,2
+99,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.858679471788716,12.11,NA,58,58,0,0,58,0,0,0,0,1,1,2
+100,"binary",2,"Purely linear","RuleFit (max depth 2)",TRUE,"AUC",0.868681045940017,11.02,NA,53,53,0,0,53,0,0,0,0,1,1,2
+1,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.859951690821256,13.97,NA,50,50,0,1,49,0,0,0,0.02,0.98,1,1.98
+2,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.83148773423373,13.79,NA,52,52,0,0,52,0,0,0,0,1,1,2
+3,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.802128103149657,14.31,NA,48,48,0,0,48,0,0,0,0,1,1,2
+4,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.856917584528688,13.17,NA,51,51,0,2,49,0,0,0,0.0392156862745098,0.96078431372549,1,1.96078431372549
+5,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.815480769230769,12.5,NA,45,45,0,4,41,0,0,0,0.0888888888888889,0.911111111111111,1,1.91111111111111
+6,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.803123993558776,14.44,NA,36,36,0,0,36,0,0,0,0,1,1,2
+7,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.823450307377049,14.88,NA,51,51,0,1,50,0,0,0,0.0196078431372549,0.980392156862745,1,1.98039215686275
+8,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.798783911697229,14.88,NA,40,40,0,0,40,0,0,0,0,1,1,2
+9,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.821501144018304,14.45,NA,40,40,0,3,37,0,0,0,0.075,0.925,1,1.925
+10,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.842334760095545,14.75,NA,58,58,0,0,58,0,0,0,0,1,1,2
+11,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.830372575379297,14.33,NA,47,47,0,2,45,0,0,0,0.0425531914893617,0.957446808510638,1,1.95744680851064
+12,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.84450591868245,14.72,NA,43,43,0,0,43,0,0,0,0,1,1,2
+13,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.797107814431648,14.09,NA,41,41,0,0,41,0,0,0,0,1,1,2
+14,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.802012832205315,14.89,NA,58,58,0,0,58,0,0,0,0,1,1,2
+15,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.850013600217604,14,NA,49,49,0,2,47,0,0,0,0.0408163265306122,0.959183673469388,1,1.95918367346939
+16,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.827097314086162,13.89,NA,35,35,0,1,34,0,0,0,0.0285714285714286,0.971428571428571,1,1.97142857142857
+17,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.813813021008336,14.53,NA,42,42,0,0,42,0,0,0,0,1,1,2
+18,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.821384553821529,13.57,NA,49,49,0,0,49,0,0,0,0,1,1,2
+19,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.850412164865946,14.03,NA,46,46,0,0,46,0,0,0,0,1,1,2
+20,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.803827444956477,14.1,NA,48,48,0,1,47,0,0,0,0.0208333333333333,0.979166666666667,1,1.97916666666667
+21,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.829782790309106,13.03,NA,32,32,0,0,32,0,0,0,0,1,1,2
+22,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.822060219829737,13.81,NA,44,44,0,2,42,0,0,0,0.0454545454545455,0.954545454545455,1,1.95454545454545
+23,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.832412611487406,13.83,NA,40,40,0,1,39,0,0,0,0.025,0.975,1,1.975
+24,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.840285444567113,13.81,NA,40,40,0,0,40,0,0,0,0,1,1,2
+25,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.782938754503345,14.49,NA,58,58,0,2,56,0,0,0,0.0344827586206897,0.96551724137931,1,1.96551724137931
+26,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.814685258709016,13.85,NA,42,42,0,0,42,0,0,0,0,1,1,2
+27,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.842052088010777,14.35,NA,56,56,0,0,56,0,0,0,0,1,1,2
+28,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.801756999167147,14.17,NA,44,44,0,0,44,0,0,0,0,1,1,2
+29,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.805934319185712,13.62,NA,28,28,0,0,28,0,0,0,0,1,1,2
+30,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.858149038461538,13.83,NA,33,33,0,0,33,0,0,0,0,1,1,2
+31,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.810823570834134,13.32,NA,38,38,0,0,38,0,0,0,0,1,1,2
+32,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.822612179487179,14.01,NA,47,47,0,2,45,0,0,0,0.0425531914893617,0.957446808510638,1,1.95744680851064
+33,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.83263159579918,13.87,NA,52,52,0,0,52,0,0,0,0,1,1,2
+34,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.806310961824172,13.7,NA,52,52,0,0,52,0,0,0,0,1,1,2
+35,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.830935367322361,13.83,NA,37,37,0,0,37,0,0,0,0,1,1,2
+36,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.843910092213115,15.05,NA,46,46,0,0,46,0,0,0,0,1,1,2
+37,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.833301325139236,13.5,NA,40,40,0,2,38,0,0,0,0.05,0.95,1,1.95
+38,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.854851888046909,14.72,NA,60,60,0,1,59,0,0,0,0.0166666666666667,0.983333333333333,1,1.98333333333333
+39,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.802966237427125,13.73,NA,53,53,0,8,45,0,0,0,0.150943396226415,0.849056603773585,1,1.84905660377358
+40,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.837870116545632,14.61,NA,56,56,0,1,55,0,0,0,0.0178571428571429,0.982142857142857,1,1.98214285714286
+41,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.830042753518759,13.86,NA,57,57,0,1,56,0,0,0,0.0175438596491228,0.982456140350877,1,1.98245614035088
+42,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.847153990174585,14.11,NA,45,45,0,0,45,0,0,0,0,1,1,2
+43,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.800640499525258,13.01,NA,37,37,0,1,36,0,0,0,0.027027027027027,0.972972972972973,1,1.97297297297297
+44,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.83343737494998,14.47,NA,46,46,0,0,46,0,0,0,0,1,1,2
+45,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.825253536593243,14.21,NA,40,40,0,0,40,0,0,0,0,1,1,2
+46,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.826532898105479,13.33,NA,39,39,0,1,38,0,0,0,0.0256410256410256,0.974358974358974,1,1.97435897435897
+47,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.818745896783078,14.2,NA,42,42,0,0,42,0,0,0,0,1,1,2
+48,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.836486140451956,14.79,NA,51,51,0,0,51,0,0,0,0,1,1,2
+49,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.819099116496886,14.58,NA,54,54,0,1,53,0,0,0,0.0185185185185185,0.981481481481482,1,1.98148148148148
+50,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.821280512204882,14.24,NA,38,38,0,0,38,0,0,0,0,1,1,2
+51,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.849957298699625,13.83,NA,42,42,0,0,42,0,0,0,0,1,1,2
+52,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.835297131147541,14.64,NA,59,59,0,1,58,0,0,0,0.0169491525423729,0.983050847457627,1,1.98305084745763
+53,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.828060500515996,13.13,NA,39,39,0,1,38,0,0,0,0.0256410256410256,0.974358974358974,1,1.97435897435897
+54,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.830120597857464,13.89,NA,44,44,0,1,43,0,0,0,0.0227272727272727,0.977272727272727,1,1.97727272727273
+55,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.82312517000272,13.67,NA,40,40,0,0,40,0,0,0,0,1,1,2
+56,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.821140552995392,12.6,NA,43,43,0,0,43,0,0,0,0,1,1,2
+57,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.830453546389437,12.25,NA,41,41,0,1,40,0,0,0,0.024390243902439,0.975609756097561,1,1.97560975609756
+58,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.847642060456706,12.35,NA,41,41,0,1,40,0,0,0,0.024390243902439,0.975609756097561,1,1.97560975609756
+59,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.826339542922988,13.05,NA,53,53,0,0,53,0,0,0,0,1,1,2
+60,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.831275720164609,13.24,NA,43,43,0,1,42,0,0,0,0.0232558139534884,0.976744186046512,1,1.97674418604651
+61,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.858167266906763,13.77,NA,51,51,0,0,51,0,0,0,0,1,1,2
+62,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.832748970663922,13.47,NA,57,57,0,0,57,0,0,0,0,1,1,2
+63,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.838066726434426,13.36,NA,53,53,0,1,52,0,0,0,0.0188679245283019,0.981132075471698,1,1.9811320754717
+64,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.827995966967544,13.7,NA,42,42,0,0,42,0,0,0,0,1,1,2
+65,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.867210884353741,12.67,NA,47,47,0,1,46,0,0,0,0.0212765957446809,0.978723404255319,1,1.97872340425532
+66,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.818417639429313,13.55,NA,41,41,0,0,41,0,0,0,0,1,1,2
+67,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.837388738390093,13.89,NA,37,37,0,0,37,0,0,0,0,1,1,2
+68,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.823910643132611,13.74,NA,43,43,0,2,41,0,0,0,0.0465116279069767,0.953488372093023,1,1.95348837209302
+69,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.829426937310755,13.99,NA,58,58,0,0,58,0,0,0,0,1,1,2
+70,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.822946674348633,13.58,NA,50,50,0,3,47,0,0,0,0.06,0.94,1,1.94
+71,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.80583641195152,13.56,NA,46,46,0,0,46,0,0,0,0,1,1,2
+72,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.837122182377049,13.29,NA,48,48,0,0,48,0,0,0,0,1,1,2
+73,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.867374047756226,13.7,NA,47,47,0,0,47,0,0,0,0,1,1,2
+74,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.787620601929631,13.84,NA,42,42,0,2,40,0,0,0,0.0476190476190476,0.952380952380952,1,1.95238095238095
+75,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.826198026779422,13.63,NA,35,35,0,0,35,0,0,0,0,1,1,2
+76,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.845543824796937,13.64,NA,45,45,0,0,45,0,0,0,0,1,1,2
+77,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.791086663673103,12.56,NA,34,34,0,1,33,0,0,0,0.0294117647058824,0.970588235294118,1,1.97058823529412
+78,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.840485074626866,12.44,NA,45,45,0,3,42,0,0,0,0.0666666666666667,0.933333333333333,1,1.93333333333333
+79,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.852160241292455,12.67,NA,50,50,0,3,47,0,0,0,0.06,0.94,1,1.94
+80,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.818109089745436,12.44,NA,39,39,0,0,39,0,0,0,0,1,1,2
+81,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.827202105803801,11.83,NA,43,43,0,2,41,0,0,0,0.0465116279069767,0.953488372093023,1,1.95348837209302
+82,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.84256592421915,12.66,NA,47,47,0,0,47,0,0,0,0,1,1,2
+83,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.841442831653566,12.76,NA,42,42,0,1,41,0,0,0,0.0238095238095238,0.976190476190476,1,1.97619047619048
+84,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.822125154002464,12.22,NA,60,60,0,0,60,0,0,0,0,1,1,2
+85,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.83678403868633,12.5,NA,33,33,0,0,33,0,0,0,0,1,1,2
+86,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.826496096442713,12.19,NA,47,47,0,1,46,0,0,0,0.0212765957446809,0.978723404255319,1,1.97872340425532
+87,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.813904404211608,12.14,NA,47,47,0,0,47,0,0,0,0,1,1,2
+88,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.833619335934338,11.95,NA,50,50,0,0,50,0,0,0,0,1,1,2
+89,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.816618337365225,12.61,NA,47,47,0,0,47,0,0,0,0,1,1,2
+90,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.829225210758731,11.91,NA,39,39,0,3,36,0,0,0,0.0769230769230769,0.923076923076923,1,1.92307692307692
+91,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.802629473145125,12.92,NA,37,37,0,0,37,0,0,0,0,1,1,2
+92,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.838807932156655,13.13,NA,53,53,0,0,53,0,0,0,0,1,1,2
+93,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.806590487164714,13.25,NA,41,41,0,0,41,0,0,0,0,1,1,2
+94,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.826496,12.91,NA,48,48,0,0,48,0,0,0,0,1,1,2
+95,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.823796722990271,12.97,NA,45,45,0,1,44,0,0,0,0.0222222222222222,0.977777777777778,1,1.97777777777778
+96,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.83402649538338,13.58,NA,51,51,0,2,49,0,0,0,0.0392156862745098,0.96078431372549,1,1.96078431372549
+97,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.838635053790984,12.6,NA,55,55,0,3,52,0,0,0,0.0545454545454545,0.945454545454545,1,1.94545454545455
+98,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.844535256410256,12.45,NA,52,52,0,1,51,0,0,0,0.0192307692307692,0.980769230769231,1,1.98076923076923
+99,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.832711910515114,11.53,NA,39,39,0,0,39,0,0,0,0,1,1,2
+100,"binary",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"AUC",0.828520404894612,9.88999999999999,NA,45,45,0,0,45,0,0,0,0,1,1,2
+1,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.745908411362027,9.89,NA,17,17,0,5,12,0,0,0,0.294117647058824,0.705882352941177,1,1.70588235294118
+2,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.72556258790436,12.94,NA,9,9,0,2,7,0,0,0,0.222222222222222,0.777777777777778,1,1.77777777777778
+3,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.711743805516597,11.67,NA,12,12,0,3,9,0,0,0,0.25,0.75,1,1.75
+4,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.762319121864959,12.75,NA,10,10,0,0,10,0,0,0,0,1,1,2
+5,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.730675839740995,9.91,NA,10,10,0,2,8,0,0,0,0.2,0.8,1,1.8
+6,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.799429862306368,11.86,NA,6,6,0,0,6,0,0,0,0,1,1,2
+7,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.746198568872988,13.11,NA,21,21,0,10,11,0,0,0,0.476190476190476,0.523809523809524,1,1.52380952380952
+8,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.73804598986285,13.39,NA,17,17,0,4,13,0,0,0,0.235294117647059,0.764705882352941,1,1.76470588235294
+9,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.685018382352941,12.53,NA,24,24,0,10,14,0,0,0,0.416666666666667,0.583333333333333,1,1.58333333333333
+10,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.715482131589514,11.02,NA,7,7,0,1,6,0,0,0,0.142857142857143,0.857142857142857,1,1.85714285714286
+11,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.700181360574432,15.38,NA,16,16,0,3,13,0,0,0,0.1875,0.8125,1,1.8125
+12,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.755952380952381,11.64,NA,23,23,0,3,20,0,0,0,0.130434782608696,0.869565217391304,1,1.8695652173913
+13,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.709193918531268,12.88,NA,19,19,0,6,13,0,0,0,0.315789473684211,0.684210526315789,1,1.68421052631579
+14,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.740879921373649,13.72,NA,24,24,0,3,21,0,0,0,0.125,0.875,1,1.875
+15,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.68978826402669,10.8,NA,10,10,0,7,3,0,0,0,0.7,0.3,1,1.3
+16,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.767349544747946,12.64,NA,9,9,0,1,8,0,0,0,0.111111111111111,0.888888888888889,1,1.88888888888889
+17,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.71037539574853,15.83,NA,18,18,0,2,16,0,0,0,0.111111111111111,0.888888888888889,1,1.88888888888889
+18,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.760068688536897,13.52,NA,14,14,0,0,14,0,0,0,0,1,1,2
+19,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.738114133179424,16.34,NA,23,23,0,5,18,0,0,0,0.217391304347826,0.782608695652174,1,1.78260869565217
+20,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.729554382409926,13.33,NA,23,23,0,7,16,0,0,0,0.304347826086957,0.695652173913043,1,1.69565217391304
+21,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.780100957953307,13.67,NA,15,15,0,0,15,0,0,0,0,1,1,2
+22,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.754861151259371,11.99,NA,9,9,0,0,9,0,0,0,0,1,1,2
+23,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.694550304878049,9.59,NA,5,5,0,3,2,0,0,0,0.6,0.4,1,1.4
+24,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.668425830149247,13.74,NA,12,12,0,0,12,0,0,0,0,1,1,2
+25,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.775715563506261,13.03,NA,29,29,0,6,23,0,0,0,0.206896551724138,0.793103448275862,1,1.79310344827586
+26,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.707637162513731,13.84,NA,9,9,0,0,9,0,0,0,0,1,1,2
+27,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.754921549039196,12.72,NA,8,8,0,0,8,0,0,0,0,1,1,2
+28,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.749249863611566,13.28,NA,24,24,0,7,17,0,0,0,0.291666666666667,0.708333333333333,1,1.70833333333333
+29,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.698937102783257,11.11,NA,7,7,0,3,4,0,0,0,0.428571428571429,0.571428571428571,1,1.57142857142857
+30,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.705662943176299,10.69,NA,11,11,0,3,8,0,0,0,0.272727272727273,0.727272727272727,1,1.72727272727273
+31,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.720309810671256,11.94,NA,19,19,0,9,10,0,0,0,0.473684210526316,0.526315789473684,1,1.52631578947368
+32,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.720831588720395,10.4,NA,9,9,0,4,5,0,0,0,0.444444444444444,0.555555555555556,1,1.55555555555556
+33,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.750388816389281,10.59,NA,14,14,0,3,11,0,0,0,0.214285714285714,0.785714285714286,1,1.78571428571429
+34,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.765063736263736,12,NA,20,20,0,3,17,0,0,0,0.15,0.85,1,1.85
+35,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.699909916672922,23.28,NA,18,18,0,2,16,0,0,0,0.111111111111111,0.888888888888889,1,1.88888888888889
+36,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.681958335742229,11.73,NA,4,4,0,2,2,0,0,0,0.5,0.5,1,1.5
+37,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.693096509558084,12.69,NA,5,5,0,2,3,0,0,0,0.4,0.6,1,1.6
+38,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.701886721113128,17.19,NA,14,14,0,0,14,0,0,0,0,1,1,2
+39,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.730733987844787,12.26,NA,6,6,0,1,5,0,0,0,0.166666666666667,0.833333333333333,1,1.83333333333333
+40,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.69892100659866,11.28,NA,11,11,0,4,7,0,0,0,0.363636363636364,0.636363636363636,1,1.63636363636364
+41,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.733125,12.6,NA,14,14,0,4,10,0,0,0,0.285714285714286,0.714285714285714,1,1.71428571428571
+42,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.705885565527662,10.8,NA,9,9,0,1,8,0,0,0,0.111111111111111,0.888888888888889,1,1.88888888888889
+43,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.704830035514967,12.86,NA,18,18,0,4,14,0,0,0,0.222222222222222,0.777777777777778,1,1.77777777777778
+44,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.716708257713249,12.97,NA,15,15,0,2,13,0,0,0,0.133333333333333,0.866666666666667,1,1.86666666666667
+45,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.72845680058767,11.67,NA,7,7,0,1,6,0,0,0,0.142857142857143,0.857142857142857,1,1.85714285714286
+46,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.701359302089673,10.79,NA,10,10,0,3,7,0,0,0,0.3,0.7,1,1.7
+47,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.711085714285714,12.89,NA,6,6,0,0,6,0,0,0,0,1,1,2
+48,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.719903218191833,13.41,NA,15,15,0,4,11,0,0,0,0.266666666666667,0.733333333333333,1,1.73333333333333
+49,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.695193457181351,11.28,NA,5,5,0,0,5,0,0,0,0,1,1,2
+50,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.747315486993345,10.35,NA,7,7,0,2,5,0,0,0,0.285714285714286,0.714285714285714,1,1.71428571428571
+51,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.742820903094876,11.88,NA,9,9,0,0,9,0,0,0,0,1,1,2
+52,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.683085553997195,14.61,NA,15,15,0,1,14,0,0,0,0.0666666666666667,0.933333333333333,1,1.93333333333333
+53,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.774941561477326,10.89,NA,26,26,0,11,15,0,0,0,0.423076923076923,0.576923076923077,1,1.57692307692308
+54,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.705536387851052,11.15,NA,10,10,0,3,7,0,0,0,0.3,0.7,1,1.7
+55,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.708028542742398,11.27,NA,13,13,0,7,6,0,0,0,0.538461538461538,0.461538461538462,1,1.46153846153846
+56,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.703416891336354,12.05,NA,9,9,0,0,9,0,0,0,0,1,1,2
+57,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.704470385106223,9.72,NA,2,2,0,0,2,0,0,0,0,1,1,2
+58,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.740914567261873,11.12,NA,21,21,0,11,10,0,0,0,0.523809523809524,0.476190476190476,1,1.47619047619048
+59,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.682468443197756,11.08,NA,6,6,0,5,1,0,0,0,0.833333333333333,0.166666666666667,1,1.16666666666667
+60,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.687086608402499,12.2,NA,20,20,0,4,16,0,0,0,0.2,0.8,1,1.8
+61,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.732766695231073,12.42,NA,13,13,0,4,9,0,0,0,0.307692307692308,0.692307692307692,1,1.69230769230769
+62,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.748639418511213,9.55000000000001,NA,8,8,0,4,4,0,0,0,0.5,0.5,1,1.5
+63,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.69645949065724,11.28,NA,13,13,0,3,10,0,0,0,0.230769230769231,0.769230769230769,1,1.76923076923077
+64,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.735167295876823,11.95,NA,11,11,0,3,8,0,0,0,0.272727272727273,0.727272727272727,1,1.72727272727273
+65,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.696901377966958,11.95,NA,5,5,0,1,4,0,0,0,0.2,0.8,1,1.8
+66,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.771039672439551,11.08,NA,6,6,0,1,5,0,0,0,0.166666666666667,0.833333333333333,1,1.83333333333333
+67,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.675508562033199,9.61000000000001,NA,2,2,0,0,2,0,0,0,0,1,1,2
+68,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.721016744834341,11.49,NA,8,8,0,0,8,0,0,0,0,1,1,2
+69,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.607712502922084,13.18,NA,9,9,0,0,9,0,0,0,0,1,1,2
+70,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.729522910652158,13.08,NA,18,18,0,6,12,0,0,0,0.333333333333333,0.666666666666667,1,1.66666666666667
+71,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.737838082315694,11.41,NA,10,10,0,3,7,0,0,0,0.3,0.7,1,1.7
+72,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.723815227301167,13.67,NA,8,8,0,0,8,0,0,0,0,1,1,2
+73,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.661163863547032,12.64,NA,6,6,0,0,6,0,0,0,0,1,1,2
+74,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.672575001434062,11.47,NA,13,13,0,5,8,0,0,0,0.384615384615385,0.615384615384615,1,1.61538461538462
+75,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.695443778221926,12.86,NA,13,13,0,4,9,0,0,0,0.307692307692308,0.692307692307692,1,1.69230769230769
+76,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.746141738329238,12.33,NA,26,26,0,10,16,0,0,0,0.384615384615385,0.615384615384615,1,1.61538461538462
+77,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.643626669598197,10.19,NA,4,4,0,0,4,0,0,0,0,1,1,2
+78,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.704922834518423,16.83,NA,18,18,0,1,17,0,0,0,0.0555555555555556,0.944444444444444,1,1.94444444444444
+79,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.71356563664256,25.37,NA,20,20,0,2,18,0,0,0,0.1,0.9,1,1.9
+80,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.717269752220664,10.97,NA,20,20,0,11,9,0,0,0,0.55,0.45,1,1.45
+81,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.736618872457023,10.05,NA,9,9,0,3,6,0,0,0,0.333333333333333,0.666666666666667,1,1.66666666666667
+82,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.730510019843043,9.32999999999998,NA,9,9,0,5,4,0,0,0,0.555555555555556,0.444444444444444,1,1.44444444444444
+83,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.720271263834068,9.28,NA,7,7,0,2,5,0,0,0,0.285714285714286,0.714285714285714,1,1.71428571428571
+84,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.707332407476916,10.43,NA,7,7,0,2,5,0,0,0,0.285714285714286,0.714285714285714,1,1.71428571428571
+85,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.746962762050065,8.97,NA,18,18,0,10,8,0,0,0,0.555555555555556,0.444444444444444,1,1.44444444444444
+86,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.7226,9.64000000000001,NA,5,5,0,0,5,0,0,0,0,1,1,2
+87,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.652375619900816,11.25,NA,10,10,0,2,8,0,0,0,0.2,0.8,1,1.8
+88,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.732716222533894,10,NA,14,14,0,3,11,0,0,0,0.214285714285714,0.785714285714286,1,1.78571428571429
+89,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.74281600752189,9.65000000000001,NA,5,5,0,0,5,0,0,0,0,1,1,2
+90,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.725150695586078,11.68,NA,10,10,0,1,9,0,0,0,0.1,0.9,1,1.9
+91,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.732716532498509,11.86,NA,8,8,0,0,8,0,0,0,0,1,1,2
+92,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.680392156862745,10.8,NA,6,6,0,3,3,0,0,0,0.5,0.5,1,1.5
+93,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.732139303482587,12.96,NA,7,7,0,3,4,0,0,0,0.428571428571429,0.571428571428571,1,1.57142857142857
+94,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.720049842226047,11.44,NA,7,7,0,2,5,0,0,0,0.285714285714286,0.714285714285714,1,1.71428571428571
+95,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.717672413793103,11.73,NA,8,8,0,4,4,0,0,0,0.5,0.5,1,1.5
+96,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.766214998873958,12.31,NA,17,17,0,7,10,0,0,0,0.411764705882353,0.588235294117647,1,1.58823529411765
+97,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.732752380952381,11.75,NA,9,9,0,0,9,0,0,0,0,1,1,2
+98,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.714157185976318,10.47,NA,18,18,0,6,12,0,0,0,0.333333333333333,0.666666666666667,1,1.66666666666667
+99,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.717776828656849,10.98,NA,12,12,0,3,9,0,0,0,0.25,0.75,1,1.75
+100,"binary",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"AUC",0.723239343768247,8.89000000000004,NA,8,8,0,3,5,0,0,0,0.375,0.625,1,1.625
+1,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.4078501755732,13.12,NA,50,50,0,2,48,0,0,0,0.04,0.96,1,1.96
+2,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.21152477480202,13.08,NA,63,63,0,4,59,0,0,0,0.0634920634920635,0.936507936507937,1,1.93650793650794
+3,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.24089098500326,13.56,NA,63,63,0,2,61,0,0,0,0.0317460317460317,0.968253968253968,1,1.96825396825397
+4,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.45333317590117,13.64,NA,69,69,0,4,65,0,0,0,0.0579710144927536,0.942028985507246,1,1.94202898550725
+5,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.21892028345826,13.36,NA,63,63,0,4,59,0,0,0,0.0634920634920635,0.936507936507937,1,1.93650793650794
+6,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.34585156647392,12.85,NA,72,72,0,2,70,0,0,0,0.0277777777777778,0.972222222222222,1,1.97222222222222
+7,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.36126468627522,12.93,NA,63,63,0,1,62,0,0,0,0.0158730158730159,0.984126984126984,1,1.98412698412698
+8,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.18099209464863,12.88,NA,59,59,0,2,57,0,0,0,0.0338983050847458,0.966101694915254,1,1.96610169491525
+9,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.20881184113414,12.46,NA,62,62,0,4,58,0,0,0,0.0645161290322581,0.935483870967742,1,1.93548387096774
+10,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.1599491689231,12.44,NA,67,67,0,2,65,0,0,0,0.0298507462686567,0.970149253731343,1,1.97014925373134
+11,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.06225531532564,12.67,NA,65,65,0,3,62,0,0,0,0.0461538461538462,0.953846153846154,1,1.95384615384615
+12,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.14005807764819,13.23,NA,59,59,0,4,55,0,0,0,0.0677966101694915,0.932203389830508,1,1.93220338983051
+13,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.27983663121439,12.75,NA,69,69,0,8,61,0,0,0,0.115942028985507,0.884057971014493,1,1.88405797101449
+14,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.51711965295945,13.31,NA,77,77,0,4,73,0,0,0,0.051948051948052,0.948051948051948,1,1.94805194805195
+15,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.23713853677661,12.69,NA,74,74,0,4,70,0,0,0,0.0540540540540541,0.945945945945946,1,1.94594594594595
+16,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.19966274203159,12.73,NA,60,60,0,1,59,0,0,0,0.0166666666666667,0.983333333333333,1,1.98333333333333
+17,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.13520830039451,12.75,NA,63,63,0,2,61,0,0,0,0.0317460317460317,0.968253968253968,1,1.96825396825397
+18,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.31766842122437,12.83,NA,58,58,0,4,54,0,0,0,0.0689655172413793,0.931034482758621,1,1.93103448275862
+19,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.18326334808509,12.17,NA,66,66,0,5,61,0,0,0,0.0757575757575758,0.924242424242424,1,1.92424242424242
+20,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.26806202122233,12.62,NA,67,67,0,0,67,0,0,0,0,1,1,2
+21,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.0964733606064,12.19,NA,56,56,0,2,54,0,0,0,0.0357142857142857,0.964285714285714,1,1.96428571428571
+22,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.18435133025544,12.48,NA,64,64,0,6,58,0,0,0,0.09375,0.90625,1,1.90625
+23,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.42912526648673,13.7,NA,57,57,0,2,55,0,0,0,0.0350877192982456,0.964912280701754,1,1.96491228070175
+24,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.20474918657446,13.06,NA,55,55,0,2,53,0,0,0,0.0363636363636364,0.963636363636364,1,1.96363636363636
+25,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.11847056094913,12.95,NA,51,51,0,4,47,0,0,0,0.0784313725490196,0.92156862745098,1,1.92156862745098
+26,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.35621643066112,12.56,NA,53,53,0,4,49,0,0,0,0.0754716981132075,0.924528301886792,1,1.92452830188679
+27,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.20904399636361,12.58,NA,68,68,0,1,67,0,0,0,0.0147058823529412,0.985294117647059,1,1.98529411764706
+28,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.1821002126657,13.33,NA,78,78,0,4,74,0,0,0,0.0512820512820513,0.948717948717949,1,1.94871794871795
+29,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.57390678170209,12.97,NA,59,59,0,3,56,0,0,0,0.0508474576271186,0.949152542372881,1,1.94915254237288
+30,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.27890141141532,13.02,NA,59,59,0,3,56,0,0,0,0.0508474576271186,0.949152542372881,1,1.94915254237288
+31,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.16792315642179,12.25,NA,47,47,0,3,44,0,0,0,0.0638297872340425,0.936170212765957,1,1.93617021276596
+32,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.28590414429506,12.7,NA,59,59,0,2,57,0,0,0,0.0338983050847458,0.966101694915254,1,1.96610169491525
+33,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.38365697770683,12.66,NA,67,67,0,3,64,0,0,0,0.0447761194029851,0.955223880597015,1,1.95522388059702
+34,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.42319469721266,13.44,NA,68,68,0,3,65,0,0,0,0.0441176470588235,0.955882352941177,1,1.95588235294118
+35,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.35569377024129,12.97,NA,59,59,0,6,53,0,0,0,0.101694915254237,0.898305084745763,1,1.89830508474576
+36,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.37963987235242,13.09,NA,63,63,0,3,60,0,0,0,0.0476190476190476,0.952380952380952,1,1.95238095238095
+37,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.28539980466485,12.64,NA,60,60,0,1,59,0,0,0,0.0166666666666667,0.983333333333333,1,1.98333333333333
+38,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.27210196624517,13.33,NA,68,68,0,1,67,0,0,0,0.0147058823529412,0.985294117647059,1,1.98529411764706
+39,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.31621589799215,12.73,NA,48,48,0,6,42,0,0,0,0.125,0.875,1,1.875
+40,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.3310921189705,13.03,NA,57,57,0,4,53,0,0,0,0.0701754385964912,0.929824561403509,1,1.92982456140351
+41,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.22790324637377,12.93,NA,69,69,0,2,67,0,0,0,0.0289855072463768,0.971014492753623,1,1.97101449275362
+42,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.30518659660882,12.71,NA,59,59,0,4,55,0,0,0,0.0677966101694915,0.932203389830508,1,1.93220338983051
+43,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.33727942244189,12.2,NA,54,54,0,4,50,0,0,0,0.0740740740740741,0.925925925925926,1,1.92592592592593
+44,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.34310967550743,12.64,NA,55,55,0,3,52,0,0,0,0.0545454545454545,0.945454545454545,1,1.94545454545455
+45,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.41016904498217,11.91,NA,62,62,0,4,58,0,0,0,0.0645161290322581,0.935483870967742,1,1.93548387096774
+46,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.21248662731044,12.25,NA,61,61,0,6,55,0,0,0,0.0983606557377049,0.901639344262295,1,1.90163934426229
+47,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.25445978289127,12.38,NA,54,54,0,3,51,0,0,0,0.0555555555555556,0.944444444444444,1,1.94444444444444
+48,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.25618815013432,13.12,NA,55,55,0,3,52,0,0,0,0.0545454545454545,0.945454545454545,1,1.94545454545455
+49,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.15345719289698,12.47,NA,57,57,0,2,55,0,0,0,0.0350877192982456,0.964912280701754,1,1.96491228070175
+50,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.39439645296157,12.61,NA,66,66,0,4,62,0,0,0,0.0606060606060606,0.939393939393939,1,1.93939393939394
+51,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.26038239643569,12.55,NA,50,50,0,4,46,0,0,0,0.08,0.92,1,1.92
+52,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.17307028128967,12.24,NA,51,51,0,2,49,0,0,0,0.0392156862745098,0.96078431372549,1,1.96078431372549
+53,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.26588065255345,12.49,NA,63,63,0,3,60,0,0,0,0.0476190476190476,0.952380952380952,1,1.95238095238095
+54,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.26212537223692,12.22,NA,66,66,0,6,60,0,0,0,0.0909090909090909,0.909090909090909,1,1.90909090909091
+55,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.23519235208109,12.25,NA,57,57,0,2,55,0,0,0,0.0350877192982456,0.964912280701754,1,1.96491228070175
+56,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.41315142600172,11.84,NA,53,53,0,2,51,0,0,0,0.0377358490566038,0.962264150943396,1,1.9622641509434
+57,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.33839494126225,12.35,NA,73,73,0,4,69,0,0,0,0.0547945205479452,0.945205479452055,1,1.94520547945205
+58,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.31922601515268,12.56,NA,55,55,0,1,54,0,0,0,0.0181818181818182,0.981818181818182,1,1.98181818181818
+59,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.50953517265921,12.56,NA,72,72,0,0,72,0,0,0,0,1,1,2
+60,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.2668076117051,12.27,NA,77,77,0,5,72,0,0,0,0.0649350649350649,0.935064935064935,1,1.93506493506494
+61,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.16614451068499,11.61,NA,51,51,0,4,47,0,0,0,0.0784313725490196,0.92156862745098,1,1.92156862745098
+62,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.29346413368764,12.43,NA,53,53,0,4,49,0,0,0,0.0754716981132075,0.924528301886792,1,1.92452830188679
+63,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.10962246359016,12.65,NA,66,66,0,4,62,0,0,0,0.0606060606060606,0.939393939393939,1,1.93939393939394
+64,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.19580222873295,12.86,NA,59,59,0,4,55,0,0,0,0.0677966101694915,0.932203389830508,1,1.93220338983051
+65,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.36533318281612,12.64,NA,68,68,0,3,65,0,0,0,0.0441176470588235,0.955882352941177,1,1.95588235294118
+66,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.20858974287346,12.49,NA,63,63,0,4,59,0,0,0,0.0634920634920635,0.936507936507937,1,1.93650793650794
+67,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.29548645642742,12.57,NA,52,52,0,3,49,0,0,0,0.0576923076923077,0.942307692307692,1,1.94230769230769
+68,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.15631553539608,12.58,NA,58,58,0,5,53,0,0,0,0.0862068965517241,0.913793103448276,1,1.91379310344828
+69,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.29861687024079,12.47,NA,58,58,0,2,56,0,0,0,0.0344827586206897,0.96551724137931,1,1.96551724137931
+70,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.21793287931143,12.05,NA,49,49,0,3,46,0,0,0,0.0612244897959184,0.938775510204082,1,1.93877551020408
+71,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.24333204794082,12.54,NA,64,64,0,2,62,0,0,0,0.03125,0.96875,1,1.96875
+72,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.21568626584898,12.08,NA,53,53,0,3,50,0,0,0,0.0566037735849057,0.943396226415094,1,1.94339622641509
+73,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.18407981365308,12.36,NA,61,61,0,1,60,0,0,0,0.0163934426229508,0.983606557377049,1,1.98360655737705
+74,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.19181686261215,11.87,NA,66,66,0,3,63,0,0,0,0.0454545454545455,0.954545454545455,1,1.95454545454545
+75,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.2496258766529,12.17,NA,61,61,0,1,60,0,0,0,0.0163934426229508,0.983606557377049,1,1.98360655737705
+76,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.28034114439329,12.29,NA,64,64,0,4,60,0,0,0,0.0625,0.9375,1,1.9375
+77,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.2855764280321,12.41,NA,62,62,0,2,60,0,0,0,0.032258064516129,0.967741935483871,1,1.96774193548387
+78,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.24104189818519,12.95,NA,65,65,0,1,64,0,0,0,0.0153846153846154,0.984615384615385,1,1.98461538461538
+79,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.25093343687257,12.54,NA,69,69,0,4,65,0,0,0,0.0579710144927536,0.942028985507246,1,1.94202898550725
+80,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.31352378110956,12.59,NA,59,59,0,1,58,0,0,0,0.0169491525423729,0.983050847457627,1,1.98305084745763
+81,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.11978085525506,12.71,NA,69,69,0,2,67,0,0,0,0.0289855072463768,0.971014492753623,1,1.97101449275362
+82,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.309017778426,12.81,NA,70,70,0,5,65,0,0,0,0.0714285714285714,0.928571428571429,1,1.92857142857143
+83,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.22901989235978,12.91,NA,69,69,0,1,68,0,0,0,0.0144927536231884,0.985507246376812,1,1.98550724637681
+84,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.19773175432269,11.86,NA,72,72,0,2,70,0,0,0,0.0277777777777778,0.972222222222222,1,1.97222222222222
+85,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.30897086403248,12.7,NA,71,71,0,2,69,0,0,0,0.028169014084507,0.971830985915493,1,1.97183098591549
+86,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.34747067478403,12.36,NA,64,64,0,6,58,0,0,0,0.09375,0.90625,1,1.90625
+87,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.28213747252857,12.2,NA,62,62,0,4,58,0,0,0,0.0645161290322581,0.935483870967742,1,1.93548387096774
+88,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.42819789519487,12.56,NA,60,60,0,2,58,0,0,0,0.0333333333333333,0.966666666666667,1,1.96666666666667
+89,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.28609596947255,12.99,NA,71,71,0,3,68,0,0,0,0.0422535211267606,0.957746478873239,1,1.95774647887324
+90,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.2269411350591,12.06,NA,62,62,0,1,61,0,0,0,0.0161290322580645,0.983870967741935,1,1.98387096774194
+91,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.18499200970028,12.37,NA,69,69,0,1,68,0,0,0,0.0144927536231884,0.985507246376812,1,1.98550724637681
+92,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.21060310919636,12.17,NA,57,57,0,3,54,0,0,0,0.0526315789473684,0.947368421052632,1,1.94736842105263
+93,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.32734386475481,12.05,NA,79,79,0,7,72,0,0,0,0.0886075949367089,0.911392405063291,1,1.91139240506329
+94,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.2310488386975,12.36,NA,65,65,0,2,63,0,0,0,0.0307692307692308,0.969230769230769,1,1.96923076923077
+95,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.347805322467,11.76,NA,62,62,0,2,60,0,0,0,0.032258064516129,0.967741935483871,1,1.96774193548387
+96,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.25518028068112,12.72,NA,61,61,0,0,61,0,0,0,0,1,1,2
+97,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.31437904545664,12.04,NA,66,66,0,4,62,0,0,0,0.0606060606060606,0.939393939393939,1,1.93939393939394
+98,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.48224366825879,11.89,NA,62,62,0,4,58,0,0,0,0.0645161290322581,0.935483870967742,1,1.93548387096774
+99,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.26775335025062,11.14,NA,63,63,0,1,62,0,0,0,0.0158730158730159,0.984126984126984,1,1.98412698412698
+100,"continuous",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.44828190013605,9.95999999999998,NA,54,54,0,4,50,0,0,0,0.0740740740740741,0.925925925925926,1,1.92592592592593
+1,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.51810261724327,14.92,NA,129,129,0,7,122,0,0,0,0.0542635658914729,0.945736434108527,1,1.94573643410853
+2,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.40304348291877,15.3,NA,117,117,0,0,117,0,0,0,0,1,1,2
+3,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.60736143439481,15.11,NA,96,96,0,1,95,0,0,0,0.0104166666666667,0.989583333333333,1,1.98958333333333
+4,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.45746353411954,15.28,NA,99,99,0,1,98,0,0,0,0.0101010101010101,0.98989898989899,1,1.98989898989899
+5,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.4279040759674,15.32,NA,112,112,0,2,110,0,0,0,0.0178571428571429,0.982142857142857,1,1.98214285714286
+6,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.45605975371112,14.61,NA,120,120,0,3,117,0,0,0,0.025,0.975,1,1.975
+7,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.36857255998533,14.71,NA,111,111,0,1,110,0,0,0,0.00900900900900901,0.990990990990991,1,1.99099099099099
+8,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.26430832154556,14.06,NA,108,108,0,5,103,0,0,0,0.0462962962962963,0.953703703703704,1,1.9537037037037
+9,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.403732033702,14.85,NA,101,101,0,6,95,0,0,0,0.0594059405940594,0.940594059405941,1,1.94059405940594
+10,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.40858912820727,14.3,NA,104,104,0,2,102,0,0,0,0.0192307692307692,0.980769230769231,1,1.98076923076923
+11,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.23231250803919,14.11,NA,107,107,0,1,106,0,0,0,0.00934579439252336,0.990654205607477,1,1.99065420560748
+12,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.3956447382594,14.69,NA,104,104,0,1,103,0,0,0,0.00961538461538462,0.990384615384615,1,1.99038461538462
+13,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.52704397927697,14.55,NA,92,92,0,0,92,0,0,0,0,1,1,2
+14,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.42036857216048,14.44,NA,129,129,0,16,113,0,0,0,0.124031007751938,0.875968992248062,1,1.87596899224806
+15,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.56128738574372,14.71,NA,100,100,0,1,99,0,0,0,0.01,0.99,1,1.99
+16,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.36854830855132,14.41,NA,100,100,0,1,99,0,0,0,0.01,0.99,1,1.99
+17,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.2177366508352,13.75,NA,129,129,0,4,125,0,0,0,0.0310077519379845,0.968992248062015,1,1.96899224806202
+18,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.59870447797941,14.22,NA,91,91,0,0,91,0,0,0,0,1,1,2
+19,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.31621487845193,13.94,NA,116,116,0,2,114,0,0,0,0.0172413793103448,0.982758620689655,1,1.98275862068966
+20,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.57374387566225,14.28,NA,112,112,0,1,111,0,0,0,0.00892857142857143,0.991071428571429,1,1.99107142857143
+21,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.42871350494119,14.46,NA,94,94,0,0,94,0,0,0,0,1,1,2
+22,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.4561134955031,13.98,NA,95,95,0,2,93,0,0,0,0.0210526315789474,0.978947368421053,1,1.97894736842105
+23,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.46245636543965,14.23,NA,98,98,0,0,98,0,0,0,0,1,1,2
+24,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.50927376500271,14.06,NA,94,94,0,2,92,0,0,0,0.0212765957446809,0.978723404255319,1,1.97872340425532
+25,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.26398560902697,14.23,NA,120,120,0,7,113,0,0,0,0.0583333333333333,0.941666666666667,1,1.94166666666667
+26,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.3984692973989,14.11,NA,113,113,0,3,110,0,0,0,0.0265486725663717,0.973451327433628,1,1.97345132743363
+27,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.31878911308225,14.09,NA,108,108,0,2,106,0,0,0,0.0185185185185185,0.981481481481482,1,1.98148148148148
+28,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.37729233081688,14.11,NA,123,123,0,5,118,0,0,0,0.040650406504065,0.959349593495935,1,1.95934959349593
+29,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.47560685136159,14.45,NA,100,100,0,1,99,0,0,0,0.01,0.99,1,1.99
+30,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.42662147517022,14.14,NA,123,123,0,1,122,0,0,0,0.00813008130081301,0.991869918699187,1,1.99186991869919
+31,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.50112985455964,14.19,NA,119,119,0,6,113,0,0,0,0.0504201680672269,0.949579831932773,1,1.94957983193277
+32,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.55806367201773,14.05,NA,103,103,0,2,101,0,0,0,0.0194174757281553,0.980582524271845,1,1.98058252427184
+33,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.37670650650023,14.72,NA,122,122,0,3,119,0,0,0,0.0245901639344262,0.975409836065574,1,1.97540983606557
+34,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.55899313473524,14.64,NA,117,117,0,2,115,0,0,0,0.0170940170940171,0.982905982905983,1,1.98290598290598
+35,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.65451268125953,14.81,NA,116,116,0,2,114,0,0,0,0.0172413793103448,0.982758620689655,1,1.98275862068966
+36,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.40400581157477,14.71,NA,95,95,0,2,93,0,0,0,0.0210526315789474,0.978947368421053,1,1.97894736842105
+37,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.44683970914607,14.15,NA,106,106,0,0,106,0,0,0,0,1,1,2
+38,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.39743457418742,14.89,NA,113,113,0,2,111,0,0,0,0.0176991150442478,0.982300884955752,1,1.98230088495575
+39,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.36989158241692,14.5,NA,94,94,0,1,93,0,0,0,0.0106382978723404,0.98936170212766,1,1.98936170212766
+40,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.38819456176992,14.45,NA,101,101,0,1,100,0,0,0,0.0099009900990099,0.99009900990099,1,1.99009900990099
+41,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.32191575319735,14,NA,114,114,0,2,112,0,0,0,0.0175438596491228,0.982456140350877,1,1.98245614035088
+42,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.47577740178261,14.11,NA,121,121,0,0,121,0,0,0,0,1,1,2
+43,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.68088631136919,13.38,NA,100,100,0,1,99,0,0,0,0.01,0.99,1,1.99
+44,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.64505308432351,14.16,NA,120,120,0,7,113,0,0,0,0.0583333333333333,0.941666666666667,1,1.94166666666667
+45,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.40443907361392,13.96,NA,87,87,0,0,87,0,0,0,0,1,1,2
+46,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.40129819370107,13.69,NA,101,101,0,0,101,0,0,0,0,1,1,2
+47,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.50109978473592,14.19,NA,105,105,0,0,105,0,0,0,0,1,1,2
+48,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.48290271629788,13.93,NA,104,104,0,2,102,0,0,0,0.0192307692307692,0.980769230769231,1,1.98076923076923
+49,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.3454501709238,13.73,NA,113,113,0,1,112,0,0,0,0.00884955752212389,0.991150442477876,1,1.99115044247788
+50,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.67111023286217,14.18,NA,97,97,0,1,96,0,0,0,0.0103092783505155,0.989690721649485,1,1.98969072164948
+51,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.41699027532964,13.81,NA,113,113,0,1,112,0,0,0,0.00884955752212389,0.991150442477876,1,1.99115044247788
+52,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.28525990770742,13.7,NA,98,98,0,0,98,0,0,0,0,1,1,2
+53,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.49973995797756,13.71,NA,128,128,0,3,125,0,0,0,0.0234375,0.9765625,1,1.9765625
+54,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.24465160132039,14,NA,133,133,0,4,129,0,0,0,0.0300751879699248,0.969924812030075,1,1.96992481203008
+55,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.52298984054279,13.64,NA,111,111,0,2,109,0,0,0,0.018018018018018,0.981981981981982,1,1.98198198198198
+56,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.56223467722246,13.69,NA,93,93,0,0,93,0,0,0,0,1,1,2
+57,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.4947108148275,13.47,NA,108,108,0,2,106,0,0,0,0.0185185185185185,0.981481481481482,1,1.98148148148148
+58,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.51817377469751,13.87,NA,103,103,0,0,103,0,0,0,0,1,1,2
+59,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.52400039742174,13.55,NA,120,120,0,3,117,0,0,0,0.025,0.975,1,1.975
+60,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.1949921733943,13.78,NA,115,115,0,2,113,0,0,0,0.0173913043478261,0.982608695652174,1,1.98260869565217
+61,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.44061643470932,13.69,NA,107,107,0,5,102,0,0,0,0.0467289719626168,0.953271028037383,1,1.95327102803738
+62,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.36228766492402,13.78,NA,107,107,0,2,105,0,0,0,0.0186915887850467,0.981308411214953,1,1.98130841121495
+63,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.38516484973866,13.82,NA,113,113,0,1,112,0,0,0,0.00884955752212389,0.991150442477876,1,1.99115044247788
+64,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.27425684851443,14.33,NA,110,110,0,4,106,0,0,0,0.0363636363636364,0.963636363636364,1,1.96363636363636
+65,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.27903349721288,13.67,NA,116,116,0,1,115,0,0,0,0.00862068965517241,0.991379310344828,1,1.99137931034483
+66,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.27786987693539,14.12,NA,102,102,0,1,101,0,0,0,0.00980392156862745,0.990196078431373,1,1.99019607843137
+67,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.58960893952952,13.42,NA,107,107,0,2,105,0,0,0,0.0186915887850467,0.981308411214953,1,1.98130841121495
+68,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.4039217533091,13.69,NA,107,107,0,0,107,0,0,0,0,1,1,2
+69,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.49646569154115,13.98,NA,105,105,0,3,102,0,0,0,0.0285714285714286,0.971428571428571,1,1.97142857142857
+70,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.35707148029196,14.1,NA,114,114,0,4,110,0,0,0,0.0350877192982456,0.964912280701754,1,1.96491228070175
+71,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.28937395218891,13.89,NA,105,105,0,5,100,0,0,0,0.0476190476190476,0.952380952380952,1,1.95238095238095
+72,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.56053526083414,13.56,NA,89,89,0,1,88,0,0,0,0.0112359550561798,0.98876404494382,1,1.98876404494382
+73,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.28907477147702,13.59,NA,123,123,0,1,122,0,0,0,0.00813008130081301,0.991869918699187,1,1.99186991869919
+74,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.43915102460771,13.64,NA,101,101,0,1,100,0,0,0,0.0099009900990099,0.99009900990099,1,1.99009900990099
+75,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.63721527807076,14.25,NA,110,110,0,1,109,0,0,0,0.00909090909090909,0.990909090909091,1,1.99090909090909
+76,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.46120244203642,13.65,NA,111,111,0,2,109,0,0,0,0.018018018018018,0.981981981981982,1,1.98198198198198
+77,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.32213868716751,13.48,NA,97,97,0,1,96,0,0,0,0.0103092783505155,0.989690721649485,1,1.98969072164948
+78,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.55498381937151,13.62,NA,118,118,0,2,116,0,0,0,0.0169491525423729,0.983050847457627,1,1.98305084745763
+79,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.29982100465421,13.71,NA,104,104,0,1,103,0,0,0,0.00961538461538462,0.990384615384615,1,1.99038461538462
+80,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.68061389788596,13.87,NA,97,97,0,0,97,0,0,0,0,1,1,2
+81,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.13499667461468,13.34,NA,121,121,0,0,121,0,0,0,0,1,1,2
+82,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.51557606906725,13.85,NA,108,108,0,0,108,0,0,0,0,1,1,2
+83,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.45527041601678,13.53,NA,100,100,0,1,99,0,0,0,0.01,0.99,1,1.99
+84,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.5010880411314,13.66,NA,111,111,0,1,110,0,0,0,0.00900900900900901,0.990990990990991,1,1.99099099099099
+85,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.61166137748304,13.78,NA,112,112,0,2,110,0,0,0,0.0178571428571429,0.982142857142857,1,1.98214285714286
+86,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.48259137923608,13.89,NA,104,104,0,3,101,0,0,0,0.0288461538461538,0.971153846153846,1,1.97115384615385
+87,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.51065227337211,13.64,NA,111,111,0,3,108,0,0,0,0.027027027027027,0.972972972972973,1,1.97297297297297
+88,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.57944287991714,13.66,NA,100,100,0,1,99,0,0,0,0.01,0.99,1,1.99
+89,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.48289159855167,13.81,NA,106,106,0,2,104,0,0,0,0.0188679245283019,0.981132075471698,1,1.9811320754717
+90,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.45014452571798,13.26,NA,96,96,0,0,96,0,0,0,0,1,1,2
+91,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.46300858536299,14.04,NA,126,126,0,4,122,0,0,0,0.0317460317460317,0.968253968253968,1,1.96825396825397
+92,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.40751119311692,14.14,NA,117,117,0,3,114,0,0,0,0.0256410256410256,0.974358974358974,1,1.97435897435897
+93,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.65692709779044,13.95,NA,101,101,0,2,99,0,0,0,0.0198019801980198,0.98019801980198,1,1.98019801980198
+94,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.53145708758285,13.39,NA,91,91,0,0,91,0,0,0,0,1,1,2
+95,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.63772299968792,13.81,NA,102,102,0,1,101,0,0,0,0.00980392156862745,0.990196078431373,1,1.99019607843137
+96,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.40274027796943,13.61,NA,105,105,0,0,105,0,0,0,0,1,1,2
+97,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.32934673716116,13.38,NA,103,103,0,1,102,0,0,0,0.00970873786407767,0.990291262135922,1,1.99029126213592
+98,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.63669540408381,13.2,NA,97,97,0,2,95,0,0,0,0.0206185567010309,0.979381443298969,1,1.97938144329897
+99,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.45973286358949,11.22,NA,117,117,0,2,115,0,0,0,0.0170940170940171,0.982905982905983,1,1.98290598290598
+100,"continuous",2,"Purely linear","RuleFit (max depth 2)",TRUE,"MSE",1.70120344691489,9.81,NA,99,99,0,1,98,0,0,0,0.0101010101010101,0.98989898989899,1,1.98989898989899
+1,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.42064375301967,14.89,NA,120,120,0,5,115,0,0,0,0.0416666666666667,0.958333333333333,1,1.95833333333333
+2,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.36396438607243,15.01,NA,102,102,0,2,100,0,0,0,0.0196078431372549,0.980392156862745,1,1.98039215686275
+3,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.41140202187133,14.75,NA,89,89,0,2,87,0,0,0,0.0224719101123595,0.97752808988764,1,1.97752808988764
+4,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.41615743900538,14.7,NA,91,91,0,0,91,0,0,0,0,1,1,2
+5,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.28178039750623,14.71,NA,96,96,0,1,95,0,0,0,0.0104166666666667,0.989583333333333,1,1.98958333333333
+6,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.38559641381871,13.43,NA,92,92,0,2,90,0,0,0,0.0217391304347826,0.978260869565217,1,1.97826086956522
+7,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.29952043601724,14.25,NA,105,105,0,0,105,0,0,0,0,1,1,2
+8,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.23925235278822,13.72,NA,89,89,0,1,88,0,0,0,0.0112359550561798,0.98876404494382,1,1.98876404494382
+9,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.33248984888392,13.91,NA,94,94,0,1,93,0,0,0,0.0106382978723404,0.98936170212766,1,1.98936170212766
+10,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.25509029509433,13.98,NA,106,106,0,1,105,0,0,0,0.00943396226415094,0.990566037735849,1,1.99056603773585
+11,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.16984270701187,14.06,NA,101,101,0,1,100,0,0,0,0.0099009900990099,0.99009900990099,1,1.99009900990099
+12,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.26289418552198,14.39,NA,90,90,0,0,90,0,0,0,0,1,1,2
+13,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.31791303755786,14.11,NA,86,86,0,1,85,0,0,0,0.0116279069767442,0.988372093023256,1,1.98837209302326
+14,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.47080919668334,14.19,NA,100,100,0,1,99,0,0,0,0.01,0.99,1,1.99
+15,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.36459633798319,14.23,NA,118,118,0,2,116,0,0,0,0.0169491525423729,0.983050847457627,1,1.98305084745763
+16,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.21749116192869,14.46,NA,93,93,0,1,92,0,0,0,0.010752688172043,0.989247311827957,1,1.98924731182796
+17,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.15463786247179,13.81,NA,92,92,0,2,90,0,0,0,0.0217391304347826,0.978260869565217,1,1.97826086956522
+18,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.4136321547019,13.51,NA,86,86,0,0,86,0,0,0,0,1,1,2
+19,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.30408967740436,13.73,NA,95,95,0,0,95,0,0,0,0,1,1,2
+20,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.37350684799125,13.87,NA,101,101,0,3,98,0,0,0,0.0297029702970297,0.97029702970297,1,1.97029702970297
+21,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.18354667601789,14.14,NA,93,93,0,2,91,0,0,0,0.021505376344086,0.978494623655914,1,1.97849462365591
+22,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.36379033270158,14.08,NA,98,98,0,1,97,0,0,0,0.0102040816326531,0.989795918367347,1,1.98979591836735
+23,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.52546475611698,14.28,NA,87,87,0,0,87,0,0,0,0,1,1,2
+24,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.30387110114873,14.12,NA,116,116,0,6,110,0,0,0,0.0517241379310345,0.948275862068966,1,1.94827586206897
+25,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.15488516216237,13.75,NA,87,87,0,2,85,0,0,0,0.0229885057471264,0.977011494252874,1,1.97701149425287
+26,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.3239617326731,13.64,NA,98,98,0,3,95,0,0,0,0.0306122448979592,0.969387755102041,1,1.96938775510204
+27,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.29171280994837,14.15,NA,94,94,0,0,94,0,0,0,0,1,1,2
+28,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.31253460095764,14.04,NA,114,114,0,4,110,0,0,0,0.0350877192982456,0.964912280701754,1,1.96491228070175
+29,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.49840317972344,14.19,NA,86,86,0,1,85,0,0,0,0.0116279069767442,0.988372093023256,1,1.98837209302326
+30,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.38807210216622,14.02,NA,96,96,0,1,95,0,0,0,0.0104166666666667,0.989583333333333,1,1.98958333333333
+31,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.40446087934306,13.98,NA,82,82,0,0,82,0,0,0,0,1,1,2
+32,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.41473870843016,14.17,NA,79,79,0,0,79,0,0,0,0,1,1,2
+33,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.43575206335303,14.25,NA,101,101,0,0,101,0,0,0,0,1,1,2
+34,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.46516910658052,14.78,NA,103,103,0,0,103,0,0,0,0,1,1,2
+35,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.49705409544283,14.47,NA,96,96,0,0,96,0,0,0,0,1,1,2
+36,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.3455179922573,14.14,NA,92,92,0,1,91,0,0,0,0.0108695652173913,0.989130434782609,1,1.98913043478261
+37,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.34533067229149,14.13,NA,100,100,0,0,100,0,0,0,0,1,1,2
+38,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.31761010794092,14.37,NA,100,100,0,1,99,0,0,0,0.01,0.99,1,1.99
+39,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.33572031917144,14.14,NA,100,100,0,0,100,0,0,0,0,1,1,2
+40,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.31251852914311,13.75,NA,106,106,0,1,105,0,0,0,0.00943396226415094,0.990566037735849,1,1.99056603773585
+41,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.25820129594884,14.14,NA,98,98,0,0,98,0,0,0,0,1,1,2
+42,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.36765983471824,13.9,NA,87,87,0,0,87,0,0,0,0,1,1,2
+43,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.48135059743387,13.67,NA,95,95,0,0,95,0,0,0,0,1,1,2
+44,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.39457026784411,14,NA,93,93,0,1,92,0,0,0,0.010752688172043,0.989247311827957,1,1.98924731182796
+45,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.42099468852153,13.75,NA,85,85,0,0,85,0,0,0,0,1,1,2
+46,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.35281229276088,13.73,NA,79,79,0,0,79,0,0,0,0,1,1,2
+47,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.47086801090691,13.41,NA,79,79,0,0,79,0,0,0,0,1,1,2
+48,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.31356304273189,14.14,NA,100,100,0,2,98,0,0,0,0.02,0.98,1,1.98
+49,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.21183160857555,13.91,NA,111,111,0,2,109,0,0,0,0.018018018018018,0.981981981981982,1,1.98198198198198
+50,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.44168082118045,14.1,NA,108,108,0,1,107,0,0,0,0.00925925925925926,0.990740740740741,1,1.99074074074074
+51,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.31195984489869,13.77,NA,96,96,0,1,95,0,0,0,0.0104166666666667,0.989583333333333,1,1.98958333333333
+52,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.21760234698548,13.22,NA,86,86,0,0,86,0,0,0,0,1,1,2
+53,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.35771693669247,13.24,NA,95,95,0,2,93,0,0,0,0.0210526315789474,0.978947368421053,1,1.97894736842105
+54,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.27899651946437,13.31,NA,129,129,0,2,127,0,0,0,0.0155038759689922,0.984496124031008,1,1.98449612403101
+55,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.40347286056001,13.37,NA,94,94,0,1,93,0,0,0,0.0106382978723404,0.98936170212766,1,1.98936170212766
+56,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.54263393266641,13.24,NA,84,84,0,0,84,0,0,0,0,1,1,2
+57,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.52081140748093,13.81,NA,77,77,0,0,77,0,0,0,0,1,1,2
+58,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.35034015426281,13.36,NA,87,87,0,1,86,0,0,0,0.0114942528735632,0.988505747126437,1,1.98850574712644
+59,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.48198605337532,14.09,NA,115,115,0,0,115,0,0,0,0,1,1,2
+60,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.23304340078853,13.64,NA,92,92,0,0,92,0,0,0,0,1,1,2
+61,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.30000918253569,12.83,NA,94,94,0,4,90,0,0,0,0.0425531914893617,0.957446808510638,1,1.95744680851064
+62,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.23228759403444,13.53,NA,99,99,0,1,98,0,0,0,0.0101010101010101,0.98989898989899,1,1.98989898989899
+63,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.29772348212832,13.37,NA,112,112,0,0,112,0,0,0,0,1,1,2
+64,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.15319494756487,13.97,NA,92,92,0,1,91,0,0,0,0.0108695652173913,0.989130434782609,1,1.98913043478261
+65,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.30283608840817,13.32,NA,98,98,0,1,97,0,0,0,0.0102040816326531,0.989795918367347,1,1.98979591836735
+66,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.23492244720495,13.83,NA,105,105,0,0,105,0,0,0,0,1,1,2
+67,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.37910829211894,13.41,NA,85,85,0,2,83,0,0,0,0.0235294117647059,0.976470588235294,1,1.97647058823529
+68,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.27571698794016,13.82,NA,110,110,0,1,109,0,0,0,0.00909090909090909,0.990909090909091,1,1.99090909090909
+69,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.32938035530145,13.89,NA,101,101,0,2,99,0,0,0,0.0198019801980198,0.98019801980198,1,1.98019801980198
+70,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.40048653701451,13.71,NA,94,94,0,0,94,0,0,0,0,1,1,2
+71,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.19151678462965,13.61,NA,99,99,0,0,99,0,0,0,0,1,1,2
+72,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.32828106261484,13.64,NA,90,90,0,0,90,0,0,0,0,1,1,2
+73,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.17627134064246,13.61,NA,107,107,0,0,107,0,0,0,0,1,1,2
+74,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.23972910275313,13.74,NA,95,95,0,0,95,0,0,0,0,1,1,2
+75,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.33722916071875,13.84,NA,103,103,0,2,101,0,0,0,0.0194174757281553,0.980582524271845,1,1.98058252427184
+76,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.50877847035993,13.41,NA,91,91,0,0,91,0,0,0,0,1,1,2
+77,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.28513529679001,13.97,NA,104,104,0,2,102,0,0,0,0.0192307692307692,0.980769230769231,1,1.98076923076923
+78,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.36671240183866,13.77,NA,98,98,0,1,97,0,0,0,0.0102040816326531,0.989795918367347,1,1.98979591836735
+79,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.21526140476594,13.86,NA,105,105,0,0,105,0,0,0,0,1,1,2
+80,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.44398803545822,13.46,NA,92,92,0,0,92,0,0,0,0,1,1,2
+81,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.09967027356282,13.93,NA,124,124,0,3,121,0,0,0,0.0241935483870968,0.975806451612903,1,1.9758064516129
+82,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.4807637955253,13.33,NA,93,93,0,0,93,0,0,0,0,1,1,2
+83,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.33200515016267,13.94,NA,107,107,0,0,107,0,0,0,0,1,1,2
+84,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.30793481463162,13.11,NA,99,99,0,0,99,0,0,0,0,1,1,2
+85,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.39817745826933,13.58,NA,95,95,0,3,92,0,0,0,0.0315789473684211,0.968421052631579,1,1.96842105263158
+86,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.42289795029742,13.47,NA,92,92,0,0,92,0,0,0,0,1,1,2
+87,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.29707137480715,13.3,NA,91,91,0,0,91,0,0,0,0,1,1,2
+88,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.50264180918681,13.97,NA,98,98,0,0,98,0,0,0,0,1,1,2
+89,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.35547578144547,13.25,NA,109,109,0,1,108,0,0,0,0.00917431192660551,0.990825688073395,1,1.99082568807339
+90,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.27507101992214,13.83,NA,121,121,0,4,117,0,0,0,0.0330578512396694,0.966942148760331,1,1.96694214876033
+91,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.41999813686267,13.75,NA,130,130,0,1,129,0,0,0,0.00769230769230769,0.992307692307692,1,1.99230769230769
+92,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.31597665847064,13.42,NA,104,104,0,2,102,0,0,0,0.0192307692307692,0.980769230769231,1,1.98076923076923
+93,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.49171037403339,13.56,NA,87,87,0,2,85,0,0,0,0.0229885057471264,0.977011494252874,1,1.97701149425287
+94,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.35739897655989,13.78,NA,86,86,0,0,86,0,0,0,0,1,1,2
+95,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.35956819772067,13.64,NA,105,105,0,3,102,0,0,0,0.0285714285714286,0.971428571428571,1,1.97142857142857
+96,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.30302261746239,13.15,NA,100,100,0,0,100,0,0,0,0,1,1,2
+97,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.34905484887054,12.66,NA,93,93,0,1,92,0,0,0,0.010752688172043,0.989247311827957,1,1.98924731182796
+98,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.55838390828803,12,NA,89,89,0,0,89,0,0,0,0,1,1,2
+99,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.4248457511633,10.85,NA,85,85,0,0,85,0,0,0,0,1,1,2
+100,"continuous",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"MSE",1.5515962004828,9.09,NA,103,103,0,2,101,0,0,0,0.0194174757281553,0.980582524271845,1,1.98058252427184
+1,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.37840664281807,8.88,NA,12,12,0,5,7,0,0,0,0.416666666666667,0.583333333333333,1,1.58333333333333
+2,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",2.369004906239,9,NA,26,26,0,12,14,0,0,0,0.461538461538462,0.538461538461538,1,1.53846153846154
+3,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.11801081312073,8.75,NA,16,16,0,11,5,0,0,0,0.6875,0.3125,1,1.3125
+4,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.03859161385455,9.39,NA,18,18,0,6,12,0,0,0,0.333333333333333,0.666666666666667,1,1.66666666666667
+5,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.36114372443843,9.36,NA,10,10,0,5,5,0,0,0,0.5,0.5,1,1.5
+6,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.67288207148039,9.66,NA,22,22,0,4,18,0,0,0,0.181818181818182,0.818181818181818,1,1.81818181818182
+7,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.03451325517011,8.99,NA,26,26,0,11,15,0,0,0,0.423076923076923,0.576923076923077,1,1.57692307692308
+8,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.13264522352955,8.7,NA,12,12,0,1,11,0,0,0,0.0833333333333333,0.916666666666667,1,1.91666666666667
+9,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.94877524833254,8.66,NA,9,9,0,4,5,0,0,0,0.444444444444444,0.555555555555556,1,1.55555555555556
+10,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.54848838640902,9.04,NA,12,12,0,2,10,0,0,0,0.166666666666667,0.833333333333333,1,1.83333333333333
+11,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.19698494900434,9.34,NA,36,36,0,16,20,0,0,0,0.444444444444444,0.555555555555556,1,1.55555555555556
+12,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.61094112687058,8.53,NA,16,16,0,7,9,0,0,0,0.4375,0.5625,1,1.5625
+13,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.27972213528958,9.26,NA,18,18,0,1,17,0,0,0,0.0555555555555556,0.944444444444444,1,1.94444444444444
+14,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.04324562809577,9.58,NA,21,21,0,5,16,0,0,0,0.238095238095238,0.761904761904762,1,1.76190476190476
+15,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.98896153979759,9.04,NA,27,27,0,14,13,0,0,0,0.518518518518518,0.481481481481481,1,1.48148148148148
+16,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",2.3185806302767,10.06,NA,40,40,0,23,17,0,0,0,0.575,0.425,1,1.425
+17,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.6188817901591,9.52999999999999,NA,31,31,0,15,16,0,0,0,0.483870967741935,0.516129032258065,1,1.51612903225806
+18,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.76791862505239,8.83,NA,15,15,0,11,4,0,0,0,0.733333333333333,0.266666666666667,1,1.26666666666667
+19,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",2.71905680911513,10.04,NA,41,41,0,22,19,0,0,0,0.536585365853659,0.463414634146341,1,1.46341463414634
+20,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.14939859234388,8.85,NA,19,19,0,6,13,0,0,0,0.315789473684211,0.684210526315789,1,1.68421052631579
+21,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.79261910583862,9.2,NA,13,13,0,2,11,0,0,0,0.153846153846154,0.846153846153846,1,1.84615384615385
+22,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.41250393554696,9.24,NA,19,19,0,9,10,0,0,0,0.473684210526316,0.526315789473684,1,1.52631578947368
+23,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.81404617629371,9,NA,17,17,0,12,5,0,0,0,0.705882352941177,0.294117647058824,1,1.29411764705882
+24,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.4120446261348,9.25999999999999,NA,17,17,0,8,9,0,0,0,0.470588235294118,0.529411764705882,1,1.52941176470588
+25,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.13672834107636,9.1,NA,4,4,0,1,3,0,0,0,0.25,0.75,1,1.75
+26,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.937890829138,9.14000000000001,NA,18,18,0,8,10,0,0,0,0.444444444444444,0.555555555555556,1,1.55555555555556
+27,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.76600120976718,9.06,NA,34,34,0,13,21,0,0,0,0.382352941176471,0.617647058823529,1,1.61764705882353
+28,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.47268425921568,9.13,NA,16,16,0,6,10,0,0,0,0.375,0.625,1,1.625
+29,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.13490079797611,9.16000000000001,NA,16,16,0,5,11,0,0,0,0.3125,0.6875,1,1.6875
+30,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.09739320076755,8.70999999999999,NA,10,10,0,5,5,0,0,0,0.5,0.5,1,1.5
+31,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.1649130795056,9.07000000000001,NA,15,15,0,8,7,0,0,0,0.533333333333333,0.466666666666667,1,1.46666666666667
+32,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.15629915666209,9.35000000000001,NA,12,12,0,5,7,0,0,0,0.416666666666667,0.583333333333333,1,1.58333333333333
+33,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.67886508064075,9.08,NA,30,30,0,11,19,0,0,0,0.366666666666667,0.633333333333333,1,1.63333333333333
+34,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.90836781835778,9.89,NA,22,22,0,8,14,0,0,0,0.363636363636364,0.636363636363636,1,1.63636363636364
+35,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.33316419090536,10,NA,8,8,0,1,7,0,0,0,0.125,0.875,1,1.875
+36,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.97260531881144,9.34,NA,13,13,0,7,6,0,0,0,0.538461538461538,0.461538461538462,1,1.46153846153846
+37,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.32889282288148,8.81,NA,18,18,0,7,11,0,0,0,0.388888888888889,0.611111111111111,1,1.61111111111111
+38,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.25572699317658,9.52,NA,14,14,0,5,9,0,0,0,0.357142857142857,0.642857142857143,1,1.64285714285714
+39,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.25812426770454,9.70999999999999,NA,33,33,0,19,14,0,0,0,0.575757575757576,0.424242424242424,1,1.42424242424242
+40,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.25612933637614,9.90000000000001,NA,30,30,0,13,17,0,0,0,0.433333333333333,0.566666666666667,1,1.56666666666667
+41,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",2.9675149116384,8.76000000000001,NA,15,15,0,6,9,0,0,0,0.4,0.6,1,1.6
+42,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.72395580256227,9.17,NA,21,21,0,14,7,0,0,0,0.666666666666667,0.333333333333333,1,1.33333333333333
+43,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.90824643601624,9.26000000000001,NA,14,14,0,5,9,0,0,0,0.357142857142857,0.642857142857143,1,1.64285714285714
+44,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.66041663386677,8.67,NA,17,17,0,9,8,0,0,0,0.529411764705882,0.470588235294118,1,1.47058823529412
+45,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.00916431490488,8.94,NA,11,11,0,6,5,0,0,0,0.545454545454545,0.454545454545455,1,1.45454545454545
+46,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.07678454759437,9.12,NA,13,13,0,3,10,0,0,0,0.230769230769231,0.769230769230769,1,1.76923076923077
+47,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.8423460923749,8.5,NA,14,14,0,3,11,0,0,0,0.214285714285714,0.785714285714286,1,1.78571428571429
+48,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.00223766537765,9.24000000000001,NA,30,30,0,17,13,0,0,0,0.566666666666667,0.433333333333333,1,1.43333333333333
+49,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.90794434750911,8.92999999999999,NA,11,11,0,4,7,0,0,0,0.363636363636364,0.636363636363636,1,1.63636363636364
+50,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.05332638626701,9.45,NA,38,38,0,23,15,0,0,0,0.605263157894737,0.394736842105263,1,1.39473684210526
+51,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.74909191667779,8.85999999999999,NA,27,27,0,12,15,0,0,0,0.444444444444444,0.555555555555556,1,1.55555555555556
+52,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.36483498927037,7.96999999999998,NA,13,13,0,6,7,0,0,0,0.461538461538462,0.538461538461538,1,1.53846153846154
+53,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.98050279303183,9.09,NA,26,26,0,16,10,0,0,0,0.615384615384615,0.384615384615385,1,1.38461538461538
+54,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.27150720676526,8.87,NA,13,13,0,7,6,0,0,0,0.538461538461538,0.461538461538462,1,1.46153846153846
+55,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.26105459984919,8.16,NA,8,8,0,4,4,0,0,0,0.5,0.5,1,1.5
+56,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",2.75612980954081,8.84,NA,32,32,0,8,24,0,0,0,0.25,0.75,1,1.75
+57,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.13887349716844,8.32999999999998,NA,19,19,0,14,5,0,0,0,0.736842105263158,0.263157894736842,1,1.26315789473684
+58,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.35764817732115,9.41999999999999,NA,32,32,0,9,23,0,0,0,0.28125,0.71875,1,1.71875
+59,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.06314052909825,8.61999999999998,NA,21,21,0,12,9,0,0,0,0.571428571428571,0.428571428571429,1,1.42857142857143
+60,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.80160627912912,9.23000000000002,NA,14,14,0,6,8,0,0,0,0.428571428571429,0.571428571428571,1,1.57142857142857
+61,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.34602155271867,8.46000000000001,NA,19,19,0,9,10,0,0,0,0.473684210526316,0.526315789473684,1,1.52631578947368
+62,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.01387568883055,8.02000000000001,NA,12,12,0,1,11,0,0,0,0.0833333333333333,0.916666666666667,1,1.91666666666667
+63,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.18032065735438,8.71000000000001,NA,27,27,0,16,11,0,0,0,0.592592592592593,0.407407407407407,1,1.40740740740741
+64,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",2.73586735943287,9.04999999999998,NA,37,37,0,12,25,0,0,0,0.324324324324324,0.675675675675676,1,1.67567567567568
+65,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.07150214271638,8.84999999999999,NA,12,12,0,4,8,0,0,0,0.333333333333333,0.666666666666667,1,1.66666666666667
+66,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.03016220310893,9.69,NA,34,34,0,11,23,0,0,0,0.323529411764706,0.676470588235294,1,1.67647058823529
+67,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.31209451571579,9.48000000000002,NA,27,27,0,6,21,0,0,0,0.222222222222222,0.777777777777778,1,1.77777777777778
+68,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.76568593933181,8.94,NA,16,16,0,5,11,0,0,0,0.3125,0.6875,1,1.6875
+69,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.93916383905923,9.69,NA,19,19,0,4,15,0,0,0,0.210526315789474,0.789473684210526,1,1.78947368421053
+70,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.54326135729045,9.61000000000001,NA,19,19,0,10,9,0,0,0,0.526315789473684,0.473684210526316,1,1.47368421052632
+71,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.92108831434264,9.76999999999998,NA,35,35,0,16,19,0,0,0,0.457142857142857,0.542857142857143,1,1.54285714285714
+72,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",2.41402430641522,8.96000000000001,NA,27,27,0,12,15,0,0,0,0.444444444444444,0.555555555555556,1,1.55555555555556
+73,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.69451483482009,9.22,NA,23,23,0,12,11,0,0,0,0.521739130434783,0.478260869565217,1,1.47826086956522
+74,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.11992702796375,8.5,NA,10,10,0,5,5,0,0,0,0.5,0.5,1,1.5
+75,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.6590371038867,8.77000000000001,NA,26,26,0,12,14,0,0,0,0.461538461538462,0.538461538461538,1,1.53846153846154
+76,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.6264847887443,8.36000000000001,NA,17,17,0,6,11,0,0,0,0.352941176470588,0.647058823529412,1,1.64705882352941
+77,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.13570400807227,9.44000000000003,NA,28,28,0,11,17,0,0,0,0.392857142857143,0.607142857142857,1,1.60714285714286
+78,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.11560159753349,9.31,NA,12,12,0,0,12,0,0,0,0,1,1,2
+79,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.7539220526186,8.63999999999999,NA,13,13,0,1,12,0,0,0,0.0769230769230769,0.923076923076923,1,1.92307692307692
+80,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.26716883332944,9.03999999999999,NA,39,39,0,8,31,0,0,0,0.205128205128205,0.794871794871795,1,1.79487179487179
+81,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.25015686471957,9.59,NA,33,33,0,11,22,0,0,0,0.333333333333333,0.666666666666667,1,1.66666666666667
+82,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.05771266761907,9.00999999999999,NA,20,20,0,7,13,0,0,0,0.35,0.65,1,1.65
+83,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.96395205288358,8.56,NA,10,10,0,5,5,0,0,0,0.5,0.5,1,1.5
+84,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.68123743297227,8.75,NA,12,12,0,4,8,0,0,0,0.333333333333333,0.666666666666667,1,1.66666666666667
+85,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.23711798742073,8.83000000000001,NA,36,36,0,16,20,0,0,0,0.444444444444444,0.555555555555556,1,1.55555555555556
+86,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.48673895939419,9.70999999999998,NA,26,26,0,10,16,0,0,0,0.384615384615385,0.615384615384615,1,1.61538461538462
+87,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",2.898612874028,8.76999999999998,NA,13,13,0,6,7,0,0,0,0.461538461538462,0.538461538461538,1,1.53846153846154
+88,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.13152388533767,8.55000000000001,NA,19,19,0,11,8,0,0,0,0.578947368421053,0.421052631578947,1,1.42105263157895
+89,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",6.15408969182566,8.29000000000002,NA,14,14,0,7,7,0,0,0,0.5,0.5,1,1.5
+90,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.79209338053844,9.28,NA,20,20,0,7,13,0,0,0,0.35,0.65,1,1.65
+91,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.19961486428637,8.31999999999999,NA,16,16,0,9,7,0,0,0,0.5625,0.4375,1,1.4375
+92,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.42663887772649,9.23000000000002,NA,14,14,0,4,10,0,0,0,0.285714285714286,0.714285714285714,1,1.71428571428571
+93,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.49026018420108,9.47999999999999,NA,34,34,0,16,18,0,0,0,0.470588235294118,0.529411764705882,1,1.52941176470588
+94,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",2.9560566771371,9.29999999999998,NA,25,25,0,8,17,0,0,0,0.32,0.68,1,1.68
+95,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",5.31032390250985,9.34999999999999,NA,9,9,0,0,9,0,0,0,0,1,1,2
+96,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.54421245913932,9.60999999999999,NA,18,18,0,8,10,0,0,0,0.444444444444444,0.555555555555556,1,1.55555555555556
+97,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.33353735344714,9.41,NA,33,33,0,16,17,0,0,0,0.484848484848485,0.515151515151515,1,1.51515151515152
+98,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.56755946860425,8.38999999999999,NA,27,27,0,9,18,0,0,0,0.333333333333333,0.666666666666667,1,1.66666666666667
+99,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",3.72153186917226,8.70000000000002,NA,29,29,0,6,23,0,0,0,0.206896551724138,0.793103448275862,1,1.79310344827586
+100,"continuous",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"MSE",4.45021520233173,6.91,NA,20,20,0,6,14,0,0,0,0.3,0.7,1,1.7
+1,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.850855503329873,28.2,NA,30,30,0,0,30,0,0,0,0,1,1,2
+2,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.878252731254358,25.92,NA,48,48,0,0,48,0,0,0,0,1,1,2
+3,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.853115010227471,31.79,NA,42,42,0,0,42,0,0,0,0,1,1,2
+4,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.85315033098197,27.15,NA,39,39,0,0,39,0,0,0,0,1,1,2
+5,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.856953309485399,25.6,NA,36,36,0,0,36,0,0,0,0,1,1,2
+6,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.864814902312835,27.75,NA,38,38,0,0,38,0,0,0,0,1,1,2
+7,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.856837866032655,26.49,NA,26,26,0,0,26,0,0,0,0,1,1,2
+8,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.869716396156031,23.98,NA,31,31,0,0,31,0,0,0,0,1,1,2
+9,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.866717515225894,23.58,NA,33,33,0,1,32,0,0,0,0.0303030303030303,0.96969696969697,1,1.96969696969697
+10,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.839034521274739,21.6,NA,50,50,0,1,49,0,0,0,0.02,0.98,1,1.98
+11,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.87559587091464,24.3,NA,26,26,0,0,26,0,0,0,0,1,1,2
+12,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.837882210474838,23.81,NA,42,42,0,1,41,0,0,0,0.0238095238095238,0.976190476190476,1,1.97619047619048
+13,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.854825531914894,22.89,NA,35,35,0,1,34,0,0,0,0.0285714285714286,0.971428571428571,1,1.97142857142857
+14,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.856078391344289,27.04,NA,37,37,0,0,37,0,0,0,0,1,1,2
+15,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.847640899070258,28.22,NA,36,36,0,0,36,0,0,0,0,1,1,2
+16,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.843454927927713,24.46,NA,24,24,0,0,24,0,0,0,0,1,1,2
+17,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.855276145710928,24.8,NA,33,33,0,0,33,0,0,0,0,1,1,2
+18,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.851251467003701,26.56,NA,43,43,0,0,43,0,0,0,0,1,1,2
+19,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.846854395772425,25.58,NA,35,35,0,0,35,0,0,0,0,1,1,2
+20,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.860733224376536,25.12,NA,33,33,0,0,33,0,0,0,0,1,1,2
+21,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.837589689529704,21.55,NA,27,27,0,0,27,0,0,0,0,1,1,2
+22,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.880574763319102,35.78,NA,46,46,0,1,45,0,0,0,0.0217391304347826,0.978260869565217,1,1.97826086956522
+23,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.86400725839402,22.89,NA,36,36,0,0,36,0,0,0,0,1,1,2
+24,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.891450115588047,26.18,NA,29,29,0,0,29,0,0,0,0,1,1,2
+25,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.878874321775377,23.5,NA,35,35,0,0,35,0,0,0,0,1,1,2
+26,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.858416687842177,25.84,NA,36,36,0,1,35,0,0,0,0.0277777777777778,0.972222222222222,1,1.97222222222222
+27,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.854264719453673,24.51,NA,27,27,0,0,27,0,0,0,0,1,1,2
+28,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.871326813403266,25.17,NA,39,39,0,0,39,0,0,0,0,1,1,2
+29,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.875926850352477,26.89,NA,37,37,0,0,37,0,0,0,0,1,1,2
+30,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.857924493890206,28.02,NA,32,32,0,0,32,0,0,0,0,1,1,2
+31,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.849137210911955,23.87,NA,45,45,0,0,45,0,0,0,0,1,1,2
+32,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.875890391888443,27.1,NA,40,40,0,1,39,0,0,0,0.025,0.975,1,1.975
+33,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.87051052863743,25.45,NA,42,42,0,1,41,0,0,0,0.0238095238095238,0.976190476190476,1,1.97619047619048
+34,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.872371580858666,27.9,NA,36,36,0,0,36,0,0,0,0,1,1,2
+35,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.873119254958878,27.07,NA,37,37,0,0,37,0,0,0,0,1,1,2
+36,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.857366461072966,26.09,NA,33,33,0,0,33,0,0,0,0,1,1,2
+37,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.856392274849014,25.64,NA,27,27,0,0,27,0,0,0,0,1,1,2
+38,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.853092974441289,27.06,NA,32,32,0,0,32,0,0,0,0,1,1,2
+39,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.852132822761983,23.7,NA,26,26,0,0,26,0,0,0,0,1,1,2
+40,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.86195805689735,24.67,NA,30,30,0,0,30,0,0,0,0,1,1,2
+41,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.873577684297635,26.08,NA,39,39,0,0,39,0,0,0,0,1,1,2
+42,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.859093477305543,27.36,NA,35,35,0,0,35,0,0,0,0,1,1,2
+43,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.852699579706154,27.26,NA,32,32,0,1,31,0,0,0,0.03125,0.96875,1,1.96875
+44,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.855889752209631,25.75,NA,35,35,0,0,35,0,0,0,0,1,1,2
+45,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.825648138141384,27.11,NA,36,36,0,0,36,0,0,0,0,1,1,2
+46,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.868981443395894,29.18,NA,39,39,0,1,38,0,0,0,0.0256410256410256,0.974358974358974,1,1.97435897435897
+47,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.867446527112692,23.43,NA,30,30,0,0,30,0,0,0,0,1,1,2
+48,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.852188944156348,24.89,NA,31,31,0,0,31,0,0,0,0,1,1,2
+49,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.865177239876104,24.67,NA,39,39,0,0,39,0,0,0,0,1,1,2
+50,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.879505149613017,22.9299999999999,NA,40,40,0,0,40,0,0,0,0,1,1,2
+51,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.85025245197609,21.67,NA,28,28,0,0,28,0,0,0,0,1,1,2
+52,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.852817041375843,25.74,NA,39,39,0,0,39,0,0,0,0,1,1,2
+53,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.840331645428746,24.83,NA,35,35,0,0,35,0,0,0,0,1,1,2
+54,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.857073720649525,25.42,NA,34,34,0,0,34,0,0,0,0,1,1,2
+55,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.840028200983595,21.26,NA,32,32,0,1,31,0,0,0,0.03125,0.96875,1,1.96875
+56,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.846132774930301,26.12,NA,34,34,0,1,33,0,0,0,0.0294117647058824,0.970588235294118,1,1.97058823529412
+57,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.855579476139218,28.04,NA,31,31,0,0,31,0,0,0,0,1,1,2
+58,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.860553218437599,23.02,NA,37,37,0,0,37,0,0,0,0,1,1,2
+59,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.851279817743232,26.7,NA,45,45,0,0,45,0,0,0,0,1,1,2
+60,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.877371410877824,24.42,NA,47,47,0,0,47,0,0,0,0,1,1,2
+61,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.86954685008449,21.58,NA,35,35,0,1,34,0,0,0,0.0285714285714286,0.971428571428571,1,1.97142857142857
+62,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.866261820878917,24.45,NA,28,28,0,1,27,0,0,0,0.0357142857142857,0.964285714285714,1,1.96428571428571
+63,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.851823872221023,26.08,NA,44,44,0,1,43,0,0,0,0.0227272727272727,0.977272727272727,1,1.97727272727273
+64,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.846934092700893,25.59,NA,39,39,0,0,39,0,0,0,0,1,1,2
+65,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.869951934689145,23.41,NA,40,40,0,0,40,0,0,0,0,1,1,2
+66,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.871833555539962,27.12,NA,36,36,0,0,36,0,0,0,0,1,1,2
+67,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.85379129546111,21.9,NA,26,26,0,0,26,0,0,0,0,1,1,2
+68,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.877182119126438,32.03,NA,45,45,0,1,44,0,0,0,0.0222222222222222,0.977777777777778,1,1.97777777777778
+69,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.876125947495439,25.29,NA,31,31,0,0,31,0,0,0,0,1,1,2
+70,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.881084123790361,23.87,NA,33,33,0,0,33,0,0,0,0,1,1,2
+71,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.868773570315381,23.92,NA,42,42,0,0,42,0,0,0,0,1,1,2
+72,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.857285245146051,26.25,NA,28,28,0,0,28,0,0,0,0,1,1,2
+73,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.852362071302698,26.5,NA,35,35,0,0,35,0,0,0,0,1,1,2
+74,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.841351981351981,25.18,NA,32,32,0,0,32,0,0,0,0,1,1,2
+75,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.861807529439063,27.06,NA,42,42,0,0,42,0,0,0,0,1,1,2
+76,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.860467443777228,31.77,NA,31,31,0,0,31,0,0,0,0,1,1,2
+77,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.851815140626936,22.02,NA,33,33,0,0,33,0,0,0,0,1,1,2
+78,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.872088240133512,28.33,NA,41,41,0,0,41,0,0,0,0,1,1,2
+79,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.832914674194849,24.86,NA,33,33,0,0,33,0,0,0,0,1,1,2
+80,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.858534219843653,22.06,NA,25,25,0,0,25,0,0,0,0,1,1,2
+81,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.861157133151364,25.47,NA,28,28,0,0,28,0,0,0,0,1,1,2
+82,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.866327291365733,24.46,NA,36,36,0,0,36,0,0,0,0,1,1,2
+83,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.864825461770896,27.05,NA,38,38,0,0,38,0,0,0,0,1,1,2
+84,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.869867288421003,26.62,NA,40,40,0,1,39,0,0,0,0.025,0.975,1,1.975
+85,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.861326572399008,22.89,NA,32,32,0,0,32,0,0,0,0,1,1,2
+86,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.851157074042807,26.23,NA,30,30,0,0,30,0,0,0,0,1,1,2
+87,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.874129663075294,28.33,NA,41,41,0,0,41,0,0,0,0,1,1,2
+88,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.866526656272543,23.3099999999999,NA,29,29,0,0,29,0,0,0,0,1,1,2
+89,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.871317631617325,22.34,NA,33,33,0,0,33,0,0,0,0,1,1,2
+90,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.850043343370745,22.97,NA,35,35,0,0,35,0,0,0,0,1,1,2
+91,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.854552247032741,23.11,NA,28,28,0,0,28,0,0,0,0,1,1,2
+92,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.86496214397308,30.86,NA,42,42,0,1,41,0,0,0,0.0238095238095238,0.976190476190476,1,1.97619047619048
+93,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.844950358303239,21.92,NA,29,29,0,0,29,0,0,0,0,1,1,2
+94,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.863552948593817,26.03,NA,35,35,0,2,33,0,0,0,0.0571428571428571,0.942857142857143,1,1.94285714285714
+95,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.856966403162055,28.9400000000001,NA,42,42,0,0,42,0,0,0,0,1,1,2
+96,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.876395185058056,23.33,NA,32,32,0,0,32,0,0,0,0,1,1,2
+97,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.883753710906036,21.14,NA,43,43,0,2,41,0,0,0,0.0465116279069767,0.953488372093023,1,1.95348837209302
+98,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.860754390333559,26.13,NA,31,31,0,0,31,0,0,0,0,1,1,2
+99,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.855015563101302,21.61,NA,29,29,0,0,29,0,0,0,0,1,1,2
+100,"survival",1,"Purely rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.868100874449781,21.97,NA,34,34,0,0,34,0,0,0,0,1,1,2
+1,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.827532784031565,43.78,NA,44,44,0,0,44,0,0,0,0,1,1,2
+2,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.830914853312609,40.33,NA,44,44,0,0,44,0,0,0,0,1,1,2
+3,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.841667113087266,45.25,NA,61,61,0,0,61,0,0,0,0,1,1,2
+4,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.831083597095513,45.14,NA,68,68,0,0,68,0,0,0,0,1,1,2
+5,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.836719810611585,51.66,NA,43,43,0,0,43,0,0,0,0,1,1,2
+6,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.844310662391705,45.11,NA,50,50,0,0,50,0,0,0,0,1,1,2
+7,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.825657857052846,43.8,NA,61,61,0,0,61,0,0,0,0,1,1,2
+8,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.857703181849783,42,NA,50,50,0,0,50,0,0,0,0,1,1,2
+9,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.838831849311242,43.61,NA,45,45,0,0,45,0,0,0,0,1,1,2
+10,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.821396338677868,42.18,NA,55,55,0,0,55,0,0,0,0,1,1,2
+11,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.835748682018395,40,NA,53,53,0,0,53,0,0,0,0,1,1,2
+12,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.835933239411016,41.69,NA,66,66,0,0,66,0,0,0,0,1,1,2
+13,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.816303472346519,43.03,NA,57,57,0,0,57,0,0,0,0,1,1,2
+14,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.839396735429161,42.19,NA,61,61,0,0,61,0,0,0,0,1,1,2
+15,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.820824023490051,44.44,NA,56,56,0,0,56,0,0,0,0,1,1,2
+16,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.83785161260766,40.87,NA,54,54,0,0,54,0,0,0,0,1,1,2
+17,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.842026033330722,40.33,NA,56,56,0,0,56,0,0,0,0,1,1,2
+18,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.818189985288998,47.09,NA,57,57,0,0,57,0,0,0,0,1,1,2
+19,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.827950222891354,41.38,NA,53,53,0,0,53,0,0,0,0,1,1,2
+20,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.84450703251892,41.03,NA,48,48,0,0,48,0,0,0,0,1,1,2
+21,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.845353722828872,41.42,NA,47,47,0,0,47,0,0,0,0,1,1,2
+22,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.853562346693071,42.63,NA,57,57,0,0,57,0,0,0,0,1,1,2
+23,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.841879689536536,46.62,NA,57,57,0,0,57,0,0,0,0,1,1,2
+24,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.853450765232457,42.03,NA,58,58,0,0,58,0,0,0,0,1,1,2
+25,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.834645491664599,42.08,NA,49,49,0,0,49,0,0,0,0,1,1,2
+26,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.830077442481767,42.24,NA,52,52,0,0,52,0,0,0,0,1,1,2
+27,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.835478131098611,41.48,NA,68,68,0,0,68,0,0,0,0,1,1,2
+28,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.812124433503049,40.91,NA,50,50,0,0,50,0,0,0,0,1,1,2
+29,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.862264128993229,43.63,NA,57,57,0,0,57,0,0,0,0,1,1,2
+30,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.845928426580394,44.07,NA,64,64,0,0,64,0,0,0,0,1,1,2
+31,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.840815532148292,44.36,NA,55,55,0,0,55,0,0,0,0,1,1,2
+32,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.837300492847121,43.77,NA,52,52,0,0,52,0,0,0,0,1,1,2
+33,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.835249585726284,43.79,NA,54,54,0,0,54,0,0,0,0,1,1,2
+34,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.847150317892825,41.89,NA,58,58,0,0,58,0,0,0,0,1,1,2
+35,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.852193313816224,41.66,NA,49,49,0,0,49,0,0,0,0,1,1,2
+36,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.847498464591109,41.9,NA,47,47,0,0,47,0,0,0,0,1,1,2
+37,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.836500017484759,42.83,NA,53,53,0,0,53,0,0,0,0,1,1,2
+38,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.845450344173376,44.79,NA,61,61,0,0,61,0,0,0,0,1,1,2
+39,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.824757346097593,40.92,NA,50,50,0,0,50,0,0,0,0,1,1,2
+40,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.831720281968267,42.62,NA,47,47,0,0,47,0,0,0,0,1,1,2
+41,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.856040594238237,41.65,NA,64,64,0,0,64,0,0,0,0,1,1,2
+42,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.850055996435496,38.03,NA,38,38,0,0,38,0,0,0,0,1,1,2
+43,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.836214470591029,41.14,NA,42,42,0,0,42,0,0,0,0,1,1,2
+44,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.849636355319733,42.76,NA,55,55,0,0,55,0,0,0,0,1,1,2
+45,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.823169891880724,44.72,NA,47,47,0,0,47,0,0,0,0,1,1,2
+46,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.841974194606884,38.61,NA,65,65,0,0,65,0,0,0,0,1,1,2
+47,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.82843425436018,39.19,NA,52,52,0,0,52,0,0,0,0,1,1,2
+48,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.840144136470114,44.85,NA,51,51,0,0,51,0,0,0,0,1,1,2
+49,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.830464635613111,38.18,NA,52,52,0,0,52,0,0,0,0,1,1,2
+50,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.852549476414641,45.03,NA,59,59,0,0,59,0,0,0,0,1,1,2
+51,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.841985433209112,40.01,NA,67,67,0,0,67,0,0,0,0,1,1,2
+52,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.846804641097656,39.07,NA,67,67,0,0,67,0,0,0,0,1,1,2
+53,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.838849175303032,45.56,NA,57,57,0,0,57,0,0,0,0,1,1,2
+54,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.834620813835877,38.67,NA,47,47,0,0,47,0,0,0,0,1,1,2
+55,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.822692578607637,39.07,NA,37,37,0,0,37,0,0,0,0,1,1,2
+56,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.835294265214992,43.8,NA,52,52,0,0,52,0,0,0,0,1,1,2
+57,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.829,43.39,NA,65,65,0,0,65,0,0,0,0,1,1,2
+58,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.845452929149258,39.9,NA,55,55,0,0,55,0,0,0,0,1,1,2
+59,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.839031851718553,43.36,NA,53,53,0,0,53,0,0,0,0,1,1,2
+60,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.850479929694009,42.11,NA,60,60,0,0,60,0,0,0,0,1,1,2
+61,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.837489833022343,40.64,NA,47,47,0,0,47,0,0,0,0,1,1,2
+62,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.8256409063416,43.14,NA,51,51,0,0,51,0,0,0,0,1,1,2
+63,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.84380811569427,43.3,NA,63,63,0,0,63,0,0,0,0,1,1,2
+64,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.820381376058573,40.7,NA,52,52,0,0,52,0,0,0,0,1,1,2
+65,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.858194958487546,42.11,NA,56,56,0,0,56,0,0,0,0,1,1,2
+66,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.824462885074457,39.05,NA,41,41,0,0,41,0,0,0,0,1,1,2
+67,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.846126914660831,42.72,NA,64,64,0,0,64,0,0,0,0,1,1,2
+68,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.845936299050074,43.63,NA,57,57,0,0,57,0,0,0,0,1,1,2
+69,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.859465275666066,43.68,NA,66,66,0,0,66,0,0,0,0,1,1,2
+70,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.850103888394182,42.81,NA,57,57,0,0,57,0,0,0,0,1,1,2
+71,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.8581305340849,46,NA,61,61,0,0,61,0,0,0,0,1,1,2
+72,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.811623348092067,41.18,NA,56,56,0,0,56,0,0,0,0,1,1,2
+73,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.832768992878024,39.66,NA,59,59,0,0,59,0,0,0,0,1,1,2
+74,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.81712721136074,41.01,NA,45,45,0,0,45,0,0,0,0,1,1,2
+75,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.827879089301503,39.56,NA,63,63,0,0,63,0,0,0,0,1,1,2
+76,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.841839589647937,42.12,NA,64,64,0,0,64,0,0,0,0,1,1,2
+77,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.833323322361308,43.14,NA,46,46,0,0,46,0,0,0,0,1,1,2
+78,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.839244614251519,39.8,NA,47,47,0,0,47,0,0,0,0,1,1,2
+79,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.821321182402739,42.76,NA,50,50,0,0,50,0,0,0,0,1,1,2
+80,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.832427720799656,42.25,NA,47,47,0,0,47,0,0,0,0,1,1,2
+81,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.832843404100889,40.14,NA,48,48,0,0,48,0,0,0,0,1,1,2
+82,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.851202574525745,42.89,NA,64,64,0,0,64,0,0,0,0,1,1,2
+83,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.812667883763387,47.1700000000001,NA,48,48,0,0,48,0,0,0,0,1,1,2
+84,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.844388072181607,40.73,NA,55,55,0,0,55,0,0,0,0,1,1,2
+85,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.83301244738963,41.6899999999999,NA,51,51,0,0,51,0,0,0,0,1,1,2
+86,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.814802910855064,41.65,NA,48,48,0,0,48,0,0,0,0,1,1,2
+87,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.840291850022183,42.74,NA,44,44,0,0,44,0,0,0,0,1,1,2
+88,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.855286887190926,45.17,NA,64,64,0,0,64,0,0,0,0,1,1,2
+89,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.842530731460506,41.83,NA,58,58,0,0,58,0,0,0,0,1,1,2
+90,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.829899157218485,44.05,NA,59,59,0,0,59,0,0,0,0,1,1,2
+91,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.821863653330619,39.3299999999999,NA,31,31,0,0,31,0,0,0,0,1,1,2
+92,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.85113703351018,46.25,NA,62,62,0,0,62,0,0,0,0,1,1,2
+93,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.829079359937058,45.01,NA,59,59,0,0,59,0,0,0,0,1,1,2
+94,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.834088266238441,43.9400000000001,NA,63,63,0,0,63,0,0,0,0,1,1,2
+95,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.82662779856251,41.0599999999999,NA,66,66,0,0,66,0,0,0,0,1,1,2
+96,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.856878027055614,38.71,NA,59,59,0,0,59,0,0,0,0,1,1,2
+97,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.857865111159027,40.16,NA,57,57,0,0,57,0,0,0,0,1,1,2
+98,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.834490792348509,35.88,NA,62,62,0,0,62,0,0,0,0,1,1,2
+99,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.835294315581677,31.5,NA,52,52,0,0,52,0,0,0,0,1,1,2
+100,"survival",2,"Purely linear","RuleFit (max depth 2)",TRUE,"C-index",0.832591111515041,29.89,NA,55,55,0,0,55,0,0,0,0,1,1,2
+1,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.814555805454034,36.97,NA,49,49,0,0,49,0,0,0,0,1,1,2
+2,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.838202644060955,31.69,NA,51,51,0,0,51,0,0,0,0,1,1,2
+3,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.818175497892913,41.34,NA,64,64,0,0,64,0,0,0,0,1,1,2
+4,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.783202307298693,39.67,NA,44,44,0,0,44,0,0,0,0,1,1,2
+5,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.814919649379109,38.14,NA,42,42,0,0,42,0,0,0,0,1,1,2
+6,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.82687065961935,36.53,NA,53,53,0,0,53,0,0,0,0,1,1,2
+7,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.825054753578645,38.84,NA,45,45,0,0,45,0,0,0,0,1,1,2
+8,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.836350281662782,34.65,NA,40,40,0,0,40,0,0,0,0,1,1,2
+9,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.827651796424287,32.72,NA,60,60,0,0,60,0,0,0,0,1,1,2
+10,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.795612022753342,32.06,NA,45,45,0,0,45,0,0,0,0,1,1,2
+11,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.818861578567605,34.84,NA,48,48,0,0,48,0,0,0,0,1,1,2
+12,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.777618372820219,29.47,NA,43,43,0,0,43,0,0,0,0,1,1,2
+13,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.789402496859119,36.47,NA,35,35,0,0,35,0,0,0,0,1,1,2
+14,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.824035272499104,32.97,NA,58,58,0,1,57,0,0,0,0.0172413793103448,0.982758620689655,1,1.98275862068966
+15,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.79995544142306,37.44,NA,55,55,0,0,55,0,0,0,0,1,1,2
+16,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.823279790722174,34,NA,49,49,0,0,49,0,0,0,0,1,1,2
+17,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.816440266757305,38.77,NA,58,58,0,0,58,0,0,0,0,1,1,2
+18,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.791822337603702,40.05,NA,48,48,0,0,48,0,0,0,0,1,1,2
+19,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.784076494100189,34.64,NA,37,37,0,0,37,0,0,0,0,1,1,2
+20,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.806631740203244,34.17,NA,40,40,0,0,40,0,0,0,0,1,1,2
+21,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.790313131777247,31.83,NA,49,49,0,0,49,0,0,0,0,1,1,2
+22,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.829780793438653,39.27,NA,47,47,0,0,47,0,0,0,0,1,1,2
+23,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.830422021823002,33.27,NA,38,38,0,0,38,0,0,0,0,1,1,2
+24,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.836684940811178,41.74,NA,55,55,0,0,55,0,0,0,0,1,1,2
+25,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.819486983154671,38.43,NA,45,45,0,0,45,0,0,0,0,1,1,2
+26,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.814628155666006,36.23,NA,57,57,0,0,57,0,0,0,0,1,1,2
+27,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.792159150574646,34.68,NA,36,36,0,0,36,0,0,0,0,1,1,2
+28,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.82309122629815,33.19,NA,65,65,0,2,63,0,0,0,0.0307692307692308,0.969230769230769,1,1.96923076923077
+29,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.855931267259896,35.63,NA,52,52,0,0,52,0,0,0,0,1,1,2
+30,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.822309717400927,34.87,NA,48,48,0,0,48,0,0,0,0,1,1,2
+31,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.811961705245709,37.3,NA,47,47,0,0,47,0,0,0,0,1,1,2
+32,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.8359502955209,39.11,NA,65,65,0,1,64,0,0,0,0.0153846153846154,0.984615384615385,1,1.98461538461538
+33,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.836286051298656,36.05,NA,63,63,0,0,63,0,0,0,0,1,1,2
+34,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.808590647918905,36.17,NA,43,43,0,0,43,0,0,0,0,1,1,2
+35,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.83970870580754,33.06,NA,47,47,0,0,47,0,0,0,0,1,1,2
+36,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.823789908513816,36.02,NA,35,35,0,0,35,0,0,0,0,1,1,2
+37,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.802595620538957,34.96,NA,45,45,0,0,45,0,0,0,0,1,1,2
+38,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.808315368808542,38.78,NA,47,47,0,0,47,0,0,0,0,1,1,2
+39,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.806805516464959,31.96,NA,26,26,0,0,26,0,0,0,0,1,1,2
+40,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.805185228881548,33.39,NA,34,34,0,0,34,0,0,0,0,1,1,2
+41,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.823211116652941,35.3,NA,50,50,0,0,50,0,0,0,0,1,1,2
+42,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.820408748566013,36.58,NA,36,36,0,0,36,0,0,0,0,1,1,2
+43,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.81773723598467,38.16,NA,47,47,0,0,47,0,0,0,0,1,1,2
+44,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.80364714891477,33.2,NA,44,44,0,0,44,0,0,0,0,1,1,2
+45,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.787952082007946,38.75,NA,45,45,0,0,45,0,0,0,0,1,1,2
+46,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.813258708525904,34.67,NA,46,46,0,0,46,0,0,0,0,1,1,2
+47,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.828469822977976,32.61,NA,59,59,0,0,59,0,0,0,0,1,1,2
+48,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.810154575714742,38.53,NA,46,46,0,0,46,0,0,0,0,1,1,2
+49,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.806272216488935,35.6,NA,49,49,0,0,49,0,0,0,0,1,1,2
+50,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.852261593223282,34.81,NA,51,51,0,0,51,0,0,0,0,1,1,2
+51,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.826515633127203,33.96,NA,39,39,0,1,38,0,0,0,0.0256410256410256,0.974358974358974,1,1.97435897435897
+52,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.824188516586888,35.44,NA,48,48,0,0,48,0,0,0,0,1,1,2
+53,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.806789121394739,35.79,NA,46,46,0,0,46,0,0,0,0,1,1,2
+54,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.817926455566905,30.19,NA,55,55,0,0,55,0,0,0,0,1,1,2
+55,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.804576787151405,30.14,NA,49,49,0,0,49,0,0,0,0,1,1,2
+56,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.821493717065261,40.33,NA,39,39,0,0,39,0,0,0,0,1,1,2
+57,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.81283322154899,35.53,NA,34,34,0,0,34,0,0,0,0,1,1,2
+58,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.803307033741816,30.56,NA,47,47,0,0,47,0,0,0,0,1,1,2
+59,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.815533705637807,35.65,NA,50,50,0,0,50,0,0,0,0,1,1,2
+60,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.827760867776851,31.84,NA,48,48,0,0,48,0,0,0,0,1,1,2
+61,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.810086308216495,35.19,NA,50,50,0,0,50,0,0,0,0,1,1,2
+62,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.820936639118457,32.29,NA,36,36,0,0,36,0,0,0,0,1,1,2
+63,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.78871388140011,34.98,NA,61,61,0,0,61,0,0,0,0,1,1,2
+64,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.816495126197724,37.22,NA,40,40,0,0,40,0,0,0,0,1,1,2
+65,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.835067434955463,36.43,NA,47,47,0,0,47,0,0,0,0,1,1,2
+66,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.811463091030774,29.44,NA,37,37,0,1,36,0,0,0,0.027027027027027,0.972972972972973,1,1.97297297297297
+67,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.804952528706749,31.55,NA,44,44,0,0,44,0,0,0,0,1,1,2
+68,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.814858449703732,34.89,NA,52,52,0,0,52,0,0,0,0,1,1,2
+69,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.844099542525927,37.86,NA,58,58,0,0,58,0,0,0,0,1,1,2
+70,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.832029629268055,38.33,NA,39,39,0,0,39,0,0,0,0,1,1,2
+71,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.841513866002875,35.3,NA,56,56,0,0,56,0,0,0,0,1,1,2
+72,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.806409160442725,29.5,NA,42,42,0,0,42,0,0,0,0,1,1,2
+73,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.810422441639367,33.05,NA,42,42,0,0,42,0,0,0,0,1,1,2
+74,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.795371540946762,36.23,NA,47,47,0,0,47,0,0,0,0,1,1,2
+75,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.79667108425616,33.99,NA,45,45,0,0,45,0,0,0,0,1,1,2
+76,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.830196009182412,39.5,NA,65,65,0,0,65,0,0,0,0,1,1,2
+77,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.803532413001819,29.94,NA,33,33,0,0,33,0,0,0,0,1,1,2
+78,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.826220739633059,36.26,NA,51,51,0,0,51,0,0,0,0,1,1,2
+79,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.755922803381768,34.54,NA,30,30,0,0,30,0,0,0,0,1,1,2
+80,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.799186587173192,32.91,NA,42,42,0,0,42,0,0,0,0,1,1,2
+81,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.82107059587049,34.47,NA,59,59,0,0,59,0,0,0,0,1,1,2
+82,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.823117338003503,33.81,NA,43,43,0,0,43,0,0,0,0,1,1,2
+83,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.81677860398177,36.1899999999999,NA,50,50,0,0,50,0,0,0,0,1,1,2
+84,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.830752406460894,36.9800000000001,NA,46,46,0,0,46,0,0,0,0,1,1,2
+85,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.809428349715468,32.27,NA,38,38,0,0,38,0,0,0,0,1,1,2
+86,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.781765844711636,32.28,NA,41,41,0,0,41,0,0,0,0,1,1,2
+87,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.827098563145954,37.83,NA,49,49,0,0,49,0,0,0,0,1,1,2
+88,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.82737618301109,34.53,NA,46,46,0,0,46,0,0,0,0,1,1,2
+89,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.824086741551459,33.53,NA,47,47,0,0,47,0,0,0,0,1,1,2
+90,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.797341966263418,34.16,NA,43,43,0,0,43,0,0,0,0,1,1,2
+91,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.795284250217538,36.45,NA,45,45,0,0,45,0,0,0,0,1,1,2
+92,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.827233918342029,37.9300000000001,NA,44,44,0,0,44,0,0,0,0,1,1,2
+93,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.80634236453202,32.6099999999999,NA,38,38,0,0,38,0,0,0,0,1,1,2
+94,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.821640802743726,36.4200000000001,NA,55,55,0,0,55,0,0,0,0,1,1,2
+95,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.802868607530095,36.87,NA,60,60,0,0,60,0,0,0,0,1,1,2
+96,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.827453135848183,32.88,NA,32,32,0,0,32,0,0,0,0,1,1,2
+97,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.832787795043719,30.45,NA,54,54,0,0,54,0,0,0,0,1,1,2
+98,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.819365258172789,31.8099999999999,NA,45,45,0,0,45,0,0,0,0,1,1,2
+99,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.813793103448276,26.84,NA,44,44,0,0,44,0,0,0,0,1,1,2
+100,"survival",3,"Mixed linear and rule-based","RuleFit (max depth 2)",TRUE,"C-index",0.808666436940041,22.55,NA,50,50,0,0,50,0,0,0,0,1,1,2
+1,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.711610779599305,16.83,NA,19,19,0,2,17,0,0,0,0.105263157894737,0.894736842105263,1,1.89473684210526
+2,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.681729134856386,13.97,NA,7,7,0,0,7,0,0,0,0,1,1,2
+3,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.675764868905663,13.88,NA,11,11,0,3,8,0,0,0,0.272727272727273,0.727272727272727,1,1.72727272727273
+4,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.694590220889409,24.63,NA,12,12,0,0,12,0,0,0,0,1,1,2
+5,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.65876904304097,13.48,NA,5,5,0,1,4,0,0,0,0.2,0.8,1,1.8
+6,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.681530489497548,13.82,NA,5,5,0,0,5,0,0,0,0,1,1,2
+7,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.72670302512264,14.41,NA,4,4,0,1,3,0,0,0,0.25,0.75,1,1.75
+8,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.65388165363706,14.42,NA,5,5,0,0,5,0,0,0,0,1,1,2
+9,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.639734353688566,12.98,NA,3,3,0,2,1,0,0,0,0.666666666666667,0.333333333333333,1,1.33333333333333
+10,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.703839649116286,12.5,NA,12,12,0,7,5,0,0,0,0.583333333333333,0.416666666666667,1,1.41666666666667
+11,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.698934214679614,15.45,NA,9,9,0,4,5,0,0,0,0.444444444444444,0.555555555555556,1,1.55555555555556
+12,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.676969022164769,12.52,NA,4,4,0,0,4,0,0,0,0,1,1,2
+13,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.6864314432796,12.99,NA,4,4,0,0,4,0,0,0,0,1,1,2
+14,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.716124151929185,14.97,NA,6,6,0,0,6,0,0,0,0,1,1,2
+15,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.701070231041294,12.66,NA,4,4,0,1,3,0,0,0,0.25,0.75,1,1.75
+16,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.674329326394488,13.99,NA,8,8,0,1,7,0,0,0,0.125,0.875,1,1.875
+17,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.721580252335337,12.19,NA,12,12,0,3,9,0,0,0,0.25,0.75,1,1.75
+18,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.669243473230448,16.53,NA,8,8,0,6,2,0,0,0,0.75,0.25,1,1.25
+19,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.685208081602833,13.66,NA,7,7,0,1,6,0,0,0,0.142857142857143,0.857142857142857,1,1.85714285714286
+20,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.723533805138855,15.35,NA,11,11,0,0,11,0,0,0,0,1,1,2
+21,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.753648886417299,19.03,NA,7,7,0,0,7,0,0,0,0,1,1,2
+22,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.735371556568554,14.09,NA,8,8,0,0,8,0,0,0,0,1,1,2
+23,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.684556262305013,14.66,NA,5,5,0,0,5,0,0,0,0,1,1,2
+24,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.648503995539862,16.02,NA,9,9,0,5,4,0,0,0,0.555555555555556,0.444444444444444,1,1.44444444444444
+25,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.716888953583581,13.7,NA,11,11,0,2,9,0,0,0,0.181818181818182,0.818181818181818,1,1.81818181818182
+26,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.681459493002621,12.42,NA,7,7,0,3,4,0,0,0,0.428571428571429,0.571428571428571,1,1.57142857142857
+27,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.663212863200015,13.07,NA,4,4,0,2,2,0,0,0,0.5,0.5,1,1.5
+28,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.741600095058772,14.4,NA,12,12,0,0,12,0,0,0,0,1,1,2
+29,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.719295967951334,14.95,NA,9,9,0,1,8,0,0,0,0.111111111111111,0.888888888888889,1,1.88888888888889
+30,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.790066370267581,27.35,NA,18,18,0,1,17,0,0,0,0.0555555555555556,0.944444444444444,1,1.94444444444444
+31,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.70173375476434,13.92,NA,4,4,0,2,2,0,0,0,0.5,0.5,1,1.5
+32,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.657738717339667,15.39,NA,4,4,0,0,4,0,0,0,0,1,1,2
+33,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.691933716789921,15.16,NA,9,9,0,2,7,0,0,0,0.222222222222222,0.777777777777778,1,1.77777777777778
+34,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.603297216514104,12.6,NA,3,3,0,0,3,0,0,0,0,1,1,2
+35,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.633913710235455,15.02,NA,2,2,0,0,2,0,0,0,0,1,1,2
+36,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.676814556973682,11.55,NA,6,6,0,1,5,0,0,0,0.166666666666667,0.833333333333333,1,1.83333333333333
+37,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.704489487528683,14.19,NA,7,7,0,1,6,0,0,0,0.142857142857143,0.857142857142857,1,1.85714285714286
+38,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.728376131535193,13.5,NA,16,16,0,5,11,0,0,0,0.3125,0.6875,1,1.6875
+39,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.685645982453174,13.38,NA,8,8,0,1,7,0,0,0,0.125,0.875,1,1.875
+40,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.671261529861176,12.64,NA,5,5,0,1,4,0,0,0,0.2,0.8,1,1.8
+41,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.701071350683338,13.22,NA,5,5,0,0,5,0,0,0,0,1,1,2
+42,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.705857692747437,12.41,NA,4,4,0,0,4,0,0,0,0,1,1,2
+43,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.685907103720815,16.78,NA,6,6,0,0,6,0,0,0,0,1,1,2
+44,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.7059318604095,12.94,NA,4,4,0,1,3,0,0,0,0.25,0.75,1,1.75
+45,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.698683027687882,14.91,NA,8,8,0,1,7,0,0,0,0.125,0.875,1,1.875
+46,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.652343025627712,12.59,NA,4,4,0,3,1,0,0,0,0.75,0.25,1,1.25
+47,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.676399492834925,12.26,NA,7,7,0,2,5,0,0,0,0.285714285714286,0.714285714285714,1,1.71428571428571
+48,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.697246784565916,13.51,NA,11,11,0,1,10,0,0,0,0.0909090909090909,0.909090909090909,1,1.90909090909091
+49,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.702229836247824,16.91,NA,16,16,0,0,16,0,0,0,0,1,1,2
+50,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.660622601990695,14.41,NA,3,3,0,0,3,0,0,0,0,1,1,2
+51,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.732637240220607,20.58,NA,11,11,0,0,11,0,0,0,0,1,1,2
+52,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.732043358372159,15.8,NA,13,13,0,0,13,0,0,0,0,1,1,2
+53,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.696621867732626,11.25,NA,5,5,0,2,3,0,0,0,0.4,0.6,1,1.6
+54,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.698427796628772,10.42,NA,4,4,0,2,2,0,0,0,0.5,0.5,1,1.5
+55,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.707628827182065,13.44,NA,7,7,0,0,7,0,0,0,0,1,1,2
+56,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.649458397371594,12.83,NA,6,6,0,1,5,0,0,0,0.166666666666667,0.833333333333333,1,1.83333333333333
+57,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.719918344878205,15.2,NA,12,12,0,0,12,0,0,0,0,1,1,2
+58,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.734351974653699,13.24,NA,15,15,0,5,10,0,0,0,0.333333333333333,0.666666666666667,1,1.66666666666667
+59,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.70741909512396,15.22,NA,5,5,0,1,4,0,0,0,0.2,0.8,1,1.8
+60,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.737473008139084,18.42,NA,15,15,0,5,10,0,0,0,0.333333333333333,0.666666666666667,1,1.66666666666667
+61,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.657614047358298,15.6,NA,3,3,0,0,3,0,0,0,0,1,1,2
+62,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.730915442804073,13.9,NA,7,7,0,2,5,0,0,0,0.285714285714286,0.714285714285714,1,1.71428571428571
+63,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.700425163807701,15.58,NA,5,5,0,0,5,0,0,0,0,1,1,2
+64,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.613605311178968,16.22,NA,3,3,0,2,1,0,0,0,0.666666666666667,0.333333333333333,1,1.33333333333333
+65,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.645076038151674,14.07,NA,2,2,0,0,2,0,0,0,0,1,1,2
+66,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.675787652522309,14.72,NA,7,7,0,0,7,0,0,0,0,1,1,2
+67,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.675563193083264,12.58,NA,6,6,0,0,6,0,0,0,0,1,1,2
+68,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.694715352851111,14.44,NA,7,7,0,0,7,0,0,0,0,1,1,2
+69,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.718233005264363,47.44,NA,7,7,0,4,3,0,0,0,0.571428571428571,0.428571428571429,1,1.42857142857143
+70,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.714070295628863,17.72,NA,8,8,0,0,8,0,0,0,0,1,1,2
+71,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.64104237845245,13.42,NA,1,1,0,0,1,0,0,0,0,1,1,2
+72,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.717173583650541,14.1,NA,10,10,0,5,5,0,0,0,0.5,0.5,1,1.5
+73,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.715220682215796,13.28,NA,12,12,0,0,12,0,0,0,0,1,1,2
+74,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.716317226266528,13,NA,8,8,0,1,7,0,0,0,0.125,0.875,1,1.875
+75,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.706446727666791,58.48,NA,10,10,0,3,7,0,0,0,0.3,0.7,1,1.7
+76,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.702108200863646,13.95,NA,10,10,0,0,10,0,0,0,0,1,1,2
+77,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.640896138444207,12.16,NA,1,1,0,0,1,0,0,0,0,1,1,2
+78,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.708683309300649,13.53,NA,11,11,0,7,4,0,0,0,0.636363636363636,0.363636363636364,1,1.36363636363636
+79,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.658829676071055,13.71,NA,4,4,0,3,1,0,0,0,0.75,0.25,1,1.25
+80,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.714418136304606,16.95,NA,11,11,0,1,10,0,0,0,0.0909090909090909,0.909090909090909,1,1.90909090909091
+81,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.735666567419703,19.31,NA,12,12,0,0,12,0,0,0,0,1,1,2
+82,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.693636961081753,11.92,NA,4,4,0,0,4,0,0,0,0,1,1,2
+83,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.670620312313525,12.03,NA,3,3,0,0,3,0,0,0,0,1,1,2
+84,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.705672749357095,14.44,NA,4,4,0,1,3,0,0,0,0.25,0.75,1,1.75
+85,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.699109907120743,12.82,NA,5,5,0,0,5,0,0,0,0,1,1,2
+86,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.696310860893428,12.09,NA,6,6,0,1,5,0,0,0,0.166666666666667,0.833333333333333,1,1.83333333333333
+87,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.691167928391182,15.02,NA,7,7,0,1,6,0,0,0,0.142857142857143,0.857142857142857,1,1.85714285714286
+88,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.698441482980957,17.96,NA,4,4,0,0,4,0,0,0,0,1,1,2
+89,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.677549944018284,12.13,NA,2,2,0,0,2,0,0,0,0,1,1,2
+90,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.680988264590283,11,NA,4,4,0,0,4,0,0,0,0,1,1,2
+91,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.676576533307718,15.97,NA,9,9,0,0,9,0,0,0,0,1,1,2
+92,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.681151193882817,13.5,NA,2,2,0,0,2,0,0,0,0,1,1,2
+93,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.67431310255166,12.62,NA,4,4,0,0,4,0,0,0,0,1,1,2
+94,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.5,13.1799999999999,NA,0,0,0,0,0,0,0,0,NA,NA,NA,NA
+95,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.71377418934272,12.86,NA,6,6,0,0,6,0,0,0,0,1,1,2
+96,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.724935149156939,14.25,NA,12,12,0,4,8,0,0,0,0.333333333333333,0.666666666666667,1,1.66666666666667
+97,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.720581916682234,14.25,NA,12,12,0,3,9,0,0,0,0.25,0.75,1,1.75
+98,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.647117332673286,13.77,NA,6,6,0,0,6,0,0,0,0,1,1,2
+99,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.653145710646311,13.55,NA,2,2,0,0,2,0,0,0,0,1,1,2
+100,"survival",4,"Smooth nonlinear misspecified","RuleFit (max depth 2)",TRUE,"C-index",0.726403534828457,15.04,NA,12,12,0,0,12,0,0,0,0,1,1,2

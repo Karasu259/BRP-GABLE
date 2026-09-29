@@ -1,0 +1,15 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.log
+*.tmp
+tmp/
+cache/
+formal_run_logs/
+results/simulation/**/*.rds
+results/real_data/experiment1/*.rds
+results/real_data/experiment2/rulefit_*.rds
+results/real_data/experiment2/gbm_*.rds
+results/real_data/experiment2/random_forest_*.rds
+

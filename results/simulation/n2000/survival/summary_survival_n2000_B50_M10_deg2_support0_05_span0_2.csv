@@ -1,0 +1,29 @@
+"Outcome","Scenario","Scenario_name","method","metric_value.mean","metric_value.sd","metric_value.median","metric_value.n"
+"survival",3,"Mixed linear and rule-based","BRP-GABLE full",8.437598e-01,7.947489e-03,8.438993e-01,1.000000e+02
+"survival",2,"Purely linear","BRP-GABLE full",8.674000e-01,6.742259e-03,8.672174e-01,1.000000e+02
+"survival",1,"Purely rule-based","BRP-GABLE full",8.729156e-01,7.037663e-03,8.736333e-01,1.000000e+02
+"survival",4,"Smooth nonlinear misspecified","BRP-GABLE full",8.211327e-01,8.308846e-03,8.212459e-01,1.000000e+02
+"survival",3,"Mixed linear and rule-based","BRP-GABLE rule-only",8.209520e-01,1.014805e-02,8.214627e-01,1.000000e+02
+"survival",2,"Purely linear","BRP-GABLE rule-only",8.302500e-01,1.004107e-02,8.299977e-01,1.000000e+02
+"survival",1,"Purely rule-based","BRP-GABLE rule-only",8.723500e-01,7.890993e-03,8.737575e-01,1.000000e+02
+"survival",4,"Smooth nonlinear misspecified","BRP-GABLE rule-only",8.192264e-01,8.812627e-03,8.187540e-01,1.000000e+02
+"survival",3,"Mixed linear and rule-based","GABLE",7.852489e-01,1.117186e-02,7.860590e-01,1.000000e+02
+"survival",2,"Purely linear","GABLE",7.379396e-01,1.100392e-02,7.387663e-01,1.000000e+02
+"survival",1,"Purely rule-based","GABLE",8.356056e-01,9.423058e-03,8.363927e-01,1.000000e+02
+"survival",4,"Smooth nonlinear misspecified","GABLE",7.171407e-01,1.356231e-02,7.185225e-01,1.000000e+02
+"survival",3,"Mixed linear and rule-based","GBM",8.304768e-01,9.137403e-03,8.304388e-01,1.000000e+02
+"survival",2,"Purely linear","GBM",8.486393e-01,7.635410e-03,8.482322e-01,1.000000e+02
+"survival",1,"Purely rule-based","GBM",8.632590e-01,8.108730e-03,8.645538e-01,1.000000e+02
+"survival",4,"Smooth nonlinear misspecified","GBM",8.143375e-01,8.894537e-03,8.141700e-01,1.000000e+02
+"survival",3,"Mixed linear and rule-based","Linear",8.191528e-01,8.544003e-03,8.186520e-01,1.000000e+02
+"survival",2,"Purely linear","Linear",8.713364e-01,6.906527e-03,8.714458e-01,1.000000e+02
+"survival",1,"Purely rule-based","Linear",7.768457e-01,1.092054e-02,7.769346e-01,1.000000e+02
+"survival",4,"Smooth nonlinear misspecified","Linear",6.591711e-01,1.046851e-02,6.590078e-01,1.000000e+02
+"survival",3,"Mixed linear and rule-based","Random forest",8.209908e-01,9.525545e-03,8.209838e-01,1.000000e+02
+"survival",2,"Purely linear","Random forest",8.324649e-01,9.052233e-03,8.324526e-01,1.000000e+02
+"survival",1,"Purely rule-based","Random forest",8.562239e-01,8.282749e-03,8.564668e-01,1.000000e+02
+"survival",4,"Smooth nonlinear misspecified","Random forest",7.950741e-01,9.279618e-03,7.952696e-01,1.000000e+02
+"survival",3,"Mixed linear and rule-based","RuleFit",8.353689e-01,8.270233e-03,8.353598e-01,1.000000e+02
+"survival",2,"Purely linear","RuleFit",8.512395e-01,6.925684e-03,8.516120e-01,1.000000e+02
+"survival",1,"Purely rule-based","RuleFit",8.720879e-01,7.122403e-03,8.718755e-01,1.000000e+02
+"survival",4,"Smooth nonlinear misspecified","RuleFit",7.286857e-01,3.252860e-02,7.275470e-01,1.000000e+02

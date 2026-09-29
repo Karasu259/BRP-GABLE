@@ -1,0 +1,4 @@
+"outcome","n","scenarios","simulations_per_scenario","rows","failed","elapsed_minutes","output_dir"
+"continuous",2000,"1:4",100,2800,0,29.6506155014038,"results_appendix_n2000/continuous"
+"binary",2000,"1:4",100,2800,0,125.811478932699,"results_appendix_n2000/binary"
+"survival",2000,"1:4",100,2800,0,251.078471000989,"results_appendix_n2000/survival"
