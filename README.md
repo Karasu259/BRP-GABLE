@@ -4,6 +4,15 @@ This repository contains the R code, numerical results, and figures accompanying
 
 The code covers binary, continuous, and time-to-event outcomes. It includes the main simulation study, supplementary simulations, and both MGUS2 real-data experiments.
 
+## Preprint
+
+The accompanying manuscript is available on arXiv:
+
+Li Y, Wan K, Shimokawa T, and Tanioka K.  
+BRP-GABLE: An Interpretable Rule-Based Prediction Framework for Multiple Outcome Types.  
+arXiv:2609.36839, 2026.  
+https://arxiv.org/abs/2609.36839
+
 ## Repository structure
 
 ```text
